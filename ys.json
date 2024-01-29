@@ -911,6 +911,18 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
     },
 
+{
+      "key": "暮暮动漫",
+      "name": "暮暮🎀动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/mumudm.json"
+    },
+
     {
       "key": "七夜网盘",
       "name": "七夜🚲网盘",
