@@ -40,17 +40,16 @@
     },
 
 {
-     "key":"玩偶PG",
-     "name":"玩偶⚗️臻享4K",
-     "type":3,
-     "api":"csp_Wogg",
-     "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
-     "quickSearch":1, 
-     "changeable":1, 
-     "filterable":1, 
-     "timeout":30, 
-     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
-},
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "玩偶⚗️臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
+    },
 
 {
       "key": "一青叶我_开心玩偶",
@@ -125,16 +124,18 @@
 },
 
 {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "玩偶🍺蓝光4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xyqwogg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
-    },
+     "key":"玩偶PG",
+     "name":"玩偶🍺蓝光4K",
+     "type":3,
+     "api":"csp_Wogg",
+     "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+     "quickSearch":1, 
+     "changeable":1, 
+     "filterable":1, 
+     "timeout":30, 
+     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
+},
+
 
 {
       "key":"校长影视",
