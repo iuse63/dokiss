@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
+"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706541296276/fan.txt;md5;c909e1c1f4523de628060118021ce9ba",
 "wallpaper":"https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
 
 "sites":[
@@ -40,15 +40,14 @@
     },
 
 {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "key": "玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
       "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xyqwogg.jar",
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
 
 {
@@ -98,16 +97,16 @@
       "filterable": 1,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/alisusu.json"
     },
-
 {
-      "key": "玩偶哥哥",
-      "name": "玩偶哥👽4K弹幕",
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "玩偶👽臻享4K",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_XYQHikerAL",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xyqwogg.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "filterable": 1,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
     },
 
 {
