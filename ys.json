@@ -38,16 +38,17 @@
       },
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-
 {
-      "key": "玩偶哥哥",
+      "key": "csp_Panda_玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
+      "api": "csp_Wogg",
+      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240203.jar",
       "type": 3,
-      "api": "csp_WoGG",
       "searchable": 1,
-      "quickSearch": 1,
+      "playerType": 2,
+      "timeout": 30,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
 
 {
@@ -459,7 +460,7 @@
       "name": "小胡🥳影视",
       "type": 1,
       "playerType": 1,
-      "api": "http://c.小胡.icu/api.php/provide/vod/"
+      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/"
     },
 
 {
