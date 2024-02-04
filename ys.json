@@ -976,18 +976,17 @@
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json",
       "timeout": 30
     },
+
     {
-      "key": "易搜网盘",
+      "key": "csp_Yisou",
       "name": "易搜🛸网盘",
       "type": 3,
-      "api": "csp_YiSo",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg.jar",
-      "changeable": 0,
+      "api": "csp_Yisou",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
-      "timeout": 30
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
     },
 
 {
@@ -1005,42 +1004,41 @@
     },    
 
     {
-      "key": "盘搜索网盘",
+      "key": "盘搜",
       "name": "盘搜🚢网盘",
       "type": 3,
-      "api": "csp_PanSearch",
+      "api": "csp_AliPS",
       "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg.jar",
-      "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json",
-      "timeout": 30
+      "filterable": 0
     },
+
     {
-      "key": "小纸条网盘",
+      "key": "Gitcafe",
       "name": "纸条🚃网盘",
       "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg.jar",
+      "api": "csp_Gitcafe",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkx.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json",
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
       "timeout": 30
     },
+
     {
-      "key": "喵狸",
+      "key": "csp_AliPS",
       "name": "喵狸🚂网盘",
       "type": 3,
-      "api": "csp_PanSou",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg.jar",
+      "api": "csp_AliPS",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkx.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json",
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
       "timeout": 30
     },
 
@@ -1048,7 +1046,7 @@
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"01.31接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+{"key":"hl","name":"02.05接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
 
 
