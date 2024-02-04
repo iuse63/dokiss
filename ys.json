@@ -393,6 +393,42 @@
     },
 
 {
+      "key": "荐片影视",
+      "name": "荐片🎬蓝光",
+      "type": 3,
+      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/jianpian.js"
+    },
+
+{
+      "key": "gg",
+      "name": "高光🏝外剧",
+      "type": 3,
+      "api": "csp_WebGGYS",
+      "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ggys.me"
+    },
+
+{
+      "key": "AList",
+      "name": "网盘📕雅雅",
+      "type": 3,
+      "api": "csp_AListBox",
+      "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json#公众号:影视资源站",
+      "style": {
+        "type": "list"
+      }
+    },
+
+{
       "key": "量子资源",
       "name": "量子🥑超清",
       "type": 1,
@@ -762,24 +798,6 @@
     },
 
 {
-      "key": "良人影视",
-      "name": "良人💖App",
-      "type": 3,
-      "api": "csp_qiao",
-      "jar": "https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
-    },
-    {
-      "key": "蓝光影院",
-      "name": "蓝光💖App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "ttps://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
-    },
-    {
       "key": "侠客影院",
       "name": "侠客💖App",
       "type": 3,
@@ -787,6 +805,33 @@
       "jar": "https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads",
       "playerType": 2,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
+    },
+
+{
+      "key": "看球",
+      "name": "看球⚾直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240204.jar;md5;A685C4759799947B937D69FA811BBF25",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "drpy_js_310直播",
+      "name": "体育🏀直播",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      },
+      "ext": "https://d.kstore.space/download/6296/js/310直播.js"
     },
 
 {
