@@ -964,10 +964,10 @@
     },
 
     {
-      "key": "七夜网盘",
-      "name": "七夜🚲网盘",
+      "key": "混合网盘",
+      "name": "混合🚲网盘",
       "type": 3,
-      "api": "csp_Dovx",
+      "api": "csp_HunHePan",
       "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg.jar",
       "changeable": 0,
       "searchable": 1,
@@ -1008,7 +1008,7 @@
       "name": "盘搜🚢网盘",
       "type": 3,
       "api": "csp_AliPS",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg.jar",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
