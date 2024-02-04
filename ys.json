@@ -978,11 +978,11 @@
     },
 
     {
-      "key": "csp_Yisou",
+      "key": "易搜",
       "name": "易搜🛸网盘",
       "type": 3,
       "api": "csp_Yisou",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkx.jar",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
