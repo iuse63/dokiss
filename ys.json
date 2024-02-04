@@ -998,16 +998,16 @@
     },
 
 {
-      "key": "暮暮动漫",
-      "name": "暮暮🎀动漫",
+      "key":"csp_Bili短剧",
+      "name":"哔哩🅱️短剧",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
+      "api": "csp_Bili",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/mumudm.json"
-    },
+      "ext":"http://rihou.vip:55/lib/Bili短剧.json"
+      },
 
     {
       "key": "混合网盘",
