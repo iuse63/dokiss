@@ -396,7 +396,7 @@
       "key": "荐片影视",
       "name": "荐片🎬蓝光",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy2.min.js",
+      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/js/jianpian.js"
