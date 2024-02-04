@@ -785,17 +785,7 @@
       "filterable": 1,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/cokemv.json"
     },
-{
-      "key": "皮皮虾影院",
-      "name": "皮皮虾🥤观影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/pipixia.json"
-    },
+
 {
       "key": "胖虎影视",
       "name": "胖虎🐯影视",
