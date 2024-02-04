@@ -478,17 +478,18 @@
       "filterable": 1,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/xinshijue.json"
     },
-
+    
 {
-      "key": "996",
-      "name": "996🍺影视",
+      "key": "地瓜",
+      "name": "地瓜🍺超清",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkxzx.jar",
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/jiujiuliu.json"
+      "changeable": 0,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
 
 {
