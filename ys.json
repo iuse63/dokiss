@@ -135,7 +135,18 @@
      "timeout":30, 
      "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
 },
-
+{
+     "key":"土豆PG",
+     "name":"土豆🍺蓝光4K",
+     "type":3,
+     "api":"csp_Wogg",
+     "jar": "https://leige9042.tpddns.cn:66/jar/pg.jar",
+     "quickSearch":1, 
+     "changeable":1, 
+     "filterable":1, 
+     "timeout":30, 
+     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ali.lvdoui.top$$$null$$$1$$$"
+},
 
 {
       "key":"校长影视",
