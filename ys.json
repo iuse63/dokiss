@@ -149,16 +149,14 @@
       "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
 },
 
-
 {
-      "key": "厂长",
+      "key": "csp_Czzy",
       "name": "厂长🏭蓝光",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy.min.js",
+      "api": "csp_Czzy",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/cangzan.js"
+      "changeable": 0,
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/cangzan.jar"
     },
 
 { 
@@ -577,7 +575,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.pro/"
+      "ext": "https://www.libvio.pw/"
     },
 
 {
@@ -748,17 +746,15 @@
     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/duojuys.json"
     },
 
-
 {
-      "key": "HDmoli",
-      "name": "魔力💥高清",
+      "key": "厂长",
+      "name": "厂长🏭超清",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
+      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/HDmoli.json"
+      "changeable": 1,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/cangzan.js"
     },
 
 {
