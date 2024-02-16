@@ -102,7 +102,7 @@
       "key": "csp_Panda_玩偶哥哥",
       "name": "玩偶👽臻享4K",
       "api": "csp_Wogg",
-      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240208.jar;md5;888A64F65AAB54892980DED5C6DA9A6E",
+      "jar": "./jar/PandaQ240216.jar",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
@@ -593,7 +593,7 @@
       "name": "快看🏖直连",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "./jar/fix.jar",
+      "jar": "./jar/PandaQ240216.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
