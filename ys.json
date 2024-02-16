@@ -741,22 +741,21 @@
     "name":"多剧🕌影院",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"https://gitee.com/dongchenys/liu/raw/master/json/duojuys.json"
+    "ext":"./json/duojuys.json"
     },
 
 {
       "key": "厂长",
       "name": "厂长🏭超清",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy.min.js",
+      "api": "./js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/cangzan.js"
+      "ext": "./js/cangzan.js"
     },
 
 {
