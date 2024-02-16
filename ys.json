@@ -39,17 +39,16 @@
       },
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
+
 {
-      "key": "csp_Panda_玩偶哥哥",
+      "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
-      "api": "csp_Wogg",
-      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240208.jar;md5;888A64F65AAB54892980DED5C6DA9A6E",
       "type": 3,
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/woggzx.json"
     },
 
 {
@@ -99,16 +98,18 @@
       "filterable": 1,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/alisusu.json"
     },
+
 {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "key": "csp_Panda_玩偶哥哥",
       "name": "玩偶👽臻享4K",
+      "api": "csp_Wogg",
+      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240208.jar;md5;888A64F65AAB54892980DED5C6DA9A6E",
       "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "http://tv.rihou.cc/lib/ttkx.jar",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://tv.rihou.cc/lib/玩偶哥哥.json"
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
 
 {
