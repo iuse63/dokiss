@@ -19,7 +19,7 @@
       "name": "🌥️┃Token┃设置",
       "type": 3,
       "api": "csp_KungFu404",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/alibaba.jar",
+      "jar": "./jar/alibaba.jar",
       "searchable": 0,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
@@ -30,7 +30,7 @@
       "name": "夸克🏬配置",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg2.jar",
+      "jar": "./jar/pg2.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -56,11 +56,10 @@
       "name": "开心🍹臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/kaixinwogg.json"
+      "ext": "./json/kaixinwogg.json"
     },
 
 {
@@ -68,11 +67,11 @@
       "name": "影视车🚛臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xyqwogg.jar",
+      "jar": "./jar/xyqwogg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/yingshiche.json"
+      "ext": "./json/yingshiche.json"
     },
 
 {
@@ -158,7 +157,7 @@
       "api": "csp_Czzy",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/cangzan.jar"
+      "jar": "./jar/cangzan.jar"
     },
 
 { 
@@ -471,11 +470,10 @@
       "name": "视觉🔥影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/xinshijue.json"
+      "ext": "./json/xinshijue.json"
     },
     
 {
@@ -483,7 +481,7 @@
       "name": "地瓜🍺超清",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
+      "jar": "./jar/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -511,8 +509,7 @@
   "name": "one🥰短剧",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
-  "ext": "https://gitee.com/dongchenys/liu/raw/master/json/oneduanju.json"
+  "ext": "./json/oneduanju.json"
     },
 
 {
@@ -520,7 +517,7 @@
       "name": "Free🌴直连",
       "type": 3,
       "api": "csp_CandyMuj_freeok",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/candymuj.jar",
+      "jar": "./jar/candymuj.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
@@ -531,7 +528,7 @@
       "name": "耐看🌃直连",
       "type": 3,
       "api": "csp_CandyMuj_nkvod",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/candymuj.jar",
+      "jar": "./jar/candymuj.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
@@ -541,11 +538,11 @@
       "key": "短视频",
       "name": "网红📱美女",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/duanshiping.js"
+      "ext": "./js/duanshiping.js"
     },
 
 {
@@ -562,7 +559,7 @@
       "key": "JustLive",
       "name": "游戏👑直播",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy.min.js",
+      "api": "./js/drpy.min.js",
       "searchable": 0,
       "changeable": 0,
       "ext": "https://notabug.org/dongchenys/pt/raw/json/js/justlive.js"
@@ -584,7 +581,7 @@
       "key": "Bdys_spider",
       "name": "哔滴💧直连",
       "api": "csp_Bdys01",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/fix.jar",
+      "jar": "./jar/fix.jar",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
@@ -597,7 +594,7 @@
       "name": "看看🏖直连",
       "type": 3,
       "api": "csp_KanKan",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/fix.jar",
+      "jar": "./jar/fix.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -608,12 +605,11 @@
       "name": "子子🐰蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/zizi.json"
+      "ext": "./json/zizi.json"
     },   
 
 {
@@ -621,7 +617,7 @@
       "name": "星星☘️蓝光",
       "type": 3,
       "api": "csp_Appto",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/fix.jar",
+      "jar": "./jar/fix.jar",
       "playerType": 2,
       "ext": "DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY="
     },
@@ -633,8 +629,7 @@
      "playerType":2,
      "searchable":1,
      "api":"csp_XBPQ",
-     "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
-     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/haoxi.json"
+     "ext":"./json/haoxi.json"
      },  
 
 {
@@ -642,11 +637,10 @@
       "name": "Free🌴蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/freeok.json"
+      "ext": "./json/freeok.json"
     },
 
 {
@@ -654,30 +648,29 @@
       "name": "素白🛰️蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/subaibai.json"
+      "ext": "./json/subaibai.json"
     },
 
 {
       "key": "低端影视",
       "name": "低端⛄影视",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/diduan.js"
+      "ext": "./js/diduan.js"
     },
 
 {
       "key": "Auete影视",
       "name": "奥特🏝影视",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/Auete.js"
+      "ext": "./js/Auete.js"
     },
 
 {
@@ -685,7 +678,7 @@
       "name": "coke🍷影视",
       "type": 3,
       "api": "csp_CandyMuj_cokemv",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/candymuj.jar",
+      "jar": "./jar/candymuj.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
@@ -697,11 +690,10 @@
             "name": "开心🥑资源",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkx.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/dongchenys/liu/raw/master/json/kaixinhkys.json"
+            "ext": "./json/kaixinhkys.json"
         },
 
 {
@@ -719,11 +711,11 @@
       "name": "TVB📭云播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/HeChengChaXiu.jar",
+      "jar": "./jar/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/tvbyun.json"
+      "ext": "./json/tvbyun.json"
     },
 
 {
@@ -732,8 +724,7 @@
      "type":3,"playerType":2,
      "searchable":1,
      "api":"csp_XBPQ",
-     "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
-     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/bt.json"
+     "ext":"./json/bt.json"
      },
 
 {
@@ -763,11 +754,11 @@
       "name": "速映🐨影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/spider1.png",
+      "jar": "./jar/spider1.png",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/suying.json"
+      "ext": "./json/suying.json"
     },
 
 {
@@ -775,11 +766,10 @@
       "name": "可乐🥤观影",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/cokemv.json"
+      "ext": "./json/cokemv.json"
     },
 
 {
@@ -787,11 +777,10 @@
       "name": "胖虎🐯影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/panghuys.json"
+      "ext": "./json/panghuys.json"
     },
 
 {
@@ -859,11 +848,11 @@
       "key": "meowtv_a8yy",
       "name": "A8Y🎻音乐",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/a8yinyue.js"
+      "ext": "./js/a8yinyue.js"
     },
 {
       "key": "虎牙直播js",
@@ -1075,7 +1064,6 @@
       "name": "喵狸🚂网盘",
       "type": 3,
       "api": "csp_AliPS",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkx.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
