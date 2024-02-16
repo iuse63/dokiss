@@ -572,7 +572,7 @@
       "type": 3,
       "api": "csp_Libvio",
       "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/spider1.png",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.libvio.pw/"
