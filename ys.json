@@ -588,16 +588,15 @@
       "searchable": 1,
       "ext": ""
     },
-
 {
-      "key": "看看",
-      "name": "看看🏖直连",
+      "key": "csp_Kuaikan",
+      "name": "快看🏖直连",
       "type": 3,
-      "api": "csp_KanKan",
+      "api": "csp_Kuaikan",
       "jar": "./jar/fix.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
 
 {
