@@ -7,11 +7,11 @@
       "key": "豆瓣",  
       "name": "东辰影视┃加qq群783264601防迷失，接口将在七天后失效，本接口免费，仅做学习交流！",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext":"./lib/douban.js"
+      "ext":"./js/douban.js"
                 },
 
 {
