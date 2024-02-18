@@ -116,7 +116,7 @@
       "name":"影巢🚜臻享4K",
       "type":3,
       "api":"csp_Hdhive",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+      "jar": "./jar/PG.jar",
       "quickSearch":1,
       "changeable":1,
       "filterable":1, 
@@ -129,7 +129,7 @@
      "name":"玩偶🍺蓝光4K",
      "type":3,
      "api":"csp_Wogg",
-     "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+     "jar": "./jar/PG.jar",
      "quickSearch":1, 
      "changeable":1, 
      "filterable":1, 
@@ -142,7 +142,7 @@
       "name":"校长🛶蓝光4K",
       "type":3,
       "api":"csp_XiaoZhang",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+      "jar": "./jar/PG.jar",
       "quickSearch":1, 
       "changeable":1, 
       "filterable":1,
@@ -383,21 +383,21 @@
       "name": "开心😄蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkx.jar",
+      "jar": "./jar/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/kaixinys.json"
+      "ext": "./json/kaixinys.json"
     },
 
 {
       "key": "荐片",
       "name": "荐片🎬蓝光",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy.min.js",
+      "api": "./js/drpy.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://notabug.org/dongchenys/pt/raw/json/js/jianpian.js"
+      "ext": "./js/jianpian.js"
     },
 
 {
@@ -494,14 +494,16 @@
       "name": "小胡🥳影视",
       "type": 1,
       "playerType": 1,
-      "api": "http://xh2.xn--yetu07f.icu/api.php/provide/vod/"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/xiaohu.js"
     },
 
 {
       "key": "种子短剧",
       "name": "种子💮短剧",
       "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/zhongzi.js"
     },
 
 {
