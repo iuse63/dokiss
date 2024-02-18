@@ -127,12 +127,12 @@
       "name":"土豆🥔臻享4K",
       "type":3,
       "api":"csp_Wobg",
-      "jar": "https://atomgit.com/smdy/First/raw/master/Begin/jar/失眠的夜/pg.jar",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg2.jar",
       "quickSearch":1, 
       "changeable":1, 
       "filterable":1,
       "timeout":30,
-      "ext":"https://atomgit.com/smdy/First/raw/master/Begin/json/失眠的夜/pzzx.json$$$https://ali.lvdoui.top$$$null$$$1$$$https://atomgit.com/smdy/First/raw/master/Begin/json/失眠的夜/wogg.json"
+      "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
 },   
 
 {
