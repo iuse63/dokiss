@@ -116,7 +116,7 @@
       "name":"影巢🚜臻享4K",
       "type":3,
       "api":"csp_Hdhive",
-      "jar": "./jar/PG.jar",
+      "jar": "./jar/pg2.jar",
       "quickSearch":1,
       "changeable":1,
       "filterable":1, 
