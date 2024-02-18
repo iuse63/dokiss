@@ -492,17 +492,17 @@
 {
       "key": "小胡",
       "name": "小胡🥳影视",
-      "type": 1,
-      "playerType": 1,
-      "api": "./js/drpy2.min.js",
+      "type": 3,
+      "playerType": 2,
+      "api": "./js/drpy3.min.js",
       "ext": "./js/xiaohu.js"
     },
 
 {
       "key": "种子短剧",
       "name": "种子💮短剧",
-      "type": 1,
-      "api": "./js/drpy2.min.js",
+      "type": 3,
+      "api": "./js/drpy3.min.js",
       "ext": "./js/zhongzi.js"
     },
 
