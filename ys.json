@@ -131,7 +131,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg2.jar",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg.jar",
       "api": "csp_Wobg",
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ali.lvdoui.top"
     },
