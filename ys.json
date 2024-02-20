@@ -16,7 +16,7 @@
 
 {
       "key": "csp_KungFu404",
-      "name": "🌥️┃Token┃设置",
+      "name": "🌥️┃Open原画┃设置",
       "type": 3,
       "api": "csp_KungFu404",
       "jar": "./jar/alibaba.jar",
@@ -27,7 +27,7 @@
 
 {
       "key": "配置中心",
-      "name": "夸克🏬配置",
+      "name": "极速GO原画及夸克🏬配置",
       "type": 3,
       "api": "csp_Config",
       "jar": "./jar/pg2.jar",
