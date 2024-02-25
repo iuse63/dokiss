@@ -39,7 +39,19 @@
       },
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-
+{
+      "key": "csp_WoGG",
+      "name": "💖玩偶影视4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "https://jihulab.com/0004/0/-/raw/main/jx.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "CandyMuj",
+        "filter": "https://notabug.org/dongchenys/pt/raw/json/json/wogg.json"
+      }
+    },
 {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
