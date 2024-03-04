@@ -528,6 +528,7 @@
       "key": "小胡",
       "name": "小胡🥳影视",
       "type": 1,
+      "jar": "./jar/xiaohu.jar",
       "playerType": 3,
       "api": "http://cc.xzam.cn/api.php/provide/vod/"
     },
