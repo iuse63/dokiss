@@ -436,15 +436,12 @@
     },
 
 {
-      "key": "gg",
-      "name": "高光🏝外剧",
+      "key": "nangua",
+      "name": "南瓜🎃影视",
       "type": 3,
-      "api": "csp_WebGGYS",
-      "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ggys.me"
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/南瓜.js"
     },
 
 {
