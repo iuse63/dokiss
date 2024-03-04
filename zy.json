@@ -527,8 +527,8 @@
 {
       "key": "小胡",
       "name": "小胡🥳影视",
-      "type": 3,
-      "playerType": 2,
+      "type": 1,
+      "playerType": 3,
       "api": "http://cc.xzam.cn/api.php/provide/vod/"
     },
 
