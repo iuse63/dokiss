@@ -60,7 +60,7 @@ var rule={
         tabs: `js:
             TABS = [];
             if (html.data.have_ftp_ur == 1) {
-                TABS.push("边下边播超清版")
+                TABS.push("边下边播蓝光版（东辰影视2群：783264601）")
             }
             if (html.data.have_m3u8_ur == 1) {
                 TABS.push("在线点播普清版")
