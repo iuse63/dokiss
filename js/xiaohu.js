@@ -1,6 +1,6 @@
 var rule = {
     title: '小胡',
-    host: 'http://bb.xzam.cn',
+    host: 'http://cc.xzam.cn',
     homeUrl: '/api.php/provide/vod?ac=detail',
     searchUrl: '/api.php/provide/vod?ac=detail&wd=**&pg=fypage',
     detailUrl: '/api.php/provide/vod?ac=detail&ids=fyid',
