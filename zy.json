@@ -184,17 +184,16 @@
       "filterable": 1,
       "ext": "./json/infans.json"
     },
-
 {
-      "key": "csp_Czzy",
-      "name": "厂长🏭蓝光",
+      "key": "厂长蓝光",
+      "name": "厂长🏭超清",
       "type": 3,
-      "api": "csp_Czzy",
+      "api": "./js/drpy.min.js",
       "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/cangzan.jar"
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./js/cangzan.js"
     },
-
 { 
       "key": "csp_SNzy",
       "name": "索尼🐉蓝光",
