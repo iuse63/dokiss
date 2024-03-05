@@ -597,17 +597,15 @@
       "changeable": 0,
       "ext": "https://notabug.org/dongchenys/pt/raw/json/js/justlive.js"
     },        
-
 {
-      "key": "meowtv_Libo",
-      "name": "利播🌕韩剧",
+      "key": "利播蓝光",
+      "name": "利播🌕蓝光",
       "type": 3,
-      "api": "csp_Libvio",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/spider1.png",
-      "searchable": 0,
+      "api": "./js/drpy.min.js",
+      "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.pw/"
+      "ext": "./js/libvio.js"
     },
 
 {
