@@ -599,10 +599,10 @@
     },        
 {
       "key": "利播蓝光",
-      "name": "利播🌕蓝光",
+      "name": "利播🌕韩剧",
       "type": 3,
       "api": "./js/drpy.min.js",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "./js/libvio.js"
