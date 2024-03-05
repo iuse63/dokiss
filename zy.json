@@ -546,14 +546,14 @@
     },
 
 {
-      "key": "csp_CandyMuj_freeok",
-      "name": "Free🌴直连",
+      "key": "酷看",
+      "name": "酷看💡直连",
       "type": 3,
-      "api": "csp_CandyMuj_freeok",
-      "jar": "./jar/candymuj.jar",
+      "api": "csp_Kkys",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
 
 {
