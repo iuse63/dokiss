@@ -765,16 +765,16 @@
     "filterable":0,
     "ext":"./json/duojuys.json"
     },
-
 {
       "key": "厂长",
       "name": "厂长🏭超清",
       "type": 3,
-      "api": "./js/drpy.min.js",
+      "api": "csp_Czsapp",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./js/cangzan.js"
+      "filterable": 1,
+      "ext": "https://bo.czys.me"
     },
 
 {
