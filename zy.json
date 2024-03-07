@@ -651,13 +651,13 @@
     },
 
 {
-     "key":"好戏影视",
-     "name":"好戏🦙蓝光",
+     "key":"可可影视",
+     "name":"可可🦙蓝光",
      "type":3,
      "playerType":2,
      "searchable":1,
      "api":"csp_XBPQ",
-     "ext":"./json/haoxi.json"
+     "ext":"./json/kekeys.json"
      },  
 
 {
