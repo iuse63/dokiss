@@ -538,11 +538,14 @@
     },
 
 {
-  "key": "短剧one",
-  "name": "one🥰短剧",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": "./json/oneduanju.json"
+      "key": "短剧",
+      "name": "one🥰短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "jar": "./jar/pg2.jar",
+      "searchable": 0,
+      "changeable": 1,
+      "ext": "https://www.duanjutv.icu"
     },
 
 {
