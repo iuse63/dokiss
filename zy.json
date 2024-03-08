@@ -760,14 +760,15 @@
 
 {
     "key":"csp_duoju",
-    "name":"多剧🕌影院",
+    "name":"星辰🕌影院",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"./json/duojuys.json"
+    "ext":"./json/xinchen.json"
     },
+    
 {
       "key": "厂长",
       "name": "厂长🏭超清",
