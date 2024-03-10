@@ -718,16 +718,7 @@
       "ext": "./js/dashixiong.js",
       "timeout": 15
     },
-{
-      "key": "大师兄js",
-      "name": "🤍大师兄｜影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dashixiong.js"
-    },
+
 {
       "key": "低端影视",
       "name": "低端⛄影视",
@@ -1154,7 +1145,7 @@
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"03.06接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+{"key":"hl","name":"03.10接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
 
 
