@@ -714,8 +714,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dashixiong.js",
+      "api": "./js/drpy3.min.js",
+      "ext": "./js/dashixiong.js",
       "timeout": 15
     },
 
