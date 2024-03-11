@@ -599,7 +599,32 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://notabug.org/dongchenys/pt/raw/json/js/justlive.js"
-    },        
+    },
+{
+      "key": "Iktv",
+      "name": "KTV🎤音乐",
+      "type": 3,
+      "api": "./js/libvio.js",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "yyt",
+      "name": "音悦台🎵MV",
+      "type": 3,
+      "api": "./js/libvio.js",
+      "searchable": 0
+      },
+{
+      "key": "csp_XYQHikerAL_9995",
+      "name": "9995🐣云盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/9995yunpan.json"
+    },
 {
       "key": "利播蓝光",
       "name": "利播🌕韩剧",
