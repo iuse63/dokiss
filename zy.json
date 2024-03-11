@@ -448,6 +448,7 @@
       "name": "网盘📕雅雅",
       "type": 3,
       "api": "csp_AList",
+      "jar": "./jar/smdy.jar",
       "searchable": 1,
       "changeable": 0,
       "ext": "./json/Alist.json"
