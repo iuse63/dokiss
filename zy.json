@@ -412,16 +412,16 @@
         "其他片"
         ]
     },
-
-{     "key": "开心影视",
-      "name": "开心😄蓝光",
+{
+      "key": "皮皮虾",
+      "name": "皮皮🦐蓝光",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/ttkx.jar",
+      "api": "csp_AppSK",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/kaixinys.json"
+      "filterable": 0,
+      "jar":"./jar/ppx.txt",
+      "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
     },
 
 {
