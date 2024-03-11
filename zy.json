@@ -604,7 +604,7 @@
       "key": "Iktv",
       "name": "KTV🎤音乐",
       "type": 3,
-      "api": "./js/libvio.js",
+      "api": "./js/iktv.js",
       "searchable": 0,
       "changeable": 0
     },
@@ -612,7 +612,7 @@
       "key": "yyt",
       "name": "音悦台🎵MV",
       "type": 3,
-      "api": "./js/libvio.js",
+      "api": "./js/yinyuetai.js",
       "searchable": 0
       },
 {
