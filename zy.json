@@ -184,6 +184,42 @@
       "timeout": 60,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$null$$$1"
     },
+{
+      "key": "影视车",
+      "name": "运输车🚛网盘4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.weixine.link/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
+    },
+{
+      "key": "Ppxzy",
+      "name": "皮皮虾🦐蓝光4K",
+      "type": 3,
+      "api": "csp_Ppxzy",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ppxzy.net$$$null$$$1"
+    },
+{
+      "key": "美剧迷",
+      "name": "美剧迷🐳蓝光4K",
+      "type": 3,
+      "api": "csp_Meijumi",
+      "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.meijumi.xyz/$$$null$$$1"
+    },
 
 {
       "key": "厂长蓝光",
