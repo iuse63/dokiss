@@ -1120,19 +1120,15 @@
       "filterable": 1,
       "ext":"http://rihou.vip:55/lib/Bili短剧.json"
       },
-
-    {
-      "key": "混合网盘",
-      "name": "混合🚲网盘",
+{
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "云盘🚲资源",
       "type": 3,
-      "api": "csp_HunHePan",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg.jar",
-      "changeable": 0,
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json",
-      "timeout": 30
+      "filterable": 1,
+      "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/xyq/云盘资源.json"
     },
 
     {
