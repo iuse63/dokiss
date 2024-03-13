@@ -594,14 +594,14 @@
     },
 
 {
-      "key": "csp_CandyMuj_nkvod",
-      "name": "耐看🌃直连",
+      "key": "Vidhub",
+      "name": "Vidhub🌃影视",
       "type": 3,
-      "api": "csp_CandyMuj_nkvod",
-      "jar": "./jar/candymuj.jar",
+      "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/vidhub.json"
     },
 
 {
@@ -835,14 +835,14 @@
     },
 
 {
-      "key": "csp_CandyMuj_cokemv",
-      "name": "coke🍷影视",
+      "key": "魔力高清",
+      "name": "魔力💥高清",
       "type": 3,
-      "api": "csp_CandyMuj_cokemv",
-      "jar": "./jar/candymuj.jar",
-      "searchable": 1,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1
+      "filterable": 0,
+      "ext": "./js/HDmoli.js"
     },
 
 {
