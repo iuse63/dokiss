@@ -102,7 +102,7 @@
       "key": "csp_Panda_玩偶哥哥",
       "name": "玩偶👽臻享4K",
       "api": "csp_Wogg",
-      "jar": "./jar/PandaQ240216.jar",
+      "jar": "./jar/PandaQ240309.jar",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
@@ -605,6 +605,42 @@
     },
 
 {
+      "key": "秒播影院",
+      "name": "秒播🍓影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/miaobo.json"
+    },
+
+{
+      "key": "毛驴",
+      "name": "毛驴🐴直连",
+      "type": 3,
+      "api": "csp_MLYS",
+      "jar": "./jar/fan0313.txt",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.maolvys.com/"
+    },
+{
+      "key": "zxzj",
+      "name": "在线🍊外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "jar": "./jar/fan0313.txt",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzja.com/"
+    },
+
+{
       "key": "短视频",
       "name": "网红📱美女",
       "type": 3,
@@ -809,17 +845,18 @@
       "filterable": 1
     },
 
-
 {
-            "key": "开心HK影视",
-            "name": "开心🥑资源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/kaixinhkys.json"
-        },
+      "key": "Lib",
+      "name": "立播🌟直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "jar": "./jar/fan0313.txt",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pw/"
+    },
 
 {
       "key": "csp_Yj1211",
