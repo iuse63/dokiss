@@ -852,7 +852,7 @@
       "api": "csp_Libvio",
       "jar": "./jar/fan0313.txt",
       "timeout": 15,
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.libvio.pw/"
