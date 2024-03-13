@@ -39,7 +39,20 @@
       },
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-
+{
+      "key": "短剧网",
+      "name": "🌈短剧┃在线",
+      "type": 3,
+      "api": "csp_Duanju5",
+      "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/myok.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
+    },
 {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
