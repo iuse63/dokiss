@@ -600,7 +600,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/vidhub.json"
+      "ext": "./json/vid.json"
     },
 
 {
