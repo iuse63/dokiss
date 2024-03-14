@@ -59,7 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/kaixin.json"
+      "ext": "./json/kaixinys.json"
     },
 
 {
