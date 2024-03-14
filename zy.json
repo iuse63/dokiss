@@ -815,13 +815,13 @@
     },
 
 {
-      "key": "csp_Ddys",
+      "key": "低端影视",
       "name": "低端⛄影视",
       "type": 3,
-      "api": "csp_Ddys",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1,
+      "ext": "./js/diduan.js"
     },
 
 {
