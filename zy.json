@@ -829,10 +829,10 @@
       "key": "纽约影院",
       "name": "纽约🗽蓝光",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/nycvod.json"
+      "ext": "./js/nycvod.js"
     },
 
 {
@@ -840,7 +840,7 @@
       "name": "盘他🏡蓝光",
       "type": 3,
       "api": "csp_Panta",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
       "changeable": 2,
       "searchable": 1,
       "quickSearch": 1,
