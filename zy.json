@@ -85,7 +85,16 @@
       "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/HeChengChaXiu.jar",
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-
+{
+      "key": "csp_XYQHiker_77zys",
+      "name": "📀77zys(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/77zys.json"
+    },
 {
       "key": "csp_XYQHikerAL_阿里苏苏",
       "name": "苏苏🛰️臻享4K",
@@ -661,14 +670,16 @@
     },
 
 {
-      "key": "JustLive",
+      "key": "csp_Yj1211",
       "name": "游戏👑直播",
       "type": 3,
-      "api": "./js/drpy.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://notabug.org/dongchenys/pt/raw/json/js/justlive.js"
+      "api": "csp_Yj1211",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
+
 {
       "key": "Iktv",
       "name": "KTV🎤音乐",
