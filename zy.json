@@ -845,7 +845,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
       "timeout": 60
     },
 
