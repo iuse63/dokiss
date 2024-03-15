@@ -1259,7 +1259,15 @@
       "timeout": 30
     },
 
-
+{
+            "key": "阿里夸克配置",
+            "name": "配置中心",
+            "type": 3,
+            "api": "csp_Settings",
+            "jar": "./jar/Tong.jar",
+            "searchable": 0,
+            "changeable": 0
+        },
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
