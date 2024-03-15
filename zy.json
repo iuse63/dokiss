@@ -840,12 +840,12 @@
       "name": "盘他🏡蓝光",
       "type": 3,
       "api": "csp_Panta",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+      "jar": "http://www.wya6.cn/tz/wypg.php",
       "changeable": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
       "timeout": 60
     },
 
