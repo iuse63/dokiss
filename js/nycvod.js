@@ -26,7 +26,7 @@ var rule={
 		4:{cateId:'4'},
 		5:{cateId:'5'}
 	},
-    class_parse:'.swiper-wrapper&&li.swiper-slide:lt(6);a&&Text;a&&href;/(\\d+)',
+    class_parse:'.swiper-wrapper&&li.swiper-slide:lt(6);a&&Text;a&&href;/(\\d+)[不包含:海外专线]',
 	class_name:'',
     class_url:'',
     play_parse:true,
