@@ -85,16 +85,7 @@
       "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/HeChengChaXiu.jar",
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-{
-      "key": "csp_XYQHiker_77zys",
-      "name": "📀77zys(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/77zys.json"
-    },
+
 {
       "key": "csp_XYQHikerAL_阿里苏苏",
       "name": "苏苏🛰️臻享4K",
@@ -1202,17 +1193,47 @@
       "filterable": 0,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json",
       "timeout": 60
-    },    
-
-    {
-      "key": "盘搜",
-      "name": "盘搜🚢网盘",
+    },
+{
+      "key": "Funletu",
+      "name": "趣盘搜🛵夸克",
       "type": 3,
-      "api": "csp_AliPS",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
+      "api": "csp_Funletu",
+      "jar": "./jar/PG.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./json/PG推送.json"
+    },
+{
+      "key": "混合盘",
+      "name": "混合盘🚂网盘",
+      "type": 3,
+      "api": "csp_HunHePan",
+      "jar": "./jar/PG.jar",
+      "timeout": 60,
+      "ext": "./json/PG推送.json"
+    },    
+{
+      "key": "csp_XYQHiker_影搜",
+      "name": "影搜⛵网盘",
+      "type": 3,
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "ext": "./json/yingso.json"
+    },
+{
+      "key": "csp_XYQHiker_盘搜索",
+      "name": "盘搜🚢网盘",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/pansearch.json"
     },
 {
       "key": "csp_Upyunso",
