@@ -1261,10 +1261,10 @@
       "ext": "./json/yingso.json"
     },
 {
-      "key": "csp_XYQHiker_77zys",
+      "key": "csp_XYQHikerAL_77zys",
       "name": "77zys⛵网盘",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
