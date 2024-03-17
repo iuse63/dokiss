@@ -5,7 +5,7 @@
   "搜索截取模式": "1",
   "搜索列表数组规则": "#flarum-content&&li",
   "搜索片单是否Jsoup写法": "1",
-  "搜索片单图片": "http://img.vopox.net/wp-content/uploads/2023/03/y2fga2jzwq2.jpg",
+  "搜索片单图片": "",
   "搜索片单标题": "a&&Text",
   "搜索片单链接": "a&&href",
   "搜索片单副标题": "",
