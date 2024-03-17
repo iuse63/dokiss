@@ -1202,7 +1202,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/xyq/云盘资源.json"
+      "ext": "./json/yunpan.json"
     },
     
 {
@@ -1260,26 +1260,7 @@
       "filterable": 1,
       "ext": "./json/yingso.json"
     },
-{
-      "key": "csp_XYQHikerAL_77zys",
-      "name": "77zys⛵网盘",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/77zys.json"
-    },
-{
-      "key": "csp_XYQHikerAL_云盘资源分享",
-      "name": "分享⛵网盘",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/yunpanfx.json"
-    },
+
 {
       "key": "csp_XYQHiker_盘搜索",
       "name": "盘搜🚢网盘",
@@ -1310,12 +1291,44 @@
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
 
+{
+      "key": "csp_XYQHikerAL_77zys",
+      "name": "影视🚄网盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/77zys.json"
+    },
+{
+      "key": "csp_XYQHikerAL_云盘资源分享",
+      "name": "分享🚀网盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/yunpanfx.json"
+    },
+
+{
+      "key": "csp_XYQHikerAL_阿里云盘网",
+      "name": "阿里🚁云盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/alypw.json"
+    },
+
 
 
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"03.15接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+{"key":"hl","name":"03.17接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
 
 
