@@ -1204,17 +1204,16 @@
       "filterable": 1,
       "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/xyq/云盘资源.json"
     },
-
-    {
-      "key": "易搜",
+    
+{
+      "key": "csp_Yisou",
       "name": "易搜🛸网盘",
       "type": 3,
       "api": "csp_Yisou",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+      "ext": "http://127.0.0.1:9978/file/TV/token.txt"
     },
 
 {
