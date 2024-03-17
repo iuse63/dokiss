@@ -1271,6 +1271,16 @@
       "ext": "./json/77zys.json"
     },
 {
+      "key": "csp_XYQHiker_云盘",
+      "name": "云盘⛵网盘",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/yunpan1.json"
+    },
+{
       "key": "csp_XYQHiker_盘搜索",
       "name": "盘搜🚢网盘",
       "type": 3,
