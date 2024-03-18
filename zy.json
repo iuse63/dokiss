@@ -41,14 +41,19 @@
     },
 
 {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "key": "玩偶ok",
       "name": "玩偶⚗️臻享4K",
       "type": 3,
-      "api": "csp_XYQHikerAL",
+      "api": "csp_Wogg",
+      "jar": "./jar/okjpg.txt",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/woggzx.json"
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "wogg": true
+      },
+      "timeout": 30
     },
 
 {
@@ -148,17 +153,15 @@
 },
 
 {
-     "key":"玩偶PG",
-     "name":"玩偶🍺蓝光4K",
-     "type":3,
-     "api":"csp_Wogg",
-     "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
-     "quickSearch":1, 
-     "changeable":1, 
-     "filterable":1, 
-     "timeout":30, 
-     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
-},
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "玩偶🍺臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/woggzx.json"
+    },
 
 {
       "key":"校长影视",
@@ -1246,7 +1249,7 @@
       "name": "混合盘🚂网盘",
       "type": 3,
       "api": "csp_HunHePan",
-      "jar": "./jar/PG.jar",
+      "jar": "./jar/pg0316.jar",
       "timeout": 60,
       "ext": "./json/PG推送.json"
     },    
