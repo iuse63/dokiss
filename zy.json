@@ -55,7 +55,23 @@
       },
       "timeout": 30
     },
-
+{
+      "key": "玩我弹幕版",
+      "name": "玩我┃4K弹幕",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/okjpg.txt",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://www.ttkx.live:3328",
+        "danmu": true
+      },
+      "timeout": 25
+    },
 {
       "key": "一青叶我_开心玩偶",
       "name": "开心🍹臻享4K",
