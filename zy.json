@@ -473,13 +473,17 @@
       "changeable": 1,
       "ext": "./js/jianpian.js"
     },
+
 {
-      "key": "nangua",
-      "name": "南瓜🎃影视",
+      "key": "苹果",
+      "name": "小苹果🍎蓝光",
       "type": 3,
-      "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/南瓜.js"
+      "api": "csp_LiteApple",
+      "jar":"./jar/fan0318.txt",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
 
 {
@@ -808,15 +812,12 @@
     },
 
 {
-      "key": "大师兄",
-      "name": "大师兄🎉影视",
+      "key": "nangua",
+      "name": "南瓜🎃影视",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy6.min.js",
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/dashixiong.js",
-      "timeout": 15
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/南瓜.js"
     },
 
 {
