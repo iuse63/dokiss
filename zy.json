@@ -187,18 +187,24 @@
       "timeout": 60,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$null$$$1"
     },
+
 {
-      "key": "影视车",
-      "name": "运输车🚛网盘4K",
+      "key": "玩我网盘",
+      "name": "玩我🚛网盘4K",
       "type": 3,
-      "api": "csp_Wogg",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+      "api": "csp_Wobg",
+      "jar": "./jar/okjpg.txt",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.weixine.link/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "http://www.ttkx.live:3328"
+      },
+      "timeout": 25
     },
+
 {
       "key": "Ppxzy",
       "name": "皮皮虾🦐蓝光4K",
