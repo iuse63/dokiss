@@ -39,7 +39,16 @@
       },
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-
+{
+      "key": "dj5",
+      "name": "VIP🌈短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "jar": "./jar/vipdj.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
 {
       "key": "玩偶ok",
       "name": "玩偶⚗️臻享4K",
