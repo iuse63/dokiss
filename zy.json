@@ -225,15 +225,18 @@
     },
 
 {
-      "key": "厂长蓝光",
+      "key": "Czzyapp",
       "name": "厂长🏭蓝光",
       "type": 3,
-      "api": "./js/drpy.min.js",
+      "api": "csp_Czzy",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./js/cangzan.js"
+      "jar": "./jar/cz.txt",
+      "ext": "https://www.czzy55.com/"
     },
+
 { 
       "key": "csp_SNzy",
       "name": "索尼🐉蓝光",
@@ -940,18 +943,17 @@
     "filterable":0,
     "ext":"./json/xinchen.json"
     },
-    
+
 {
-      "key": "厂长",
-      "name": "厂长🏭超清",
+      "key": "厂长蓝光",
+      "name": "厂长🏭蓝光",
       "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
+      "api": "./js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bo.czys.me"
-    },
+      "changeable": 1,
+      "ext": "./js/cangzan.js"
+    },    
 
 {
       "key": "meowtv_syys",
