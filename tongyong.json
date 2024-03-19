@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Tong.jar",
+    "spider": "https://gitee.com/dongchenys/liu/raw/master/jar/Tong.jar",
     "sites": [
         {
             "key": "py_cctv",
