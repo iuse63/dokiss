@@ -68,15 +68,16 @@
     },
 
 {
-      "key": "csp_XYQHikerAL_影视车弟弟",
-      "name": "影视车🚛臻享4K",
+      "key": "地瓜臻享4K",
+      "name": "地瓜🍠臻享4K",
       "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyqwogg.jar",
+      "api": "csp_AppYsV2",
+      "jar": "./jar/fty.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/yingshiche.json"
+      "changeable": 0,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
 
 {
