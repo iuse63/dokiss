@@ -233,6 +233,7 @@
             "name": "阿里|玩偶",
             "type": 3,
             "api": "csp_Wogg",
+            "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/Tong.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
