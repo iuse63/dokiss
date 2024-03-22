@@ -237,7 +237,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/dongchenys/liu/raw/master/lib/ali.json"
         },
         {
             "key": "阿里|运输",
