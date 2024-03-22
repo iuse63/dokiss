@@ -64,7 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/kaixin.json"
+      "ext": "./json/kx.json"
     },
 
 {
@@ -1377,7 +1377,7 @@
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"03.18接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+{"key":"hl","name":"03.19接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
 
 
