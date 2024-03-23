@@ -39,7 +39,18 @@
       },
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-
+{
+"key":"Tudou",
+"name":"土豆资源站",
+"playerType":1,
+"type":3,
+"jar": "./jar/tudou.jar",
+"api":"csp_Tudou",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+},
 {
       "key": "玩偶ok",
       "name": "玩偶⚗️臻享4K",
