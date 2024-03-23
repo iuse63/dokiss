@@ -39,18 +39,7 @@
       },
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-{
-"key":"Tudou",
-"name":"土豆资源站",
-"playerType":1,
-"type":3,
-"jar": "./jar/tudou.jar",
-"api":"csp_Tudou",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
-},
+
 {
       "key": "玩偶ok",
       "name": "玩偶⚗️臻享4K",
@@ -241,6 +230,45 @@
       "timeout": 60,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
+
+{
+"key":"Tudou",
+"name":"土豆资源站",
+"playerType":1,
+"type":3,
+"jar": "./jar/tudou.jar",
+"api":"csp_Tudou",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+},
+
+{
+"key":"wanouTudou",
+"name":"玩偶资源站",
+"playerType":1,
+"type":3,
+"jar": "./jar/tudou.jar",
+"api":"csp_Wogg",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+},
+
+{
+"key":"影视Tudou",
+"name":"影视资源站",
+"playerType":1,
+"type":3,
+"jar": "./jar/tudou.jar",
+"api":"csp_Yingshiche",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"
+},
 
 {
       "key": "Czzyapp",
