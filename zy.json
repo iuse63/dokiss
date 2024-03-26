@@ -190,6 +190,17 @@
     },
 
 {
+      "key": "csp_XYQHikerAL_多多",
+      "name": "多多🥳臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/duoduo.json"
+    },
+
+{
       "key": "玩我网盘",
       "name": "玩我🚛网盘4K",
       "type": 3,
@@ -217,18 +228,6 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ppxzy.net$$$null$$$1"
-    },
-{
-      "key": "美剧迷",
-      "name": "美剧迷🐳蓝光4K",
-      "type": 3,
-      "api": "csp_Meijumi",
-      "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
 
 {
@@ -540,12 +539,16 @@
     },
 
 {
-      "key": "小胡",
-      "name": "小胡🥳影视",
-      "type": 1,
-      "jar": "./jar/xiaohu.jar",
-      "playerType": 3,
-      "api": "http://cc.xzam.cn/api.php/provide/vod/"
+      "key": "美剧迷",
+      "name": "美剧迷🐳影视",
+      "type": 3,
+      "api": "csp_Meijumi",
+      "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
 
 {
