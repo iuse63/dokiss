@@ -59,7 +59,7 @@
   "搜索截取模式": "1",
   "搜索列表数组规则": "body&&.post",
   "搜索片单是否Jsoup写法": "1",
-  "搜索片单图片": "http://img.vopox.net/wp-content/uploads/2023/03/y2fga2jzwq2.jpg",
+  "搜索片单图片": "img&&src",
   "搜索片单标题": "h2&&Text",
   "搜索片单副标题": ".date&&Text",
   "搜索片单链接": "h2&&a&&href",
