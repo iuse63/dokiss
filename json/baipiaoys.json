@@ -4,7 +4,7 @@
         "主页url": "https://www.baipiaoys.com:9092/",
         "副标题": "pic-text text-right\">&&</b>",
         "搜索模式": "1",
-        "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
+        "搜索url": "https://www.baipiaoys.com:9092/search.html?wd={wd}",
         "图片": "data-original=\"&&\"",
         "嗅探词": ".mp4#m3u8#.m3u8",
         "线路标题": "公众号:东方精英汇",
