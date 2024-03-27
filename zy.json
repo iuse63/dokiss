@@ -783,14 +783,15 @@
     },
 
 {
-      "key": "白嫖",
-      "name": "宇宙🌅蓝光",
+      "key": "白嫖影视",
+      "name": "白嫖☀️蓝光",
       "type": 3,
-      "api": "csp_BaiPiao",
-      "jar": "./jar/PandaQ240309.jar",      
+      "api": "csp_XBPQ",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "./json/baipiaoys.json"
     },
 
 {
