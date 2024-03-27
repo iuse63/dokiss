@@ -543,7 +543,7 @@
       "name": "美剧迷🐳影视",
       "type": 3,
       "api": "csp_Meijumi",
-      "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+      "jar": "./jar/pg0316.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
