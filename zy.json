@@ -51,7 +51,8 @@
       "changeable": 1,
       "ext": {
         "token": "file://TV/ali_token.txt",
-        "wogg": true
+        "wogg": true,
+        "danmu": true
       },
       "timeout": 30
     },
@@ -212,7 +213,8 @@
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
-        "site": "http://www.ttkx.live:3328"
+        "site": "http://www.ttkx.live:3328",
+        "danmu": true
       },
       "timeout": 25
     },
@@ -228,6 +230,54 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ppxzy.net$$$null$$$1"
+    },
+
+{
+      "key": "Xinshijue",
+      "name": "新视觉🍹网盘4K",
+      "type": 3,
+      "api": "csp_Xinshijue",
+      "jar": "./jar/pg0328.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./json/wogg.json"
+    },
+
+{
+      "key": "表哥网盘",
+      "name": "表哥🍀臻享4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://wobge.run.goorm.io/"
+      },
+      "timeout": 25
+    },
+
+{
+      "key": "玩偶弹幕版",
+      "name": "玩偶😼弹幕4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://wogg.xyz",
+        "danmu": true
+      },
+      "timeout": 25
     },
 
 {
@@ -431,15 +481,14 @@
        },
 
 {
-      "key": "皮皮虾",
-      "name": "皮皮🦐蓝光",
+      "key": "秒播影院",
+      "name": "秒播🍓蓝光",
       "type": 3,
-      "api": "csp_AppSK",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "jar":"./jar/ppx.txt",
-      "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
+      "filterable": 1,
+      "ext": "./json/miaobo.json"
     },
 
 {
@@ -592,14 +641,14 @@
     },
 
 {
-      "key": "秒播影院",
-      "name": "秒播🍓影院",
+      "key": "短剧tv",
+      "name": "东辰📱短剧",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/miaobo.json"
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./js/duanjutv.js"
     },
 
 {
@@ -810,41 +859,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./js/diduan.js"
-    },
-
-{
-      "key": "纽约影院",
-      "name": "纽约🗽蓝光",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./js/nycvod.js"
-    },
-
-{
-      "key": "Panta",
-      "name": "盘他🏡蓝光",
-      "type": 3,
-      "api": "csp_Panta",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "changeable": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
-      "timeout": 60
-    },
-
-{
-      "key": "短剧tv",
-      "name": "东辰📱短剧",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./js/duanjutv.js"
     },
 
 {
@@ -1349,7 +1363,7 @@
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"03.25接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+{"key":"hl","name":"03.28接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
 
 
