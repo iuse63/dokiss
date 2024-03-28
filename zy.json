@@ -563,10 +563,10 @@
       "key": "短剧",
       "name": "one🥰短剧",
       "type": 3,
-      "api": "./js/drpy3.min.js",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": "./js/xjdj.js"
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "http://106.52.241.21:83/api.php/app/"
     },
 
 {
