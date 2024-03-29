@@ -41,8 +41,8 @@
     },
 
 {
-      "key": "玩偶ok",
-      "name": "玩偶⚗️臻享4K",
+      "key": "玩偶弹幕版",
+      "name": "玩偶⚗️弹幕4K",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "./jar/dongchenok.jar",
@@ -51,10 +51,11 @@
       "changeable": 1,
       "ext": {
         "token": "file://TV/ali_token.txt",
-        "wogg": true,
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://wogg.xyz",
         "danmu": true
       },
-      "timeout": 30
+      "timeout": 25
     },
 
 {
@@ -263,25 +264,8 @@
     },
 
 {
-      "key": "玩偶弹幕版",
-      "name": "玩偶😼弹幕4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./jar/dongchenok.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://wogg.xyz",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-{
       "key": "Libvio",
-      "name": "LIBVIO|网盘",
+      "name": "利播😼蓝光4K",
       "type": 3,
       "api": "csp_Libvio",
       "jar": "./jar/pg0328.jar",
@@ -291,6 +275,7 @@
       "timeout": 60,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.libvio.pro$$$null"
     },
+    
 {
       "key": "Czzyapp",
       "name": "厂长🏭蓝光",
