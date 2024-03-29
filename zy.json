@@ -269,7 +269,7 @@
       "type": 3,
       "api": "csp_Libvio",
       "jar": "./jar/pg0328.jar",
-      "quickSearch": 1,
+      "searchable": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
