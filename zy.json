@@ -45,7 +45,7 @@
       "name": "玩偶⚗️弹幕4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
+      "jar": "./jar/dongchenok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
