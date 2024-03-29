@@ -263,18 +263,6 @@
       "timeout": 25
     },
 
-{
-      "key": "Libvio",
-      "name": "利播😼蓝光4K",
-      "type": 3,
-      "api": "csp_Libvio",
-      "jar": "./jar/pg0328.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.libvio.pro$$$null"
-    },
     
 {
       "key": "Czzyapp",
