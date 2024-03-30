@@ -44,7 +44,7 @@
       "name": "一起看",
       "type": 3,
       "api": "csp_YQKan",
-      "jar": "./jar/yiqi.jar",
+      "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
