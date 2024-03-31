@@ -486,16 +486,7 @@
       "filterable": 1,
       "ext": "./json/miaobo.json"
     },
-{
-      "key": "nf影院",
-      "name": "nf🍓蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/nf.json"
-    },
+
 {
       "key": "荐片",
       "name": "荐片🎬蓝光",
@@ -1363,7 +1354,16 @@
       "ext": "./json/alypw.json"
     },
 
-
+{
+      "key": "nf影院",
+      "name": "奈飞🍓蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/nf.json"
+    },
 
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
