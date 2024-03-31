@@ -14,8 +14,8 @@
   "搜索标题": "class='movie_name'>&&</a>",
   "搜索链接": "href=\"&&\"",
   "搜索图片": "data-original=\"&&\"",
-  "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+  "线路数组": "",
+  "线路标题": "",
   "分类url": "https://www.netflixgc.com/vodtype/{cateId}.html;;ak",
   "分类": "电影$1#连续剧$2#漫剧$3"
 }
