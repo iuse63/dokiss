@@ -486,7 +486,16 @@
       "filterable": 1,
       "ext": "./json/miaobo.json"
     },
-
+{
+      "key": "nf影院",
+      "name": "nf🍓蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/nf.json"
+    },
 {
       "key": "荐片",
       "name": "荐片🎬蓝光",
