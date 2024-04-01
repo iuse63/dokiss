@@ -1285,6 +1285,7 @@
       "filterable": 1,
       "ext": "./json/naifei.json"
     },
+ {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "./json/naifei.json"},
     {
       "key": "ext_live_protocol",
       "name": "免费接口，自娱制作",
