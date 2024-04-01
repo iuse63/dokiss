@@ -1279,11 +1279,11 @@
       "key": "nf影院",
       "name": "奈飞🍓蓝光",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/nfzw.json"
+      "ext": "./json/nf.json"
     },
     {
       "key": "ext_live_protocol",
