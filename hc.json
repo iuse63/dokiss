@@ -1275,16 +1275,7 @@
       "filterable": 1,
       "ext": "./json/alypw.json"
     },
-    {
-      "key": "nf影院",
-      "name": "奈飞🍓蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/nf.json"
-    },
+
     {
       "key": "ext_live_protocol",
       "name": "免费接口，自娱制作",
@@ -1304,7 +1295,7 @@
     },
     {
       "key": "hl",
-      "name": "03.28接口仅测试使用",
+      "name": "04.01接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
