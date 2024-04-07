@@ -565,14 +565,14 @@
       "ext": "./json/vid.json"
     },
     {
-      "key": "短剧tv",
-      "name": "东辰📱短剧",
+      "key": "饭团影视",
+      "name": "饭团🍚影视",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./js/duanjutv.js"
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/fantuan.json"
     },
     {
       "key": "T4-mingri",
