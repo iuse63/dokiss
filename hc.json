@@ -1223,6 +1223,16 @@
       "ext": "./json/77zys.json"
     },
     {
+      "key": "csp_XYQHikerAL_dapanso",
+      "name": "大盘🚄网盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/dapanso.json"
+    },
+    {
       "key": "csp_XYQHikerAL_云盘资源分享",
       "name": "分享🚀网盘",
       "type": 3,
