@@ -552,25 +552,7 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": [
-        {
-          "from": "swf",
-          "to": "公众号：东方精英汇"
-        },
-        {
-          "from": "mmmm",
-          "to": "自营"
-        },
-        {
-          "from": "jp",
-          "to": "荐片"
-        },
-        {
-          "from": "jqq",
-          "to": "剧圈"
-        }
-      ]
+      "changeable": 1
     },
     {
       "key": "Vidhub",
