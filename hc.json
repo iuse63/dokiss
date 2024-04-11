@@ -228,16 +228,14 @@
       "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
     },
     {
-      "key": "Czzyapp",
+      "key": "厂长蓝光",
       "name": "厂长🏭蓝光",
       "type": 3,
-      "api": "csp_Czzy",
-      "playerType": 2,
+      "api": "./js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./jar/cz.txt",
-      "ext": "https://www.czzy55.com/"
+      "ext": "./js/cangzan.js"
     },
     {
       "key": "csp_SNzy",
@@ -839,14 +837,14 @@
       "ext": "./json/xinchen.json"
     },
     {
-      "key": "厂长蓝光",
-      "name": "厂长🏭蓝光",
+      "key": "韩剧影院",
+      "name": "韩剧💖TV",
       "type": 3,
-      "api": "./js/drpy.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./js/cangzan.js"
+      "filterable": 1,
+      "ext": "./json/hanju.json"
     },
     {
       "key": "meowtv_syys",
@@ -868,16 +866,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/cokemv.json"
-    },
-    {
-      "key": "韩剧影院",
-      "name": "韩剧🥤观影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/hanju.json"
     },
     {
       "key": "胖虎影视",
