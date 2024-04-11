@@ -1,5 +1,5 @@
 {
-    "spider": "./Tong.jar",
+    "spider": "./jar/Tong.jar",
     "sites": [
         {
             "key": "py_cctv",
