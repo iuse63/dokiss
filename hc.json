@@ -742,12 +742,9 @@
       "key": "白嫖影视",
       "name": "白嫖☀️蓝光",
       "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/baipiaoys.json"
+      "api": "csp_BaiPiao",
+      "jar": "./jar/PandaQ240408.jar",
+      "playerType": "2"
     },
     {
       "key": "nangua",
