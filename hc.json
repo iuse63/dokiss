@@ -764,13 +764,18 @@
       "ext": "./js/diduan.js"
     },
     {
-      "key": "Auete影视",
-      "name": "奥特🏝影视",
+      "key": "飞云",
+      "name": "飞云🏝影视",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/AppysV2.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./js/Auete.js"
+      "ext": {
+        "host": "http://122.228.84.103:6117/api.php/app/",
+        "*": [
+          "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
+        ]
+      }
     },
     {
       "key": "魔力高清",
