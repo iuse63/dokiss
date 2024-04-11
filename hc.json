@@ -870,6 +870,16 @@
       "ext": "./json/cokemv.json"
     },
     {
+      "key": "韩剧影院",
+      "name": "韩剧🥤观影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/hanju.json"
+    },
+    {
       "key": "胖虎影视",
       "name": "胖虎🐯影视",
       "type": 3,
@@ -1262,7 +1272,7 @@
     },
     {
       "key": "hl",
-      "name": "04.05接口仅测试使用",
+      "name": "04.11接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
