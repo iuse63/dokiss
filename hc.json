@@ -1004,10 +1004,12 @@
     {
       "key": "梦影",
       "name": "梦影🔥追剧",
-      "jar": "./jar/Movie2.txt",
       "type": 3,
-      "api": "csp_Movie2",
-      "ext": "./json/Movie5.json"
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jlys.json"
     },
     {
       "key": "Bili",
