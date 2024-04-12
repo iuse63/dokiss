@@ -8,7 +8,7 @@
   "影片类型": "video-tag-icon\">&&立即播放",
   "影片状态": "集数：&&</div>",
   "搜索模式": "1",
-  "搜索url": "https://search.ymck.me/index.php?q={wd}",
+  "搜索url": "http://jlys6.top/index.php/vod/search.html?wd={wd}",
   "搜索数组": "<b>&&</b>[包含:app线路]",
   "搜索副标题": "<a>&&</a>",
   "搜索标题": "class='movie_name'>&&</a>",
