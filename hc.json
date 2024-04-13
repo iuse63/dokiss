@@ -579,16 +579,6 @@
       "ext": "./json/fantuan.json"
     },
     {
-      "key": "ww影视",
-      "name": "ww🍚影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/wwys.json"
-    },
-    {
       "key": "T4-mingri",
       "name": "明日☀影视",
       "type": 4,
