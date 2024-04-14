@@ -463,49 +463,7 @@
       "jar": "./jar/ppx.txt",
       "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
     },
-{
-      "key": "酷看弹幕版",
-      "name": "酷看😎弹幕",
-      "type": 3,
-      "api": "csp_Kkys",
-      "jar": "./jar/dongchenok.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 20
-    },
-    {
-      "key": "天天弹幕版",
-      "name": "天天⛅️弹幕",
-      "type": 3,
-      "api": "csp_TianTian",
-      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "白票弹幕版",
-      "name": "白嫖🥬弹幕",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 25
-    },
+    
     {
       "key": "秒播影院",
       "name": "秒播🍓蓝光",
@@ -967,17 +925,20 @@
       "ext": "./json/panghuys.json"
     },
     {
-      "key": "时常",
-      "name": "时常💖影院",
+      "key": "酷看弹幕版",
+      "name": "酷看😎弹幕",
       "type": 3,
-      "api": "csp_qiao3",
-      "jar": "http://cdn.qiaoji8.com/fix24225.jar",
+      "api": "csp_Kkys",
+      "jar": "./jar/dongchenok.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 20
     },
+    
     {
       "key": "看球",
       "name": "看球⚾直播",
