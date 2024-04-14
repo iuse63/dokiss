@@ -13,14 +13,17 @@
       "filterable": 0
     },
     {
-      "key": "csp_KungFu404",
-      "name": "🌥️┃Open原画┃设置",
+      "key": "配置中心",
+      "name": "🌥️┃配置中心",
       "type": 3,
-      "api": "csp_KungFu404",
-      "jar": "./jar/alibaba.jar",
+      "api": "csp_Config",
+      "jar": "./jar/dongchenok.jar",
       "searchable": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      }
     },
     {
       "key": "配置中心",
