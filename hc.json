@@ -1359,7 +1359,7 @@
     },
     {
       "key": "Up云搜",
-      "name": "Up搜🚚弹幕",
+      "name": "Up搜🚛弹幕",
       "type": 3,
       "api": "csp_Upys",
       "jar": "./jar/dongchenok.jar",
