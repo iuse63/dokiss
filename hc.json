@@ -257,6 +257,17 @@
       "timeout": 25
     },
     {
+      "key": "新6V",
+      "name": "磁力🧲慎用4K",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "jar": "./jar/pg0328.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+    },
+    {
       "key": "厂长蓝光",
       "name": "厂长🏭蓝光",
       "type": 3,
