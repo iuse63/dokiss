@@ -236,7 +236,7 @@
       "type": 3,
       "api": "csp_Xinshijue",
       "jar": "./jar/pg0401.jar",
-      "quickSearch": 1,
+      "searchable": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
