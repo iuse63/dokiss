@@ -1014,32 +1014,42 @@
       "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
     },
     {
-      "key": "Bili",
+      "key": "bili",
       "name": "哔哔🅱合集",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.433
       },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+      "ext": {
+        "cookie": "file://TV/bili_cookie.txt",
+        "json": "https://jihulab.com/okcaptain/kko/-/raw/main/bili.json"
+      },
+      "timeout": 20
     },
     {
-      "key": "Biliych",
+      "key": "biliych",
       "name": "哔哔🅱歌曲",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.433
       },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
+      "ext": {
+        "cookie": "file://TV/bili_cookie.txt",
+        "json": "https://jihulab.com/okcaptain/kko/-/raw/main/biliych.json"
+      },
+      "timeout": 20
     },
     {
       "key": "dr_兔小贝",
@@ -1266,7 +1276,7 @@
     },
     {
       "key": "hl",
-      "name": "04.11接口仅测试使用",
+      "name": "04.13接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
