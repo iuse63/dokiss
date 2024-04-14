@@ -463,6 +463,49 @@
       "jar": "./jar/ppx.txt",
       "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
     },
+{
+      "key": "酷看弹幕版",
+      "name": "酷看😎弹幕",
+      "type": 3,
+      "api": "csp_Kkys",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 20
+    },
+    {
+      "key": "天天弹幕版",
+      "name": "天天⛅️弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "白票弹幕版",
+      "name": "白嫖🥬弹幕",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "jar": "./jar/dongchenok.jar",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 25
+    },
     {
       "key": "秒播影院",
       "name": "秒播🍓蓝光",
@@ -1299,7 +1342,51 @@
       "filterable": 1,
       "ext": "./json/alypw.json"
     },
-
+{
+      "key": "盘Se",
+      "name": "盘Se🚌弹幕",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "Up云搜",
+      "name": "Up搜🚚弹幕",
+      "type": 3,
+      "api": "csp_Upys",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+    {
+      "key": "盘搜",
+      "name": "盘搜🚟弹幕",
+      "type": 3,
+      "api": "csp_PanSou",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
     {
       "key": "ext_live_protocol",
       "name": "免费接口，自娱制作",
