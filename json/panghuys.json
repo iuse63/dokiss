@@ -19,8 +19,8 @@
   "播放数组": "<div class=\"module-play-list&&</div>",
   "播放标题": "<span>&&</span>",
   "播放列表": "<a&&</a>",
-  "分类url": "https://www.panghuys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;ka",
-  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+  "分类url": "https://www.physkan.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;ka",
+  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$7解说$8",
   "筛选": {
     "1": [
       {
