@@ -372,18 +372,13 @@
       ]
     },
     {
-      "key": "爱ai看",
-      "name": "爱看🏜️蓝光",
+      "key": "白嫖影视",
+      "name": "白嫖☀️蓝光",
       "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jar/ppx.txt",
-      "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
+      "api": "csp_BaiPiao",
+      "jar": "./jar/PandaQ240408.jar",
+      "playerType": "2"
     },
-    
-    
     {
       "key": "荐片",
       "name": "荐片🎬蓝光",
@@ -645,15 +640,17 @@
       "ext": "./json/kkys.json"
     },
     {
-      "key": "Free影视",
-      "name": "Free🌴蓝光",
+      "key": "爱ai看",
+      "name": "爱看🏜️蓝光",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_AppMao",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/freevip.json"
+      "changeable": 0,
+      "jar": "./jar/ppx.txt",
+      "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
     },
+    
     {
       "key": "素白白影视",
       "name": "素白🛰️蓝光",
