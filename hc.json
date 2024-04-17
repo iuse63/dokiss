@@ -471,11 +471,14 @@
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
     {
-      "key": "种子短剧",
-      "name": "种子💮短剧",
+      "key": "剧圈影视",
+      "name": "剧圈🔥影视",
       "type": 3,
-      "api": "./js/drpy3.min.js",
-      "ext": "./js/zhongzi.js"
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jqqys.json"
     },
     {
       "key": "短剧",
