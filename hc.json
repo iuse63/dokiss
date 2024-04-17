@@ -1114,14 +1114,14 @@
       "ext": "./json/PG推送.json"
     },
     {
-      "key": "csp_XYQHiker_影搜",
+      "key": "Wexyingso",
       "name": "影搜⛵网盘",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_Wexyingso",
+      "jar": "./jar/yingso.jar",      
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/yingso.json"
+      "filterable": 1
     },
     {
       "key": "csp_XYQHiker_盘搜索",
