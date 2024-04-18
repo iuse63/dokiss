@@ -870,6 +870,16 @@
       "filterable": 1
     },
     {
+      "key": "xf影视",
+      "name": "xf🐯影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/xifan.json"
+    },
+    {
       "key": "meowtv_a8yy",
       "name": "A8Y🎻音乐",
       "type": 3,
