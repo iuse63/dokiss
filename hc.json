@@ -79,8 +79,7 @@
       "indexs": 0,
       "ext": {
         "token": "file://TV/ali_token.txt",
-        "share": "file://TV/阿里集合.json",
-        "danmu": true
+        "share": "file://TV/阿里集合.json"
       },
       "style": {
         "type": "list"
