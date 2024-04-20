@@ -489,13 +489,13 @@
       "ext": "./json/jqqys.json"
     },
     {
-      "key": "短剧",
-      "name": "one🥰短剧",
+      "key": "Wexduanjuvop",
+      "name": "短剧🥰直连",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Wexduanjuvop",
+      "jar": "./jar/wex.txt",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "http://106.52.241.21:83/api.php/app/"
+      "changeable": 1
     },
     {
       "key": "酷看",
