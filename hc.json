@@ -68,15 +68,24 @@
       "ext": "./json/kaixin.json"
     },
     {
-      "key": "Gitcafe",
+      "key": "阿里合集",
       "name": "云盘🧓臻享4K",
       "type": 3,
-      "api": "csp_Paper",
+      "api": "csp_AliShare",
+      "jar": "./jar/dongchenok.jar",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/HeChengChaXiu.jar",
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "share": "file://TV/阿里集合.json",
+        "danmu": true
+      },
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
     },
     {
       "key": "csp_XYQHikerAL_阿里苏苏",
