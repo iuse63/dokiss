@@ -918,7 +918,7 @@
       "key": "虎牙直播js",
       "name": "虎牙🐯直播",
       "type": 3,
-      "api": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/huya.js",
       "style": {
         "type": "rect",
