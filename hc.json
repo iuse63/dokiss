@@ -508,8 +508,8 @@
       "ext": "./json/duanjuu.json"
     },
     {
-      "key": "巴士",
-      "name": "巴士┃动漫",
+      "key": "动漫巴士",
+      "name": "动漫🚌巴士",
       "type": 3,
       "api": "csp_WexDm84",
       "jar": "./jar/yingso.jar",
@@ -517,14 +517,8 @@
       "changeable": 1
     },
     {
-      "key": "T4-dm84",
-      "name": "动漫巴士",
-      "type": 4,
-      "api": "https://catbox.n13.club/dm84.php"
-    },
-    {
       "key": "T4-IKTV",
-      "name": "音乐TV",
+      "name": "KTV🎤音乐",
       "type": 4,
       "api": "https://catbox.n13.club/iktv.php"
     },
