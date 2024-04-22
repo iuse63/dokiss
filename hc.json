@@ -1005,7 +1005,7 @@
 		"type": 1,"playerType":2,
 		"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
 		"categories":[
-		"短剧",
+        "热门短剧",
         "国产剧",
         "韩国剧",       
         "港台剧",
