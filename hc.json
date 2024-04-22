@@ -508,6 +508,18 @@
       "ext": "./json/duanjuu.json"
     },
     {
+      "key": "T4-dm84",
+      "name": "动漫巴士",
+      "type": 4,
+      "api": "https://catbox.n13.club/dm84.php"
+    },
+    {
+      "key": "T4-IKTV",
+      "name": "音乐TV",
+      "type": 4,
+      "api": "https://catbox.n13.club/iktv.php"
+    },
+    {
       "key": "酷看",
       "name": "酷看💡直连",
       "type": 3,
