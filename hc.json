@@ -1063,7 +1063,6 @@
       "name": "初中📚课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/fanzx.txt",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1071,7 +1070,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
+      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
     },
     {
       "key": "高中教育",
