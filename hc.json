@@ -700,14 +700,14 @@
       "ext": "./json/zizi.json"
     },
     {
-      "key": "nkvod",
+      "key": "4K影院",
       "name": "耐看☘️蓝光",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/nkvod.json"
+      "ext": "./json/4kvm.json"
     },
     {
       "key": "可可影视",
