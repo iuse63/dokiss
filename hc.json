@@ -875,13 +875,13 @@
       "key": "310js",
       "name": "体育🏀直播",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
       "style": {
         "type": "list"
       },
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js"
+      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js"
     },
     {
       "key": "NT动漫",
@@ -918,8 +918,8 @@
       "key": "虎牙直播js",
       "name": "虎牙🐯直播",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
+      "api": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -932,8 +932,8 @@
       "key": "斗鱼js",
       "name": "斗鱼🐟直播",
       "type": 3,
-      "api": "https://152.32.170.60/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+      "api": "http://152.32.170.60/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "http://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1042,7 +1042,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
+      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -1056,7 +1056,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
+      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -1084,7 +1084,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
+      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
     },
     {
       "key": "csp_Bili短剧",
