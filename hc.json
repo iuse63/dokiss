@@ -396,13 +396,15 @@
       "changeable": 1,
       "ext": "./js/jianpian.js"
     },
+
     {
-      "key": "乐视采集",
+      "key": "乐视",
       "name": "乐视🏜蓝光",
       "type": 1,
-      "searchable":1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
+      "searchable": 1,
+      "changeable": 1,
       "categories": [
         "国产剧",
         "韩国剧",
