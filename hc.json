@@ -498,6 +498,16 @@
       "changeable": 1
     },
     {
+      "key": "榜一短剧",
+      "name": "榜一短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/duanjuu.json"
+    },
+    {
       "key": "酷看",
       "name": "酷看💡直连",
       "type": 3,
