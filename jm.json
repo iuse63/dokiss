@@ -46,11 +46,11 @@
       "name": "影院☘️蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/dongchenok.jar",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/dongchenok.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/kvm.json"
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/kvm.json"
     },
     {
       "key": "玩偶弹幕版",
