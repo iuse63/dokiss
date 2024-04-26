@@ -496,154 +496,74 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
-            "key": "天天影视",
-            "name": "💡天天┃影视",
-            "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://op.ysdqjs.cn"
-        },
-        {
-            "key": "热播影视",
-            "name": "💡热播┃影视",
-            "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://v.rbotv.cn"
-        },
-        {
-            "key": "追剧影视",
-            "name": "💡追剧┃影视",
-            "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://app.kzjtv.com"
-        },
-        {
-            "key": "快看影视",
-            "name": "💡快看┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "兄弟影视",
-            "name": "💡兄弟┃影视",
-            "type": 3,
-            "api": "csp_Wexxiongdiys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "酷看影视",
-            "name": "💡酷看┃影视",
-            "type": 3,
-            "api": "csp_Wexkukantv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "明日影视",
-            "name": "💡明日┃影视",
-            "type": 3,
-            "api": "csp_WexMingriys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "腐剧视频",
-            "name": "💡腐剧┃影视",
-            "type": 3,
-            "api": "csp_WexFujutv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "韩剧视频",
-            "name": "💡韩剧┃影视",
-            "type": 3,
-            "api": "csp_Wexhanjutv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "酷云七七",
-            "name": "💡七七┃影视",
-            "type": 3,
-            "api": "csp_WexKuyun77",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "文才影视",
-            "name": "💡文才┃影视",
-            "type": 3,
-            "api": "csp_Wexwencai",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "农民影视",
-            "name": "💡农民┃影视",
-            "type": 3,
-            "api": "csp_WexNmys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "茶杯狐",
-            "name": "♻️茶杯┃影视",
-            "type": 3,
-            "api": "http://o.nxog.top/m/js/nxog.js",
-            "ext": "http://o.nxog.top/m/js/102.js"
-        },
-        {
-            "key": "南瓜影视",
-            "name": "♻️南瓜┃影视",
-            "type": 3,
-            "api": "http://o.nxog.top/m/js/nxog.js",
-            "ext": "http://o.nxog.top/m/js/101.js"
-        },
-        {
-            "key": "畅梦影视",
-            "name": "♻️畅梦┃影视",
-            "type": 3,
-            "api": "http://o.nxog.top/m/js/nxog.js",
-            "ext": "http://o.nxog.top/m/js/103.js"
-        },
-        {
-            "key": "达达龟",
-            "name": "♻️达达┃影视",
-            "type": 3,
-            "api": "http://o.nxog.top/m/js/nxog.js",
-            "ext": "http://o.nxog.top/m/js/104.js"
-        },
-        {
             "key": "腾",
-            "name": "♻️腾腾┃影视",
+            "name": "♻️腾讯┃视频",
             "type": 3,
             "api": "http://o.nxog.top/m/js/nxog.js",
             "ext": "http://o.nxog.top/m/js/tt.js"
         },
         {
             "key": "优",
-            "name": "♻️优优┃影视",
+            "name": "♻️优酷┃视频",
             "type": 3,
             "api": "http://o.nxog.top/m/js/nxog.js",
             "ext": "http://o.nxog.top/m/js/yy.js"
         },
         {
             "key": "芒",
-            "name": "♻️芒芒┃影视",
+            "name": "♻️芒果┃视频",
             "type": 3,
             "api": "http://o.nxog.top/m/js/nxog.js",
             "ext": "http://o.nxog.top/m/js/mm.js"
         },
         {
             "key": "爱",
-            "name": "♻️爱爱┃影视",
+            "name": "♻️奇艺┃视频",
             "type": 3,
             "api": "http://o.nxog.top/m/js/nxog.js",
             "ext": "http://o.nxog.top/m/js/aa.js"
+        },
+        {
+            "key": "dr_搜狗",
+            "name": "♻️搜狗┃视频",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/caigou.js"
+        },
+        {
+            "key": "dr_360影视",
+            "name": "♻️360┃视频 ",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/360.js"
+        },
+        {
+            "key": "茶杯狐",
+            "name": "💥茶杯┃影视",
+            "type": 3,
+            "api": "http://o.nxog.top/m/js/nxog.js",
+            "ext": "http://o.nxog.top/m/js/102.js"
+        },
+        {
+            "key": "南瓜影视",
+            "name": "💥南瓜┃影视",
+            "type": 3,
+            "api": "http://o.nxog.top/m/js/nxog.js",
+            "ext": "http://o.nxog.top/m/js/101.js"
+        },
+        {
+            "key": "畅梦影视",
+            "name": "💥畅梦┃影视",
+            "type": 3,
+            "api": "http://o.nxog.top/m/js/nxog.js",
+            "ext": "http://o.nxog.top/m/js/103.js"
+        },
+        {
+            "key": "达达龟",
+            "name": "💥达达┃影视",
+            "type": 3,
+            "api": "http://o.nxog.top/m/js/nxog.js",
+            "ext": "http://o.nxog.top/m/js/104.js"
         },
         {
             "key": "荐片弹幕",
@@ -1033,6 +953,100 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/miaobo.json"
+        },
+        {
+            "key": "天天影视",
+            "name": "💡天天┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://op.ysdqjs.cn"
+        },
+        {
+            "key": "热播影视",
+            "name": "💡热播┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://v.rbotv.cn"
+        },
+        {
+            "key": "追剧影视",
+            "name": "💡追剧┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://app.kzjtv.com"
+        },
+        {
+            "key": "快看影视",
+            "name": "💡快看┃影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "兄弟影视",
+            "name": "💡兄弟┃影视",
+            "type": 3,
+            "api": "csp_Wexxiongdiys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "酷看影视",
+            "name": "💡酷看┃影视",
+            "type": 3,
+            "api": "csp_Wexkukantv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "明日影视",
+            "name": "💡明日┃影视",
+            "type": 3,
+            "api": "csp_WexMingriys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "腐剧视频",
+            "name": "💡腐剧┃影视",
+            "type": 3,
+            "api": "csp_WexFujutv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "韩剧视频",
+            "name": "💡韩剧┃影视",
+            "type": 3,
+            "api": "csp_Wexhanjutv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "酷云七七",
+            "name": "💡七七┃影视",
+            "type": 3,
+            "api": "csp_WexKuyun77",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "文才影视",
+            "name": "💡文才┃影视",
+            "type": 3,
+            "api": "csp_Wexwencai",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "农民影视",
+            "name": "💡农民┃影视",
+            "type": 3,
+            "api": "csp_WexNmys",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "快看采集",
