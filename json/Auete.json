@@ -1,0 +1,21 @@
+{
+    "作者": "圥忈自用",
+    "站名": "Auete影视",
+    "主页url": "https://auete.pro/"
+    "简介": "<p>&&</div> ",
+    "导演": "导演:</div>&&</div>",
+    "主演": "演员:</div>&&</div>",
+    "影片状态": "更新:</div>&&</div>",
+    "影片类型": "player_list\">&&立即播放",
+    "搜索模式": "1",
+    "搜索url": "https://auete.pro/auete3so.php?searchword={wd}",
+    "搜索数组": "module-card-item-class\">&&</a>",
+    "搜索标题": "title=\"&&\"",
+    "搜索副标题": "</span>&&</b>",
+    "搜索图片": "img src=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "target=&&</li>[不包含:KK线路#BF线路#FF线路#YZ线路]",
+    "线路标题": "</i>&&<small>[替换:<i></small>>>共]+集",
+    "分类url": "https://auete.pro/Tv/index/{cateId}.html",
+    "分类": "2024第七周豆瓣电影口碑榜$topiclist/2024diqizhoudoubandianyingkoubeibang#当天实时热播$dayhot#连续剧更新&daynew#Netflix影视$Netflix/movies#豆瓣TOP250$Top250/movie#电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita#音乐$Music#解说$jieshuo"
+}
