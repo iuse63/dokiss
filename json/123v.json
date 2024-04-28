@@ -1,0 +1,23 @@
+{
+    "作者": "圥忈自用",
+    "站名": "123影视",
+    "主页url": "https://www.123tv.buzz/",
+    "简介": "<div class=\"detail-desc\"><p>&&</p> ",
+    "上映": "上映:</div>&&</div>",
+    "片长": "片长:</div>&&</div>",
+    "影片状态": "集数</div>&&</div>",
+    "影片类型": "module-info-tag\"&&</div>",
+    "数组": "module-item\">&&/span>",
+    "标题": "title=\"&&\"",
+    "副标题": "<span>&&<",
+    "搜索url": "https://www.123tv.buzz/search.html?wd={wd}",
+    "搜索数组": "module-card-item-class\">&&</a>",
+    "搜索标题": "alt=\"&&\"",
+    "搜索副标题": "note\">&&</div>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",    
+    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+    "分类url": "https://www.123tv.buzz/show/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "今日更新$new#电影$1#连续剧$2#综艺$3#动漫$4#儿童动画$5"
+}
