@@ -1,0 +1,20 @@
+{
+    "作者": "圥忈",
+    "站名": "UM影视",
+    "主页url": "https://www.pptv06.com/",
+    "导演": "导演：&&</div>",
+    "演员": "演员：&&</div>",
+    "影片状态": "描述：&&</div>",
+    "影片类型": "play-score\">&&立即播放",
+    "搜索模式": "1",
+    "搜索url": "https://www.umkan.app/index.php/vod/search.html?wd={wd}",
+    "搜索数组": "public-list-box public-pic-b [swiper]\">&&</a>",
+    "搜索标题": "alt=\"&&\"",
+    "搜索副标题": "noteprb hide ft2\">&&</span>",
+    "搜索图片": "data-src=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "</i>&&</a>[不包含:KK线路#BF线路#FF线路#YZ线路]",
+    "线路标题": ">&&<",
+    "分类url": "https://www.umkan.app/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$30#番剧$32#直播$viv"
+}
