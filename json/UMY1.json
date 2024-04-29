@@ -1,0 +1,20 @@
+{
+    "作者": "圥忈",
+    "站名": "UM影视",
+    "主页url": "https://www.umkan.app/",
+    "导演": "导演：&&</div>",
+    "演员": "演员：&&</div>",
+    "影片状态": "描述：&&</div>",
+    "影片类型": "play-score\">&&立即播放",
+    "搜索模式": "1",
+    "搜索url": "https://www.umkan.app/index.php/vod/search.html?wd={wd}",
+    "搜索数组": "public-list-box public-pic-b [swiper]\">&&</a>",
+    "搜索标题": "alt=\"&&\"",
+    "搜索副标题": "noteprb hide ft2\">&&</span>",
+    "搜索图片": "data-src=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "<i class=\"fa ds-dianying\"&&<span[排序:独家>独家1>独家2>独家3>蓝光1>蓝光2>蓝光2-1>蓝光2-2>蓝光3>蓝光8>蓝光7>FF线路>XL线路>HN线路>SB线路][不包含:FF线路#YH线路]",
+    "线路标题": ">&&<",
+    "分类url": "https://www.umkan.app/index.php/vod/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html;;ak",
+    "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$30#番剧$32#直播$viv"
+}
