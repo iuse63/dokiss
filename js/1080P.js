@@ -4,7 +4,7 @@ muban.首图.二级.content = '.sketch&&Text';
 var rule = {
 	title:'1080P',
 	模板:'首图',
-	host:'https://1080p.tv',
+	host:'https://tv-ainaifei.com/',
 	url:'/vodshow/fyclassfyfilter/',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
