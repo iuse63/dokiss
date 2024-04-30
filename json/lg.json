@@ -1,0 +1,20 @@
+{
+    "作者": "圥忈",
+    "站名": "123影视",
+    "主页url": "https://www.lggys.com/",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "影片状态": "slide-info-remarks\">&&<",
+    "影片类型": "类型:&&</div>",
+    "搜索模式": "1",
+    "搜索url": "https://www.lggys.com/vodsearch/-------------.html?wd={wd}",
+    "搜索数组": "search-box flex rel\">&&</a>",
+    "搜索标题": "thumb-txt cor4 hide\">&&</div>,
+    "搜索副标题": "public-list-prb hide ft2\">&&</div>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": ">&nbsp;&&<span class=[不包含:KK线路#BF线路#FF线路#YZ线路]",
+    "线路标题": "badge\">&&</span>[替换:</span><small>>>共]",
+    "分类url": "https://www.lggys.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year};post",
+    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+}
