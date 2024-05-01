@@ -8,7 +8,7 @@
     "影片类型": "简介：&&</div>",
     "搜索模式": "1",
     "搜索url": "https://www.haoyuntv.com/vodsearch/-------------.html?wd={wd}",
-    "搜索数组": "vodlist_titbox\">&&</li>",
+    "搜索数组": "searchlist_img\">&&</li>",
     "搜索标题": "title=\"&&\"",
     "搜索副标题": "voddate voddate_type\">&&</a>",
     "搜索图片": "data-original=\"&&\"",
