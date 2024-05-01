@@ -8,13 +8,13 @@
     "影片类型": "简介：&&</div>",
     "搜索模式": "1",
     "搜索url": "https://www.haoyuntv.com/vodsearch/-------------.html?wd={wd}",
-    "搜索数组": "searchlist_img\">&&</li>",
+    "搜索数组": "searchlist_item\">&&</li>",
     "搜索标题": "title=\"&&\"",
     "搜索副标题": "voddate voddate_type\">&&</a>",
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "alt=&&</i>[不包含:KK线路#BF线路#FF线路#YZ线路]",
-    "线路标题": ">&&</li>",
+    "线路数组": "alt=&&<i class=[不包含:KK线路#BF线路#FF线路#YZ线路]",
+    "线路标题": ">&&</div>",
     "分类url": "https://www.haoyuntv.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$5#电影解说$20"
 }
