@@ -8,13 +8,13 @@
     "影片类型": "detail-title\">&&立即播放",
     "搜索模式": "1",
     "搜索url": "https://www.dushe1.app/search?os=pc&k={wd}",
-    "搜索数组": "search-result-item-main\">&&</div>",
+    "搜索数组": "search-result-item-header\">&&</div>",
     "搜索标题": "alt=\"&&\"",
     "搜索副标题": "tags\">&&</div>",
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "source-item-label\">&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "episode-item\">&&</div>[替换:</span><small>>>共]+集",
-    "分类url": "https://www.dushe1.app/vodshow/{cateId}--------{catePg}---{year}.html",
+    "分类url": "https://www.dushe1.app/vodshow/1-----1-1/{cateId}--------{catePg}---{year}.html",
     "分类": "电影$1#电视剧$2#动漫$3#综艺记录$4#短剧$6"
 }
