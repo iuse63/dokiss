@@ -13,8 +13,8 @@
     "搜索副标题": "label text-truncate\">&&</div>",
     "搜索图片": "data-src=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "swiper-slide orgin-btn>&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
-    "线路标题": "title=\"&&\"",
-    "分类url": "https://ixkw.cc/all/3---/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "线路数组": "swiper-slide orgin-btn\">&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
+    "线路标题": ">&&<",
+    "分类url": "https://ixkw.cc/all/{cateId}.html",
     "分类": "剧集$tv#电影$movie#动漫$cartoon#综艺$show#豆瓣RANK$douban"
 }
