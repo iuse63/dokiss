@@ -14,7 +14,7 @@
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "hl-from-title\">&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
-    "线路标题": "hl-from-snm3u8 hl-lc-1\">&&</span>",
+    "线路标题": ">&&</li>",
     "分类url": "https://www.sshenma.com/vodshow/-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman"
 }
