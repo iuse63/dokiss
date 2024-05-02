@@ -171,7 +171,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "L大IPV6",
+            "name": "LIPV6",
             "type": 0,
             "url": "https://d.laigc.com/m3.m3u",
             "playerType": 1,
