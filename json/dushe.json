@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "source-item-label\">&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "episode-item\">&&</div>[替换:</span><small>>>共]+集",
-    "分类url": "https://www.dushe1.app/show/{cateId}--------{catePg}---{year}.html",
+    "分类url": "https://www.dushe1.app/vodshow/{cateId}--------{catePg}---{year}.html",
     "分类": "电影$1#电视剧$2#动漫$3#综艺记录$4#短剧$6"
 }
