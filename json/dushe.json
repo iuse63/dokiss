@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
     "站名": "毒舌电影",
-    "主页url": "https://www.dushe1.app/topic/detail/12-1.html",
+    "主页url": "https://www.dushe1.app/",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "首映：&&</div>",
@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "source-item-label\">&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "episode-item\">&&</div>[替换:</span><small>>>共]+集",
-    "分类url": "https://www.dushe1.app/show/-----/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "https://www.dushe1.app/vodshow/-----/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "Netflix$netflix#电影$1#电视剧$2#动漫$3#综艺记录$4#短剧$6"
 }
