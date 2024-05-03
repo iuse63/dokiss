@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "hl-from-list&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "hl-from-bfzym3u8 hl-lc-1\">&&</span>",
-    "分类url": "https://www.dytdy.com/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman"
+    "分类url": "https://gimy.ai/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#电视剧$2#动画电影$24#动漫$30#综艺$29#微短剧$34"
 }
