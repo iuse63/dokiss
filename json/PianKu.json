@@ -11,7 +11,7 @@
     "搜索数组": "module-card-item-class\">&&</a>",
     "搜索标题": "alt=\"&&\"",
     "搜索副标题": "note\">&&</div>",
-    "搜索图片": "data-original=\"&&\"",
+    "搜索图片": "sr_img\"<img src=&&<div>\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "py-tabs\">&&</h2>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "py-tabs\">&&</h2>",
