@@ -8,7 +8,7 @@
     "影片类型": ">&&</div>",
     "搜索模式": "1",
     "搜索url": "https://adu.grape1564.icu/index.php/vod/search.html?wd={wd}",
-    "搜索数组": "video-info\">&&</li>",
+    "搜索数组": "<li>&&</li>",
     "搜索标题": "title=\"&&\"",
     "搜索副标题": "hl-lc-1 remarks\">&&</div>",
     "搜索图片": "img src=\"&&\"",
