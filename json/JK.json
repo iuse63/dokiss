@@ -18,5 +18,5 @@
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>",
     "分类url": "https://m.pian-ku.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育赛事$54#短剧$65",
+    "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
 }
