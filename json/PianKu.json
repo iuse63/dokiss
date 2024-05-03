@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "py-tabs\">&&</h2>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "py-tabs\">&&</h2>",
-    "分类url": "https://www.hitv.app/show/{cateId}-{area}-------{catePg}.html",
+    "分类url": "https://www.hitv.app/show/1-----------/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#儿童$58"
 }
