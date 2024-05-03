@@ -1,20 +1,20 @@
 {
     "作者": "圥忈",
     "站名": "唐人街影视",
-    "主页url": "https://zimu.app/",
+    "主页url": "https://adu.grape1564.icu/",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "状态：&&</div>",
     "影片类型": "类型:&&</div>",
     "搜索模式": "1",
-    "搜索url": "https://zimu.app/vodsearch.html?wd={wd}",
+    "搜索url": "https://adu.grape1564.icu/index.php/vod/search.html?wd={wd}",
     "搜索数组": "vodlist_titbox\">&&</li>",
     "搜索标题": "title=\"&&\"",
     "搜索副标题": "hl-lc-1 remarks\">&&</div>",
-    "搜索图片": "data-original=\"&&\"",
+    "搜索图片": "img src=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "hl-from-list&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "hl-from-bfzym3u8 hl-lc-1\">&&</span>",
-    "分类url": "https://zimu.app/vodshow/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "字幕圈$1#国产区$2#AV$3#动漫$4#传媒视频$5#伦理片$6"
+    "分类url": "https://adu.grape1564.icu/index.php/vod/type/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "影视推荐$1#传媒视频$10#网暴泄密$11#约炮探花$12#网红主播$14#国产精品$16"
 }
