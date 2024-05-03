@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
     "站名": "海外剧汇",
-    "主页url": "https://m.88mv.org/",
+    "主页url": "https://www.gntv.top/",
     "类型详情": "类型：&&</div>",
     "年代详情": "年份：&&</div>",
     "地区详情": "地区：&&</div>",
@@ -17,6 +17,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>",
-    "分类url": "https://m.88mv.org/vod-type-pg-1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+    "分类url": "https://www.gntv.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
 }
