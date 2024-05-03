@@ -4,8 +4,8 @@
     "主页url": "https://m.88mv.org/",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
-    "影片状态": "连载：&&</div>",
-    "影片类型": "module-info-tag\">&&立即播放",
+    "影片状态": "更新：&&</div>",
+    "影片类型": "类型：&&</div>",
     "图片": "data-original=\"&&\"[替换:/vod1/>>https://vres.a357899.cn/vod1/]",
     "搜索模式": "1",
     "搜索url": "https://www.suying.lol/index.php/vod/search.html?wd={wd}",
@@ -16,6 +16,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "https://m.88mv.org/vod-type-id-1-pg-1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "https://m.88mv.org/vod-type-id-&-pg-/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#综艺$3#动漫$4"
 }
