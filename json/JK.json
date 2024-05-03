@@ -17,6 +17,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>",
-    "分类url": "https://m.88mv.org/vod-type-id-1-pg/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "https://m.88mv.org/vod-type-pg-1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#综艺$3#动漫$4"
 }
