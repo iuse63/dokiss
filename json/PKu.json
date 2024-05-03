@@ -8,7 +8,7 @@
     "影片类型": "module-info-tag\">&&立即播放",
     "搜索模式": "1",
     "搜索url": "https://m.pian-ku.com/vodsearch/-------------/?wd={wd}",
-    "搜索数组": "video-info-header\">&&</a>",
+    "搜索数组": "module-item-cover\">&&</div>",
     "搜索标题": "alt=\"&&\"",
     "搜索副标题": "note\">&&</div>",
     "搜索图片": "data-original=\"&&\"",
