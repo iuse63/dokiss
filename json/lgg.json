@@ -16,26 +16,19 @@
     "首页片单链接加前缀": "https://www.lggys.com/",
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
-    "分类链接": "https://www.lggys.com/api/vod?type={cateId}&page={catePg}&time=时间戳&key=md5(DS时间戳DCC147D11943AF75)&by={by}&year={year};post",
-    "分类名称": "电影&剧集&动漫&综艺",
-    "分类名称替换词": "dianying&dianshiju&dongman&zongyi",
+    "分类url": "https://www.lggys.com/vodshow/-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$dianying#剧集$dianshiju#动漫$dongman#综艺$zongyi",
     "筛选数据": "ext",
-    //{cateId}
     "筛选子分类名称": "",
     "筛选子分类替换词": "",
-    //{class}
     "筛选类型名称": "",
     "筛选类型替换词": "*",
-    //{area}
     "筛选地区名称": "",
     "筛选地区替换词": "*",
-    //{year}
     "筛选年份名称": "",
     "筛选年份替换词": "*",
-    //{lang}
     "筛选语言名称": "",
     "筛选语言替换词": "*",
-    //{by}
     "筛选排序名称": "最新&最热&评分",
     "筛选排序替换词": "time&hits&score",
     "分类截取模式": "0",
@@ -48,8 +41,7 @@
     "分类片单链接加前缀": "https://www.lggys.com/vod/detail/id/",
     "分类片单链接加后缀": ".html",
     "搜索请求头参数": "User-Agent$PC_UA#accept$text/html",
-    "搜索链接": "https://www.lggys.com/vod/search/page/1/wd/{wd}.html",
-    "POST请求数据": "wd={wd}",
+    "搜索url": "https://www.lggys.com/vodsearch/-------------.html?wd={wd}",
     "搜索截取模式": "1",
     "搜索列表数组规则": "body&&.search-box",
     "搜索片单是否Jsoup写法": "1",
