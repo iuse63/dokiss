@@ -19,5 +19,5 @@
     "线路标题": "<span>&&</small>",
     "分类url": "https://www.gntv.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#连续剧$2#动漫$3#综艺$4",
-    "首页片单图片": "slide-time-img3 mask-1\"style=\"background-image:&&</div>"
+    "首页片单图片": ".lazy&&data-src"
 }
