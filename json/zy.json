@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
     "站名": "唐人街影视",
-    "主页url": "https://www.dytdy.com/ranking-list",
+    "主页url": "https://12gy.com/",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "状态：&&</div>",
@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "hl-from-list&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "hl-from-bfzym3u8 hl-lc-1\">&&</span>",
-    "分类url": "https://www.dytdy.com/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "豆瓣热播$haopian电影$dianyjng#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+    "分类url": "https://12gy.com/vodshow/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$5i#动漫$4"
 }
