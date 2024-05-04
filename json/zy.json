@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "https://www.91dm.net/index.php/vod/show/id/21/{cateId}.html",
+    "分类url": "https://www.91dm.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "动漫电影$20#国产动漫$21#日韩动漫$22#欧美动漫$23#港台动漫$24#其他动漫$4"
 }
