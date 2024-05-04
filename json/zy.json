@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
-    "站名": "韩剧兔",
-    "主页url": "https://www.hanjutu.com/",
+    "站名": "韩剧TV",
+    "主页url": "https://www.yingio.com/",
     "导演": "導演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "狀態：&&</div>",
@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "style=\">&&</li>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "style=\">&&</div>",
-    "分类url": "https://www.hanjutu.com/htm/hanju/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$dianying#韩剧$hanju#日剧$riju#泰剧$taiju#韩综$zongyi"
+    "分类url": "https://www.yingio.com/vodshow/juji/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "首页$hanji#最新韩剧$new#推荐韩剧$jian#高分韩剧$hot#电影$dianyingi"
 }
