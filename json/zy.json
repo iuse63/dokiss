@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
-    "站名": "4K动漫",
-    "主页url": "https://www.agekkkk.com/",
+    "站名": "好耶追番",
+    "主页url": "https://www.heitaifun.com/",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "更新：&&</div>",
@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "https://www.agekkkk.com/type/2/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "日韩动漫$1#国产动漫$2#动态漫画$5#真人特摄$4#欧美动漫$3"
+    "分类url": "https://www.heitaifun.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "番剧$32#国漫$33#剧场版$39"
 }
