@@ -1,0 +1,19 @@
+{
+    "作者": "圥忈",
+    "站名": "蚂蚁影视",
+    "主页url": "http://www.mayiys.cc/",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "影片状态": "状态：&&</div>",
+    "影片类型": "clearfix\">&&立即播放",
+    "搜索模式": "1",
+    "搜索url": "http://www.mayiys.cc/vod/search.html?wd={wd}",
+    "搜索数组": "hl-list-item hl-col-xs-12\">&&</li>",
+    "搜索标题": "title=\"&&\"",
+    "搜索副标题": "text\">&&</div>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "hl-from-list\">&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
+    "分类url": "http://www.mayiys.cc/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$5"
+}
