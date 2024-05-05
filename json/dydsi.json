@@ -13,8 +13,8 @@
     "搜索副标题": "<b>&&</b>",
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "title lh40\">&&</h3>[不包含:KK线路#BF线路#FF线路#YZ线路]",
-    "线路标题": "nav nav-tabs  dpplay pull-right\">&&</a>",
+    "线路数组": "nav nav-tabs  dpplay pull-right\">&&</a>[不包含:KK线路#BF线路#FF线路#YZ线路]",
+    "线路标题": "title lh40\">&&</h3>",
     "分类url": "https://dyds.lol/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$3#动漫$4#综艺$23#纪录片$2#伦理$21"
 }
