@@ -13,7 +13,7 @@
     "搜索副标题": "text\">&&</div>",
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路标题": "hl-from-subm3u8 hl-lc-1\">&&</span>[替换:</span><small>>>共]",
+    "线路标题": "<span class=\"hl-from-subm3u8 hl-lc-1\">&&</span>[替换:</span><small>>>共]",
     "分类url": "http://www.mayiys.cc/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$5"
 }
