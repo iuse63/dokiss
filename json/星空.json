@@ -28,5 +28,5 @@
         "播放链接": "href=\"&&\"",
         "免嗅": "0",
         "分类": "电影$3#剧集$27359#动漫$23120#综艺$4",
-        "分类url": "https://ixkw.cc/all/3---hits/{cateId}_{catePg}?order=time"
+        "分类url": "https://ixkw.cc/all/hits/{cateId}_{catePg}?order=time"
       }
