@@ -28,5 +28,5 @@
         "播放链接": "href=\"&&\"",
         "免嗅": "0",
         "分类": "豆瓣Rank$douban#电影$movie#剧集$tv#动漫$cartoon#综艺$show",
-        "分类url": "https://ixkw.cc/all/{cateId}_{catePg}.html?order=time"
+        "分类url": "https://ixkw.cc/all/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
