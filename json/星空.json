@@ -1,6 +1,6 @@
 {
         "站名": "星空影院",
-        "主页url": "https://ixkw.cc/all/",
+        "主页url": "https://ixkw.cc/",
         "数组": "class=\"video-img-box mb-e-20\"&&</a",
         "图片": "data-src=\"&&\"",
         "标题": "alt=\"&&\"",
@@ -28,5 +28,5 @@
         "播放链接": "href=\"&&\"",
         "免嗅": "0",
         "分类": "豆瓣Rank$douban#电影$movie#剧集$tv#动漫$cartoon#综艺$show",
-        "分类url": "https://ixkw.cc/all/{cateId}_{catePg}?order=time"
+        "分类url": "https://ixkw.cc/all/3---hits/{cateId}_{catePg}?order=time"
       }
