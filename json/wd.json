@@ -15,7 +15,6 @@
     "搜索标题": "title=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-    "搜索后缀": "/view/",
     "线路数组": "data-toggle=\"tab&&/a>",
     "线路标题": ">&&<",
     "播放数组": "class=\"stui-content__playlist clearfix sort-list&&</ul>",
