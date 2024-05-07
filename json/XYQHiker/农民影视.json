@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类": "热映电影$1#追剧$2#蓝光美剧$14#热播电视剧$13#追韩剧$15#海外剧$16#动画番剧$3#在线综艺$20",
+    "分类": "热映电影$1#追剧$2",
     "分类url": "https://www.21js.org/cupfox/class-1-----------/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 }
