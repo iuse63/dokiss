@@ -9,7 +9,7 @@
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
-    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+    "线路标题": "<span>&&</small>+集",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "集数：&&</div>",
