@@ -16,7 +16,7 @@
     "搜索链接": "href=\"&&\"",
     "搜索副标题": "<p class=\"item-status text-overflow\">&&</p>",
     "搜索后缀": "/view/",
-    "线路数组": "class=\"swiper-wrapper&&/li>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+    "线路数组": "class=\"swiper-slide ewave-tab&&/li>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
     "线路标题": ">&&<",
     "播放数组": "class=\"episode-box scrollbar&&</ul>",
     "状态": "状态：&&</p>",
