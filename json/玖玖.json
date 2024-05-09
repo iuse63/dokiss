@@ -18,7 +18,7 @@
         "搜索后缀": "/view/",
         "线路数组": "data-toggle=\"tab&&/a>",
         "线路标题": ">&&<",
-        "播放数组": "class=\"myui-content__list sort-list clearfix&&</ul>",
+        "播放数组": "<div id=\"playlist2\"class=\"tab-pane fade in active clearfix\">&&</ul>",
         "类型": "类型：&&</p>",        
         "主演": "主演：&&</p>",
         "简介": "请勿相信影片中的广告，以免上当受骗。+电影简介：&&</p>",
