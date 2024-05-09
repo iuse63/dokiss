@@ -14,7 +14,7 @@
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[替换:ikun>>蓝光线路①#HN云播>>蓝光线路②#LZ极速>>蓝光线路③#LZ云播>>蓝光线路④#HH云播>>蓝光线路⑤#HH极速>>蓝光线路⑥]",
-    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+    "线路标题": "<span>&&</small>",
     "分类url": "https://www.lzrs.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#连续剧$2#动漫$3#综艺节目$4"
 }
