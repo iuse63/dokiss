@@ -13,8 +13,8 @@
     "搜索副标题": "title=\">&&</a>",
     "搜索图片": "data-src=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
-    "线路标题": "<span data-dropdown-value=\">&&</small>+集",
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "<span>&&</small>+集",
     "分类url": "https://www.52gen.vip/vodshow/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman#短剧$duanju"
 }
