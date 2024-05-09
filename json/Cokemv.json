@@ -10,7 +10,7 @@
     "副标题": "<span class=\"pack_tagtext\">&&</span>",
     "搜索url": "https://www.jkv.app/search/-------------.html?wd={wd}",
     "搜索模式": "1",
-    "搜索数组": "<li class=\"vodlist_item num_\">&&</li>",
+    "搜索数组": "<div class=\"vodlist_titbox\">&&</li>",
     "搜索图片": "data-background-image=\"&&\"",
     "搜索标题": "title=\"&&\"",
     "搜索链接": "href=\"&&\"",
