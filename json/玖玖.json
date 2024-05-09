@@ -10,7 +10,7 @@
     "搜索url": "https://www.yingshi.dog/vodsearch.html?wd={wd}",
     "搜索数组": "module-card-item-class\">&&</div>",
     "搜索标题": "alt=\"&&\"",
-    "搜索副标题": ">&&</a>",
+    "搜索副标题": "note\">&&</div>",
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
