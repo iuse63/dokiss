@@ -16,7 +16,7 @@
     "搜索链接": "href=\"&&\"",
     "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
     "搜索后缀": "/view/",
-    "线路数组": "<h3 class=\"title\"&&/h3>",
+    "线路数组": "<span class=\"more text-muted pull-right\"&&/h3>",
     "线路标题": ">&&<",
     "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
     "状态": "地区：&&</p>",
