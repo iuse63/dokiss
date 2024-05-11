@@ -4,8 +4,8 @@
     "主页url": "https://9ciyuan.com/",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
-    "影片状态": "状态：&&</div>",
-    "影片类型": "<p class=\"pt-10 pb-10\"&&</p>",
+    "影片类型": "分类：&&</div>",
+    "影片简介": "<p class=\"pt-10 pb-10\"&&</p>",
     "搜索模式": "1",
     "搜索url": "https://9ciyuan.com/index.php/vod/search.html?wd={wd}",
     "搜索数组": "<div class=\"pic\"&&</li>",
@@ -14,7 +14,7 @@
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "<li class=\"swiper-slide ewave-tab\"&&</em>[不包含:KK线路#BF线路#FF线路#YZ线路]",
-    "线路标题": "data-target=\"&&</span>+集",
+    "线路标题": "data-target=\"#ewave-playlist\"&&</span>+集,
     "分类url": "https://9ciyuan.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "新番放送$20#追番计划$4"
 }
