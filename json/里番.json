@@ -1,7 +1,7 @@
 {
     "站名": "共青春",
     "主页url": "https://gqc.ink/",
-    "数组": "class=\"fed-list-pics fed-lazy fed-part-2by3\"&&</a",
+    "数组": "class=\"fed-list-pics fed-lazy fed-part-2by3\"&&</li>",
     "图片": "data-original=\"&&\"",
     "标题": "<a class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"&&</a>\"",
     "链接": "href=\"&&\"",
@@ -28,5 +28,5 @@
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
     "分类": "电影$dianying#电视剧$lianxuju#动漫$dongman#综艺$zongyi#伦理$lunli",
-    "分类url": "https://gqc.ink/vodshow/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+    "分类url": "https://gqc.ink/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 }
