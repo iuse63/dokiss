@@ -5,8 +5,7 @@
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "连载：&&</div>",
-    
-    "简介": "<p>&&</p>",
+    "影片类型": "module-info-tag\">&&立即播放",
     "搜索模式": "1",
     "搜索url": "https://movie.leohi.top/vod/search.html?wd={wd}",
     "搜索数组": "module-card-item-class\">&&</a>",
