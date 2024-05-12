@@ -1,6 +1,6 @@
 {
     "站名": "黑狐影院",
-    "主页url": "https://www.uu-zz.com/",
+    "主页url": "https://www.uu-zz.com/uzstar.php",
     "数组": "class=\"myui-vodlist__box\"&&</li>",
     "图片": "data-original=\"&&\"",
     "标题": "title=\"&&\"",
@@ -28,5 +28,5 @@
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-    "分类url": "https://www.uu-zz.com/u/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+    "分类url": "https://www.uu-zz.com/u/?1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 }
