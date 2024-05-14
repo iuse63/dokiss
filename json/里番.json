@@ -16,6 +16,6 @@
     "播放数组": "磁力链接下载</h2>&&</div>[不包含:网盘]",
     "播放列表": "module-row-info\"&&</div>[包含:magnet]",
     "播放标题": ">&&<",
-    "分类url": "https://www.wo4k.com/pianku/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "https://www.wo4k.com/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#纪录片$3#演唱会$4"
 }
