@@ -1,7 +1,7 @@
 {
         "站名": "千狐影院",
         "主页url": "http://www.oaboab.com/",
-        "数组": "class=\"video-header text-center\"&&</div>",
+        "数组": "class=\"post-list video-list feaimg\"&&</div>",
         "图片": "data-original=\"&&\"",
         "标题": "title=\"&&\"",
         "链接": "href=\"&&\"",
