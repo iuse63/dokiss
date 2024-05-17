@@ -17,7 +17,7 @@
     "搜索链接": "href=\"&&\"",
     "搜索副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
     "搜索后缀": "/view/",
-    "线路数组": "class=\"hl-from-wjm3u8 hl-lc-1\"&&/</span>",
+    "线路数组": "<span class=\">&&</span>",
     "线路标题": ">&&<",
     "播放数组": "id=\"hl-plays-list\"&&</ul>",
     "状态": "地区：&&</li>",
