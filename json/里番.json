@@ -16,5 +16,5 @@
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
     "分类": "动作电影$31#喜剧电影$33#爱情电影$34#科幻电影$35#恐怖电影$36",
-    "分类url": "http://www.1000hu.net/typcc_/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}}.html"
+    "分类url": "http://www.1000hu.net/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}}.html"
 }
