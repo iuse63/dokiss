@@ -28,5 +28,5 @@
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
     "分类": "电影$1#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$23#动漫$4#综艺$3",
-    "分类url": "https://www.fengniao8.com/vodtype/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+    "分类url": "https://www.fengniao8.com/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 }
