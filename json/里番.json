@@ -16,5 +16,5 @@
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
     "分类url": "http://www.jinjinchong.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录$23#短剧$27#伦理#56"
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录$23#短剧$27#伦理$56"
 }
