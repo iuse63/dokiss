@@ -16,5 +16,5 @@
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
     "分类url": "https://www.03yy.co/topiclist/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "豆瓣电影Top250$1#全球票房Top100$9#电影$movie#电视$tv#动漫$dongman#综艺$zongyi"
+    "分类": "豆瓣电影Top250$1#电影$movie#电视$tv#动漫$dongman#综艺$zongyi"
 }
