@@ -18,7 +18,7 @@
     "搜索后缀": "/view/",
     "线路数组": "href=\"/index.php/vod/play/id/136164/sid/l&&/a>",
     "线路标题": ">&&<",
-    "播放数组": "class=\"shoutu-playlist playlist sort-list&&</ul>",
+    "播放数组": "class=\"shoutu-playlist sort-list playlist&&</ul>",
     "状态": "地区：&&</p>",
     "导演": "导演：&&</p>",
     "主演": "主演：&&</p>",
@@ -27,6 +27,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+    "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
     "分类url": "https://www.zhangxindy.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 }
