@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
-    "站名": "18影视",
-    "主页url": "https://www.18ys.cc/",
+    "站名": "橙子影视",
+    "主页url": "https://www.chengtv.cc/",
     "数组": "class=\"hl-item-thumb hl-lazy\"&&</li",
     "图片": "data-original=\"&&\"",
     "标题": "title=\"&&\"",
@@ -9,7 +9,7 @@
     "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
     "过滤词": "/hls/#php",
     "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
-    "搜索url": "https://www.18ys.cc/vodsearch/--.html?wd={wd}",
+    "搜索url": "https://www.chengtv.cc/czdsearch/-------------.html?wd={wd}",
     "搜索模式": "1",
     "搜索数组": "<div class=\"hl-item-pic\"&&</a>",
     "搜索图片": "data-original=\"&&\"",
@@ -28,6 +28,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "https://www.18ys.cc/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#惊悚片$41#悬疑片$21#纪录片$40#冒险片$42#犯罪片$22#奇幻片$23#动画片$24#灾难片$20#预告片$25#国产剧$13#港剧$14#欧美剧$15#日剧$16#韩剧$26#台湾剧$27#泰剧$28#海外剧$29#短剧$30#大陆综艺$31#港台综艺$32#日韩综艺$33#欧美综艺$31#国产动漫$35#日本动漫$36#欧美动漫$37#港台动漫$38#海外动漫$39"
+    "分类url": "https://www.chengtv.cc/czdshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "动作片$6#爱情片$7#科幻片$8#剧情片$9#战争片$10#恐怖片$11#喜剧片$12#悬疑片$35#犯罪片$36#奇幻片$37#邵氏电影$38#纪录片$22#奇幻片$39#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#泰国剧$32#国产综艺$20#港台综艺$21#日韩综艺$22#欧美综艺$23#国产动漫$24#港台动漫$25#日韩动漫$26#欧美动漫$27#动漫电影$33#短剧$34"
 }
