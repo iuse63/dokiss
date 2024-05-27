@@ -13,8 +13,8 @@
     "搜索副标题": "<div class=\"mnrter movie-rating cor4\">&&</div>",
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "class=\"fnt4drg titleName cr3 swiper-slide active&&</a>",
-    "线路标题": ">&&<",
+    "线路数组": "<div class=\"nerer swiper-wrapper\">&&</div>",
+    "线路标题": "class=\"fnt4drg titleName cr3 swiper-slide active&&</a>",
     "分类url": "https://www.hoodlumsmusic.com/cupfox-list/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#樱花动漫$4#综艺$3#番茄短剧$5"
 }
