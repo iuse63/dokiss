@@ -18,7 +18,7 @@
     "搜索后缀": "/view/",
     "线路数组": "data-toggle=\"tab&&/a>",
     "线路标题": ">&&<",
-    "播放数组": "class=\"stui-content__playlist clearfix sort-list&&</ul>",
+    "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
     "状态": "地区：&&</p>",
     "导演": "导演：&&</p>",
     "主演": "主演：&&</p>",
