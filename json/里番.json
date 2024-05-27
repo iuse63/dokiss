@@ -1,14 +1,14 @@
 {
     "作者": "圥忈",
-    "站名": "玖月影视",
+    "站名": "大象影视",
     "主页url": "https://www.zw100.net/",
-    "数组": "class=\"cover-img\"&&</li",
+    "数组": "class=\"item-con\"&&</li",
     "图片": "data-original=\"&&\"",
     "标题": "title=\"&&\"",
     "链接": "href=\"&&\"",
     "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
     "过滤词": "/hls/#php",
-    "副标题": "<p class=\"text\">&&</p>",
+    "副标题": "<span class=\"state\">&&</span>",
     "搜索url": "https://www.zw100.net/search/-------------.html{wd}",
     "搜索模式": "1",
     "搜索数组": "<div class=\"cover-img\"&&</li>",
@@ -28,6 +28,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "https://www.zw100.net/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+    "分类url": "https://www.zhymm.cn/c/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian"
 }
