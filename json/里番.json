@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
-    "站名": "鸭飞影视",
-    "主页url": "https://www.yanaifei.net/",
+    "站名": "NETFLIX影视",
+    "主页url": "https://www.netflixgc.com/",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "备注：&&</div>",
@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "https://www.yanaifei.net/vod/list/1/39/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$39#电视剧$40#动漫$42#综艺$41"
+    "分类url": "https://www.netflixgc.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#电视剧$2#漫剧$3#综艺$4"
 }
