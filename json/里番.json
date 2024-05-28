@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
-    "站名": "皮皮鸭",
-    "主页url": "https://www.ppya.me/",
+    "站名": "大鱼TV",
+    "主页url": "https://www.yutv.top/",
     "数组": "class=\"hl-item-thumb hl-lazy\"&&</li",
     "图片": "data-original=\"&&\"",
     "标题": "title=\"&&\"",
@@ -9,7 +9,7 @@
     "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
     "过滤词": "/hls/#php",
     "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
-    "搜索url": "https://www.ppya.me/vodsearch/-------------.html?wd={wd}",
+    "搜索url": "https://www.yutv.top/index.php/vod/search.html?wd={wd}",
     "搜索模式": "1",
     "搜索数组": "<div class=\"hl-item-pic\"&&</a>",
     "搜索图片": "data-original=\"&&\"",
@@ -28,6 +28,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "https://www.ppya.me/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#连续剧$2#动漫$3#综艺记录$4#短剧$20#电影解说$21#体育$22#预告片$23#伦理片$24"
+    "分类url": "https://www.yutv.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$6#影视解说$7#体育$21#预告片$22#记录片$20"
 }
