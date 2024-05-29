@@ -1,8 +1,8 @@
 {
     "作者": "圥忈",
-    "站名": "人人影视",
-    "主页url": "https://tv-ainaifei.com/",
-    "数组": "class=\"public-list-exp\"&&</div",
+    "站名": "麦田影院",
+    "主页url": "https://www.mtyy3.com/",
+    "数组": "class=\"public-list-exp\"&&</div>",
     "图片": "data-src=\"&&\"",
     "标题": "title=\"&&\"",
     "链接": "href=\"&&\"",
@@ -28,6 +28,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "https://tv-ainaifei.com/index.php/vod/type/id/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#连续剧$2#动漫$4#综艺$3#热门短剧$32"
+    "分类url": "https://www.mtyy3.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$2#电视剧$1#动漫$4#综艺$3"
 }
