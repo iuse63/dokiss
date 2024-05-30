@@ -12,12 +12,13 @@
     "搜索标题": "alt=\"&&\"",
     "搜索副标题": "note\">&&</div>",
     "搜索图片": "data-original=\"&&\"",
-    "搜索链接": "href=\"&&\"",    
+    "搜索链接": "href=\"&&\"",
+    "播放数组": "<div class=\"module-play-list\"&&</div>",
     "线路数组": "data-dropdown-value=&&</div>[包含:云盘]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
     "播放列表": "<a&&/a>",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\"",
+    "播放标题": "title=\"&&\"",
+    "播放链接": "href=\"&&\"[替换:/vodplay/>>https://juziyou.vip/vodplay/]",
     "分类url": "https://juziyou.vip/vodshow/21-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "阿里电影$21#阿里剧集$22#阿里动漫$24#阿里综艺$23"
 }
