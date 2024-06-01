@@ -1,15 +1,15 @@
 {
     "作者": "圥忈",
-    "站名": "电视直播",
-    "主页url": "http://nettvpro.xyz/m/",
-    "数组": "class=\"am-gallery-item\"&&</div",
-    "图片": "img src=\"&&\"[替换:/uploads/>>http://nettvpro.xyz/uploads/]",
-    "标题": "alt=\"&&\"",
+    "站名": "酷吧影院",
+    "主页url": "https://k8.8itv.cn/",
+    "数组": "class=\"hl-item-thumb hl-lazy\"&&</li",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
     "链接": "href=\"&&\"",
     "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
     "过滤词": "/hls/#php",
     "副标题": "<span class=\"hl-lc-1 remarks\">&&</span>",
-    "搜索url": "https://www.51kanju.com/vodsearch.html?wd={wd}",
+    "搜索url": "https://k8.8itv.cn/index.php/vod/search.html?wd={wd}",
     "搜索模式": "1",
     "搜索数组": "<div class=\"hl-item-pic\"&&</a>",
     "搜索图片": "data-original=\"&&\"",
@@ -28,6 +28,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "http://nettvpro.xyz/m/list.php?tid=1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-    "分类": "央視頻道$1#衛星電視$2"
+    "分类url": "https://k8.8itv.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$21#体育$20"
 }
