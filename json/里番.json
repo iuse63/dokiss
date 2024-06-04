@@ -28,6 +28,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "https://www.dp88.net/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year};;d0",
+    "分类url": "https://www.dp88.net/{cateId}/page/{catePg};;d0",
     "分类": "电影$movie#电视剧$series#动漫$anime"
 }
