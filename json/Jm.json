@@ -14,8 +14,8 @@
     "搜索副标题": "<span class=\"pic-text text-right\"&&</span>",
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "class=\"fa fa fa-circle-o-notch&&</h3>",
-    "线路标题": "</i>&&</h3>",
+    "线路数组": "<h3 class=\"title\">&&</div>",
+    "线路标题": "class=\"fa fa fa-circle-o-notch\">&&</h3>",
     "分类url": "https://gimy.video/channel/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "電影$1#電視劇$2#動漫$30#綜藝$29"
 }
