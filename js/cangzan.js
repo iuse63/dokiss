@@ -1,7 +1,7 @@
 var rule={
-    title:'厂长资源',
-    //host:'https://www.czzy.site',
-    host:'https://czzy.top/',
+    title:'美剧星球',
+    //host:'https://www.kmeiju.cc/',
+    host:'https://www.kmeiju.cc/',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,"h3&&a&&href")',
     url:'/fyclassfyfilter',
     filterable:1,//是否启用分类筛选,
@@ -19,8 +19,8 @@ var rule={
         'User-Agent': 'MOBILE_UA',
         'Cookie': 'esc_search_captcha=1'
     },
-    class_name:'全部&豆瓣电影Top250&最新电影&热映中&电影&电视剧&动画&国产剧&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&欧美电影&韩国电影&纪录片',
-    class_url:'movie_bt&dbtop250&zuixindianying&benyueremen&/movie_bt_series/dyy&/movie_bt_series/dianshiju&/movie_bt_series/dohua&/movie_bt_series/guochanju&/movie_bt_series/rj&/movie_bt_series/hj&/movie_bt_series/mj&/movie_bt_series/hwj&/movie_bt_series/eluosidianying&/movie_bt_series/jianadadianying&/movie_bt_series/huayudianying&/movie_bt_series/yindudianying&/movie_bt_series/ribendianying&/movie_bt_series/meiguodianying&/movie_bt_series/hanguodianying&/movie_bt_tags/jlpp',
+    class_name:'电影&剧集&番剧&记录&高分排行',
+    class_url:'movie_kmeiju&tv_kmeiju&fan_kmeiju&record&gaofen',
 	play_parse:true,
 
 	// lazy代码:源于海阔香雅情大佬 / 小程序：香情影视 https://pastebin.com/L4tHdvFn
