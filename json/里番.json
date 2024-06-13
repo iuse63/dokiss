@@ -19,7 +19,7 @@
     "搜索后缀": "/view/",
     "线路数组": "class=\"iconfont icon-iconfontplay2&&</a>",
     "线路标题": "</em>&&</a>",
-    "播放数组": "<ul class=\"stui-content__playlist play_source_list_item clearfix&&</ul>",
+    "播放数组": "<div class=\"stui-pannel_bd col-pd play_source_list clearfix\">&&</ul>",
     "状态": "地区：&&</p>",
     "导演": "导演：&&</p>",
     "主演": "主演：&&</p>",
