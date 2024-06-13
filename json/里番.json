@@ -6,8 +6,9 @@
     "主演": "主演：&&</div>",
     "影片状态": "备注：&&</div>",
     "影片类型": "video-info-aux\">&&立即播放",
+    "简介": "请勿相信影片中的广告，以免上当受骗。+<p class=\"sqjj_a\"style=\"display: none;&&</div>",
     "搜索模式": "1",
-    "搜索url": "http://www.52yingka.vip/vod/search.html?wd={wd}",
+    "搜索url": "https://198mv.com/index.php/vod/search.html?wd={wd}",
     "搜索数组": "module-item-pic\">&&</div>",
     "搜索标题": "alt=\"&&\"",
     "搜索副标题": "",
@@ -16,5 +17,5 @@
     "线路数组": "data-dropdown-value=&&</div>",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
     "分类url": "https://198mv.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$49#解说$40"
+    "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$39#解说$40"
 }
