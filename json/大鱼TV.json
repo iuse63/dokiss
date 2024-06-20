@@ -29,5 +29,5 @@
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
     "分类url": "https://www.yutv.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$6#影视解说$7#体育$21#预告片$22#记录片$20"
+    "分类": "电影$3#电视剧$20#动漫$21#短剧$1#影视解说$2"
 }
