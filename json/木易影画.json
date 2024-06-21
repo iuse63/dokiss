@@ -6,7 +6,7 @@
     "主演": "主演：&&</div>",
     "影片状态": "连载：&&</div>",
     "影片类型": "module-info-tag\">&&立即播放",
-    "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+    "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"module-info-introduction-content show-desc\"style=\"line-height: 20px;\">&&</div>",
     "搜索模式": "1",
     "搜索url": "https://movie.leohi.top/vsearch.html?wd={wd}",
     "搜索数组": "module-card-item-class\">&&</a>",
@@ -15,7 +15,7 @@
     "搜索图片": "data-src=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+    "线路标题": "<span>&&</small>",
     "分类url": "https://movie.leohi.top/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$16#预告$32#解说$33#短剧$34#赛事$35"
 }
