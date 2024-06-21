@@ -38,7 +38,7 @@ var rule = {
 	},
 	timeout:5000,
 	class_name:'电视剧&电影&动漫&综艺&海外精选', // /api.php/provide/home_nav
-	class_url:'2&1&4&3&46',
+	class_url:'1&2&4&3&46',
 	limit:20,
 	play_parse:true,
 	lazy:`js:
