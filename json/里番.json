@@ -19,7 +19,7 @@
     "搜索后缀": "/view/",
     "线路数组": "data-toggle=\"tab&&</a>",
     "线路标题": "韩剧TV",
-    "播放数组": "<ul class=\"myui-content__list sort-list clearfix\"&&</ul>",
+    "播放数组": "<div id=\"playlist1\"class=\"tab-pane fade in clearfix\">&&</ul>",
     "状态": "地区：&&</p>",
     "导演": "导演：&&</p>",
     "主演": "主演：&&</p>",
