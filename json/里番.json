@@ -1,7 +1,7 @@
 {
     "作者": "韩剧",
-    "站名": "韩剧看看",
-    "主页url": "https://www.hanjukankan.com/frim/index1.html",
+    "站名": "韩剧TVN",
+    "主页url": "https://www.hanjutvn.net/",
     "简介": "class=\"sketch hidden-sm hidden-xs\">&&<a href=\"#jq\">详情 <i",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
@@ -16,6 +16,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-toggle=\"tab\">&&</a></li>",
     "线路标题": "韩剧TV",
-    "分类url": "https://www.hanjukankan.com/frim/index{cateId}.html",
-    "分类": "韩剧$1#韩影$2#韩综$3#其他$4#推荐$5"
+    "分类url": "https://www.hanjutvn.net/{cateId}.html",
+    "分类": "韩剧$hanju#日剧$riju#泰剧$taiju#电影$dianying#韩综$hanzong"
 }
