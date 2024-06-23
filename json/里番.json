@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
-    "站名": "韩剧TVN",
-    "主页url": "https://www.hanjutvn.net/",
+    "站名": "冷曦影院",
+    "主页url": "https://www.lenxitv.cc/",
     "简介": "<span class=\"sketch content\"&&</div>",
     "导演": "导演：&&</p>",
     "主演": "主演：&&</p>",
@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-toggle=\"tab\">&&</a>",
     "线路标题": "韩剧TVN",
-    "分类url": "https://www.hanjutvn.net/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
-    "分类": "韩剧$hanju#日剧$riju#泰剧$taiju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#韩综$hanzong"
+    "分类url": "https://www.lenxitv.cc/t/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+    "分类": "电影$wmovie#电视剧$tv#综艺$zongyi#动漫$dongman#福利$fuli#直播$zhibo#电影解说$dianyingjieshuo#体育频道$tiyu#网文短剧$wwdj"
 }
