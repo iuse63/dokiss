@@ -16,7 +16,7 @@
     "搜索链接": "href=\"&&\"",
     "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
     "搜索后缀": "/view/",
-    "线路数组": "data-toggle=\"tab&&/a>",
+    "线路数组": "data-toggle=\"tab&&/a>[不包含:QY节点#TX节点#YK节点#MG节点]",
     "线路标题": ">&&<",
     "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
     "状态": "地区：&&</p>",
