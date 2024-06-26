@@ -18,7 +18,7 @@
     "搜索副标题": "酷哒蓝光",
     "搜索后缀": "/view/",
     "线路数组": "data-toggle=\"tab&&</a>",
-    "线路标题": "高清秒播",
+    "线路标题": ">&&<",
     "播放数组": "<ul class=\"myui-content__list sort-list clearfix\"&&</ul>",
     "状态": "类型：&&</p>",
     "导演": "导演：&&</p>",
@@ -28,6 +28,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "https://kukuda.com/index.php/vod/type/{cateId}-{catePg}.html",
+    "分类url": "https://kukuda.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#体育$20"
 }
