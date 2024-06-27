@@ -10,7 +10,7 @@
     "副标题": "<span class=\"state\">&&</span>",
     "搜索url": "https://www.modiandy.com/search/{wd}",
     "搜索模式": "1",
-    "搜索数组": "<div class=\"img\"&&</li>",
+    "搜索数组": "<li class=\"item mb15\"&&</li>",
     "搜索图片": "_src=\"&&\"",
     "搜索标题": "title=\"&&\"",
     "搜索链接": "href=\"&&\"",
