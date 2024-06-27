@@ -10,7 +10,7 @@
     "副标题": "<span class=\"pic_text text_right\">&&</span>",
     "搜索url": "https://www.kmysqy.com/search.php?searchword={wd}",
     "搜索模式": "1",
-    "搜索数组": "<a class=\"vodlist_thumb lazyload\"&&</li>",
+    "搜索数组": "<div class=\"searchlist_img\"&&</li>",
     "搜索图片": "data-original=\"&&\"",
     "搜索标题": "title=\"&&\"",
     "搜索链接": "href=\"&&\"",
