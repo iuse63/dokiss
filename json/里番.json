@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "https://www.modiandy.com/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}",
+    "分类url": "https://www.modiandy.com/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}",
     "分类": "电视剧$dianshiju#动漫$dongman#电影$dianying#综艺$zongyi#纪录片$jilupian#微电影$weidianying"
 }
