@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
-    "站名": "咖啡影视",
-    "主页url": "https://cdnbeijin-aliyun-ys1.cfys.xyz/",
+    "站名": "墨点影视",
+    "主页url": "https://www.modiandy.com/",
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "备注：&&</div>",
@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "https://cdnbeijin-aliyun-ys1.cfys.xyz/vodshow/20-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "追剧$21#动漫$23#电影$20#综艺$22"
+    "分类url": "https://www.modiandy.com/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}l",
+    "分类": "电视剧$dianshiju#动漫$dongman#电影$dianying#综艺$zongyi#纪录片$jilupian#微电影$weidianying"
 }
