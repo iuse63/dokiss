@@ -22,11 +22,11 @@
     "状态": "状态：&&</li>",
     "导演": "导演：&&</li>",
     "主演": "主演：&&</li>",
-    "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"content_desc context clearfix\"&&</div>",
+    "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"content_desc context clearfix\"&&</span>",
     "播放列表": "<a&&/a>",
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "https://www.kmysqy.com/hanxiaoquan/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类url": "https://www.kmysqy.com/hanxiaoquan/{cateId}-{catePg}.html",
     "分类":"韩剧TV$1#韩国电影$2#韩国动漫$4#韩国综艺$3"
 }
