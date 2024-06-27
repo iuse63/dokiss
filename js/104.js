@@ -1,10 +1,10 @@
 muban.首图2.二级.desc = 'p.data:eq(-1)&&Text;;;p.data:eq(-2)&&Text;p.data:eq(-3)&&Text';
 var rule = {
-    title:'达达龟',
+    title:'剧看看',
     模板:'首图2',
-    host:'https://www.dadagui.me',
-    // url:'/vodshow/fyclass--------fypage---.html',
-    url:'/vodshow/fyclassfyfilter.html',
+    host:'https://www.jukankan.me/',
+    // url:'/vodtype/fyclass--------fypage---.html',
+    url:'/vodtype/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter: {
