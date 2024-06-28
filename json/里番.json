@@ -9,7 +9,7 @@
     "过滤词": "/hls/#php",
     "副标题": "<span class=\"state\">&&</span>",
     "线路数组": "<a href=\"javascript:;\"&&</a>",
-    "线路标题": "class=\"tab-nav\"title=&&",
+    "线路标题": "title=\"&&\"",
     "播放数组": "class=\"episodes-list&&</ul>",
     "状态": "状态：&&</p>",
     "导演": "导演：&&</p>",
