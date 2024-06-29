@@ -6,7 +6,7 @@ var rule = {
     host:'https://www.anfuns.cc',
     cate_exclude: '最新|排行',
     // url:'/type/fyclass-fypage.html',
-    url:'/show/fyclassfyfilter.html',
+    url:'/type/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'---{{fl.year}}{{fl.by}}/page/fypage',
     filter: {
