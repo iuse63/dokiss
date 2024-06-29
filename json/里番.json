@@ -22,6 +22,6 @@
     "播放链接": "href=\"&&\"",
     "嗅探词": "index.m3u8",
     "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-    "分类url": "https://www.mp4br.com/dy/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类": "电影$hd79#电视剧$hd38#综艺$hd40#动漫$hd90#预告片$hd96#短剧$hd97#体育赛事$hd98"
+    "分类url": "https://www.mp4br.com/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类": "电影$dy/hd79#电视剧$dy/hd38#综艺$dy/hd40#动漫$dy/hd90#预告片$dy/hd96#短剧$dy/hd97#体育赛事$dy/hd98"
 }
