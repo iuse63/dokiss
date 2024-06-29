@@ -7,7 +7,7 @@
     "主演": "主演：&&</p>",
     "影片状态": "时间：&&</p>",
     "影片类型": "类别：&&</p>",
-    "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-content__desc detail col-pd bbadaf\"&&</div>",
+    "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-content__desc detail col-pd bbadaf&&</div>",
     "搜索模式": "1",
     "搜索url": "https://zjdy1.com/search.html?wd={wd}",
     "搜索数组": "<a class=\"stui-vodlist__thumb lazyload\"&&</li>",
@@ -15,8 +15,8 @@
     "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "href=\"javascript:;&&</a>[不包含:返回#切换节点]",
+    "线路数组": "<li><a href=\"javascript:;\">&&</a></li>[不包含:返回#切换节点]",
     "线路标题": ">&&<",
     "分类url": "https://zjdy1.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影大全$1#热播剧场$2#最新综艺$3#经典动漫$4"
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 }
