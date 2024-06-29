@@ -11,7 +11,7 @@
     "副标题": "<span class=\"pic_text text_right\">&&</span>",
     "搜索url": "https://xumy.one/vod/search.html?wd={wd}",
     "搜索模式": "1",
-    "搜索数组": "<li class=\"searchlist_item\">&&</li>",
+    "搜索数组": "<div class=\"searchlist_img\"&&</div>",
     "搜索图片": "style=\"background-image: url('&&')",
     "搜索标题": "title=\"&&\"",
     "搜索链接": "href=\"&&\"",
