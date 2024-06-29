@@ -14,14 +14,13 @@
     "搜索副标题": "referrerpolicy=\"no-referrer\">&&</span>",
     "搜索图片": "<img src=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "<li id=\"onclick=\">&&</li>",
-    "线路标题": ">&&</li>",
-    "播放数组": "<ul>&&</ul>",
-    "播放列表": "<a&&/a>",
-    "播放标题": ">&&<",
+    "线路数组": "<li id=\">&&</li>",
+    "线路标题": ">&&</li",
+    "播放数组": "<a href=\"javascript:void(0)\"<ul>&&</ul>",
+    "播放列表": "<a&&</a",
+    "播放标题": ">&&</a",
     "播放链接": "href=\"&&\"",
-    "嗅探词": "0",
-    "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-    "分类url": "https://www.03yy.co/type/index/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+    "嗅探词": "index.m3u8",
+    "分类url": "https://www.03yy.co/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类": "豆瓣电影TOP250$topiclist/1#电影$movies#电视剧$tv#综艺$zongyi#动漫$dongman"
 }
