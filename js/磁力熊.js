@@ -68,7 +68,7 @@ var rule = {
 		// list_text:'a&&Text',
 		// list_url:'a&&href',
 
-		tabs:'js:TABS = ["道长磁力","道长在线预览"]',
+		tabs:'js:TABS = ["白熊磁力","白熊在线预览"]',
 		lists:`js:
 		log(TABS);
 		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
