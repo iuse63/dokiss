@@ -5,7 +5,8 @@
     "导演": "导演：&&</div>",
     "主演": "主演：&&</div>",
     "影片状态": "集数：&&</div>",
-    "影片类型": "module-info-tag\">&&立即播放",
+    "影片类型": "module-info-tag-link\">&&播放",
+    "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"module-info-introduction-content&&</div>",
     "搜索模式": "1",
     "搜索url": "http://waipian27.com/search-{wd}-------------/",
     "搜索数组": "module-card-item-class\">&&</a>",
@@ -13,8 +14,8 @@
     "搜索副标题": "note\">&&</div>",
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "http://waipian27.com/show-{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}",
+    "线路数组": "<span data-dropdown-value=&&</div>",
+    "线路标题": ">&&</small>+集",
+    "分类url": "http://waipian27.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
     "分类": "电影$dianying#电视剧$juji#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanju"
 }
