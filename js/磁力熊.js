@@ -18,7 +18,7 @@ var rule = {
 	},
 	timeout:5000,
 	class_name:'电影&剧集&豆瓣电影Top250&IMDB Top250&高分悬疑片&高分喜剧片&高分传记片&高分爱情片&高分犯罪片&高分恐怖片&高分冒险片&高分武侠片&高分奇幻片&高分历史片&高分战争片&高分歌舞片&高分灾难片&高分情色片&高分西部片&高分音乐片&高分科幻片&高分动作片&高分动画片&高分纪录片&冷门佳片',
-	class_url:'1&2&/top250/&/s/imdbtop250/&/s/suspense/&/s/comedy/&/s/biopic/&/s/romance/&/s/crime/&/s/horror/&/s/adventure/&/s/martial/&/s/fantasy/&/s/history/&/s/war/&/s/musical/&/s/disaster/&/s/erotic/&/s/west/&/s/music/&/s/sci-fi/&/s/action/&/s/animation/&/s/documentary/&/s/unpopular/',
+	class_url:'1&2&/top250/&/s/imdbtop250/&/s/suspense/&/s/comedy/&/s/biopic/&/s/romance/&/s/crime/&/s/horror/&/s/adventure/&/s/martial/&/s/fantasy/&/s/history/&/s/war/&/s/musical/&/s/disaster/&/s/erotic/&/s/west/&/s/music/&/s/sci-fi/&s/action/&/s/animation/&/s/documentary/&/s/unpopular/',
 	play_parse:true,
 	lazy:'',
 	limit:6,
@@ -63,12 +63,12 @@ var rule = {
 		desc:'p.mb-2:eq(1)&&Text;;;p.mb-2:eq(7)&&Text;p.mb-2:eq(5)&&Text',
 		img:'.rounded-2&&src',
 		content:'.mv_card_box&&Text',
-		// tabs:'js:TABS = ["白熊磁力"]',
+		// tabs:'js:TABS = ["道长磁力"]',
 		// lists:'.mv_down:eq(#id)&&.border-bottom',
 		// list_text:'a&&Text',
 		// list_url:'a&&href',
 
-		tabs:'js:TABS = ["白熊磁力","白熊在线预览"]',
+		tabs:'js:TABS = ["道长磁力","道长在线预览"]',
 		lists:`js:
 		log(TABS);
 		pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
@@ -85,7 +85,7 @@ var rule = {
 					return title + '$' + burl
 				});
 				LISTS.push(d)
-			} else if (/白熊在线预览/.test(tab)) {
+			} else if (/道长在线预览/.test(tab)) {
 				var d = pd(html, 'iframe&&src');
 				if (d) {
 					d=['第一集在线播放预览$' + d]
