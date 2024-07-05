@@ -15,6 +15,6 @@
     "搜索链接": "href=\"&&\"",
     "线路数组": "data-dropdown-value=&&</div>",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "http://www.edktv.com/type_1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "http://www.edktv.com/vodshow_{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#少儿$23#短剧$36#纪录片$37#电影解说$38#直播$0"
 }
