@@ -2,7 +2,7 @@
   "作者": "cally",
   "站名": "可可影视",
   "主页url": "https://www.keke9.app/",
-  "分类url": "https://www.keke9.app/{cateId}-{catePg}.html[https://www.keke9.app/{cateId}------.html];;ak",
+  "分类url": "https://www.keke9.app/{cateId}-{catePg}.html[https://www.keke9.app/{cateId}.html];;ak",
   "分类": "豆瓣TOP250&2023最佳影片&Netflix高分&毒舌推荐&冷门佳片",
   "分类值": "topic/detail/1&topic/detail/460&topic/detail/461&topic/detail/3&topic/detail/13",
   "数组": "module-item\">&&\"v-item-footer\">",
