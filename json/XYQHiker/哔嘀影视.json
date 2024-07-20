@@ -9,40 +9,27 @@
     "首页列表数组规则": "body",
     "首页片单列表数组规则": ".card-link",
     "首页片单是否Jsoup写法": "1",
-    //首页片单标题
     "首页片单标题": "h3&&Text",
-    //首页推荐片单链接
     "首页片单链接": "a&&href",
-    //首页推荐片单图片，支持自定义图片链接
     "首页片单图片": "img&&data-src",
-    //首页推荐片单副标题
-    "首页片单副标题":".badge||.ribbon&&Text",
-    //首页推荐片单链接补前缀  
+    "首页片单副标题": ".badge||.ribbon&&Text",
     "首页片单链接加前缀": "https://www.yjys01.com",
-    //首页推荐片单链接补后缀
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
     "分类链接": "https://www.yjys01.com/s/{cateId}/{catePg}?type={class}&year={year}&order={by}",
-    "分类名称": "不限&动作&爱情&喜剧&科幻&恐怖&战争&武侠&魔幻&剧情&动画&惊悚&3D&灾难&悬疑&警匪&文艺&青春&冒险&犯罪&纪录&古装&奇幻&国语&综艺&历史&运动&原创压制&美剧&韩剧&国产电视剧&日剧&英剧&德剧&俄剧&巴剧&加剧&西剧&意大利剧&泰剧&港台剧&法剧&澳剧",
-    "分类名称替换词": "all&dongzuo&aiqing&xiju&kehuan&kongbu&zhanzheng&wuxia&mohuan&juqing&donghua&jingsong&3D&zainan&xuanyi&jingfei&wenyi&qingchun&maoxian&fanzui&jilu&guzhuang&qihuan&guoyu&zongyi&lishi&yundong&yuanchuang&meiju&hanju&guoju&riju&yingju&deju&eju&baju&jiaju&spanish&yidaliju&taiju&gangtaiju&faju&aoju",
-    //"筛选数据": {},
+    "分类名称": "不限&动作&爱情&喜剧&科幻&恐怖&战争&武侠&魔幻&剧情&动画&惊悚&3D&灾难&悬疑&警匪&文艺&青春&冒险&犯罪&纪录&古装&奇幻&国语&综艺&历史&运动&原创压制&美剧&韩剧&国剧&日剧&英剧&德剧&俄剧&巴剧&加剧&西剧&意大利剧&泰剧&港台剧&法剧&澳剧",
+    "分类名称替换词": "all&dongzuo&aiqing&xiju&kehuan&kongbu&zhanzheng&wuxia&mohuan&juqing&donghua&jingsong&3D&zainan&xuanyi&jingfei&wenyi&qingchun&maoxian&fanzui&jilu&guzhuang&qihuan&guoyu&zongyi&lishi&yundong&yuanchuang&meiju&hanju&all?type=1&area=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&riju&yingju&deju&eju&baju&jiaju&spanish&yidaliju&taiju&gangtaiju&faju&aoju",
     "筛选数据": "ext",
-    //{cateId}
     "筛选子分类名称": "",
     "筛选子分类替换词": "",
-    //{class}
     "筛选类型名称": "全部&电影&电视剧",
     "筛选类型替换词": "&0&1",
-    //{area}
     "筛选地区名称": "",
     "筛选地区替换词": "*",
-    //{year}
     "筛选年份名称": "2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010&2009&2008&2007&2006&2005&2004&2003&2002&2001",
     "筛选年份替换词": "*",
-    //{lang}
     "筛选语言名称": "",
     "筛选语言替换词": "*",
-    //{by}
     "筛选排序名称": "更新时间&豆瓣评分",
     "筛选排序替换词": "0&1",
     "分类截取模式": "1",
