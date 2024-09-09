@@ -1185,6 +1185,8 @@
             "ext": {
                 "图片": "data-src=\"&&\"",
                 "副标题": "<div class=\"absolute right bottom small-margin small-round black white-text small-text\">&nbsp;&&&nbsp;",
+                "搜索url": "https://kimivod.com/vodsearch.html?wd={wd}",
+                "搜索链接": "href=\"&&\"",
                 "影片地区": "圥忈制作",
                 "影片类型": "<nav class=\"scroll no-margin\"&&</nav>",
                 "导演": "導演：&&</p>",
