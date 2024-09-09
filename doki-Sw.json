@@ -3308,7 +3308,15 @@
         },
         {
             "key": "cc",
-            "name": "请勿相信视频中的广告",
+            "name": "请勿相信视频中广告",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "dh",
+            "name": "导航link3.cc/dokilwss",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
