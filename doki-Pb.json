@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆瓣片库",
-            "name": "本接口已失效",
+            "name": "本接口已失效\n获取最新接口",
             "type": 3,
             "api": "csp_DouDou",
             "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt",
@@ -13,16 +13,8 @@
             "filterable": 0
         },
         {
-            "key": "cc",
-            "name": "获取最新接口",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "dh",
-            "name": "关注地址:link3.cc/dokilwss",
+            "name": "关注地址:\nlink3.cc/dokilwss",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -30,7 +22,7 @@
         },
         {
             "key": "dc",
-            "name": "如若配置失败，请切换网络",
+            "name": "如若配置失败\n请切换网络",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -38,7 +30,7 @@
         },
         {
             "key": "hl",
-            "name": "专人维护，持续更新",
+            "name": "专人维护—持续更新",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
