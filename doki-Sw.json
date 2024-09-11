@@ -2389,19 +2389,16 @@
             }
         },
         {
-            "key": "九兔动漫",
-            "name": "✨九兔┃动漫",
+            "key": "233动漫",
+            "name": "✨臭蛋┃动漫",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"text-body-secondary text-truncate&&</span>",
-                "线路数组": "<option value=\"&&</option>",
-                "线路标题": ">&&<",
-                "分类url": "https://www.9tdm.com/vodshow/{cateId}--------{catePg}---.html",
-                "分类": "全部动漫$1#国漫$6#日漫$7#欧美动漫$8#港台动漫$9#动漫电影$10"
+                "分类url": "https://www.233dm.com/type/{cateId}-{catePg}.html",
+                "分类": "国产漫$2#日韩漫$1#欧美漫$3#特摄片$4#动态漫$5"
             }
         },
         {
