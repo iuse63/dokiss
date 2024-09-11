@@ -812,7 +812,7 @@
             "filterable": 1,
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
-                "分类url": "https://www.aidm3.com/type/{cateId}-{catePg}.html",
+                "分类url": "https://www.zkk79.com/type/{cateId}-{catePg}.html",
                 "分类": "国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#动漫电影$dongmandianying"
             }
         },
@@ -2385,6 +2385,19 @@
                 "搜索url": "http://www.ting38.com/search.php?searchword={wd}",
                 "分类url": "http://www.ting38.com/ting/{cateId}-{catePg}.html",
                 "分类": "新番日漫$1#国产动漫$2#欧美动漫$3#动漫电影$4"
+            }
+        },
+        {
+            "key": "九兔动漫",
+            "name": "✨九兔┃动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.9tdm.com/vodshow/{cateId}--------{catePg}---.html",
+                "分类": "全部动漫$1#国漫$6#日漫$7#欧美动漫$8#港台动漫$9#动漫电影$10"
             }
         },
         {
