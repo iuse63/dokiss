@@ -812,8 +812,8 @@
             "filterable": 1,
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
-                "分类url": "https://www.zkk79.com/type/{cateId}-{catePg}.html",
-                "分类": "国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#动漫电影$dongmandianying"
+                "分类url": "https://www.zkk79.com/show/{catePg}--------{catePg}---.html",
+                "分类": "国产动漫$guoman#日本动漫$riman#欧美动漫$oman#动漫电影$dmdianying"
             }
         },
         {
@@ -2396,6 +2396,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+                "线路数组": "<option value=\"&&</option>",
+                "线路标题": ">&&<",
                 "分类url": "https://www.9tdm.com/vodshow/{cateId}--------{catePg}---.html",
                 "分类": "全部动漫$1#国漫$6#日漫$7#欧美动漫$8#港台动漫$9#动漫电影$10"
             }
