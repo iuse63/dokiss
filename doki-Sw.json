@@ -814,7 +814,7 @@
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
                 "搜索url": "https://www.aidm3.com/search/-------------.html?wd={wd}&submit=",
                 "分类url": "https://www.aidm3.com/type/{cateId}-{catePg}.html",
-                "分类": "国产动漫$guoman#日本动漫$riman#欧美动漫$oman#动漫电影$dmdianying"
+                "分类": "国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#动漫电影$dongmandianying"
             }
         },
         {
