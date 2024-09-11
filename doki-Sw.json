@@ -2389,19 +2389,6 @@
             }
         },
         {
-            "key": "233动漫",
-            "name": "✨臭蛋┃动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.233dm.com/type/{cateId}-{catePg}.html",
-                "分类": "国产漫$2#日韩漫$1#欧美漫$3#特摄片$4#动态漫$5"
-            }
-        },
-        {
             "key": "动漫巴士",
             "name": "✨动漫┃巴士",
             "type": 3,
