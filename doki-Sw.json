@@ -1710,16 +1710,6 @@
             "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
         },
         {
-            "key": "异世界",
-            "name": "⚡异界┃APP",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ysjtv.yy365.vip/api.php/app/"
-        },
-        {
             "key": "千梦影视",
             "name": "⚡千梦┃APP",
             "type": 3,
@@ -2370,6 +2360,19 @@
                 "搜索url": "https://dbwyt.com/search.php?searchword={wd}",
                 "分类url": "https://dbwyt.com/wuba/{cateId}-{catePg}.html",
                 "分类": "国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"
+            }
+        },
+        {
+            "key": "萝卜动漫",
+            "name": "✨萝卜┃动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://katedm.com/list/{cateId}-{catePg}.html",
+                "分类": "国产动漫$3#日本动漫$2#欧美动漫$4#动漫电影$1#短剧$20"
             }
         },
         {
