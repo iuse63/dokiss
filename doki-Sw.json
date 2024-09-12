@@ -1575,8 +1575,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "http://m.678mao.com/List/1-----------/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5"
+                "分类url": "http://m.678mao.com/{cateId}--------{catePg}---.html",
+                "分类": "动作片$List/1#喜剧片$List/2#爱情片$List/3#科幻片$List/4#恐怖片$List/5"
             }
         },
         {
