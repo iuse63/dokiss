@@ -1562,8 +1562,21 @@
             "ext": {
                 "线路数组": "data-toggle=\"tab&&</a>[不包含:蓝光#蓝光①#蓝光②#蓝光③#蓝光④]",
                 "线路标题": ">&&<",
-                "分类url": "https://wniutv.com/wnys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类url": "https://wniutv.com/wnys//area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
+            }
+        },
+        {
+            "key": "天龙",
+            "name": "🧿天龙┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "http://m.678mao.com/List/{cateId}-{class}--{area}-----{catePg}---{year}.html",
+                "分类": "电影$17#电视剧$18#动漫$48#综艺$320#短剧$53"
             }
         },
         {
@@ -1793,15 +1806,6 @@
             "name": "💮明日┃直连",
             "type": 3,
             "api": "csp_WexMingriys",
-            "jar": "./jar/ou.jar",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "愉悦影视",
-            "name": "💮愉悦┃直连",
-            "type": 3,
-            "api": "csp_Wexyuyueys",
             "jar": "./jar/ou.jar",
             "searchable": 1,
             "changeable": 1
