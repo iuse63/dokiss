@@ -511,7 +511,7 @@
             "api": "./js/drpy.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./js/jianpian.js"
+            "ext": "./js/荐片.js"
         },
         {
             "key": "freeok",
