@@ -615,7 +615,7 @@
             "ext": "./js/diduan.js"
         },
         {
-            "key": "荐片纯净",
+            "key": "P4_荐片",
             "name": "👀荐片┃高清┃纯净",
             "type": 3,
             "api": "csp_Jianpian",
@@ -628,14 +628,14 @@
             "name": "👀荐片┃高清┃弹幕",
             "type": 3,
             "api": "csp_Jianpian",
+            "jar": "./jar/TTdanmu.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
                 "danmu": true
-            },
-            "jar": "./jar/TTdanmu.jar;md5;e961e2480dd0836397d58159a8fb8d57"
+            }
         },
         {
             "key": "机器人弹幕",
@@ -2449,12 +2449,14 @@
             "ext": "https://dick.xfani.com/xgapp.php/v1/"
         },
         {
-            "key": "荐片磁力",
+            "key": "dr_荐片",
             "name": "🧲荐片┃磁力",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./js/drpy2.min.js",
             "searchable": 1,
-            "changeable": 1,
+            "playerType": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "./js/荐片.js"
         },
         {
