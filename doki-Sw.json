@@ -505,17 +505,8 @@
             }
         },
         {
-            "key": "荐片影院",
-            "name": "💬荐片┃蓝光┃纯净",
-            "type": 3,
-            "api": "./js/drpy.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/荐片.js"
-        },
-        {
             "key": "freeok",
-            "name": "👀小米┃超清┃流畅",
+            "name": "💚小米┃超清┃流畅",
             "type": 3,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_FreeOK",
@@ -564,10 +555,20 @@
             "ext": "./js/diduan.js"
         },
         {
-            "key": "天天弹幕",
-            "name": "😈天天┃高清┃弹幕",
+            "key": "荐片纯净",
+            "name": "👀荐片┃高清┃纯净",
             "type": 3,
-            "api": "csp_TianTian",
+            "api": "csp_Jianpian",
+            "playerType": "2",
+            "jar": "./jar/JP.jar",
+            "ext": "http://api2.rinhome.com"
+        },
+        {
+            "key": "荐片弹幕",
+            "name": "👀荐片┃高清┃弹幕",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -575,14 +576,6 @@
                 "danmu": true
             },
             "jar": "./jar/TTdanmu.jar;md5;e961e2480dd0836397d58159a8fb8d57"
-        },
-        {
-            "key": "天天影视",
-            "name": "😈天天┃高清┃纯净",
-            "type": 3,
-            "api": "csp_TTian",
-            "jar": "./jar/spider.jar",
-            "ext": "http://op.ysdqjs.cn"
         },
         {
             "key": "机器人弹幕",
@@ -631,6 +624,27 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "天天弹幕",
+            "name": "😈天天┃高清┃弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/TTdanmu.jar;md5;e961e2480dd0836397d58159a8fb8d57"
+        },
+        {
+            "key": "天天影视",
+            "name": "😈天天┃高清┃纯净",
+            "type": 3,
+            "api": "csp_TTian",
+            "jar": "./jar/spider.jar",
+            "ext": "http://op.ysdqjs.cn"
         },
         {
             "key": "小苹果弹幕",
@@ -2438,15 +2452,10 @@
             "key": "荐片磁力",
             "name": "🧲荐片┃磁力",
             "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
+            "api": "./js/drpy.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+            "changeable": 1,
+            "ext": "./js/荐片.js"
         },
         {
             "key": "新6V",
