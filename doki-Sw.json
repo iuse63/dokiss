@@ -1594,6 +1594,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "搜索url": "https://kedays.org/soso/-------------.html?wd={wd}",
+                "搜索数组": "module-card-item-class\">&&</a>",
+                "线路数组": "data-target=\"#ewave-playlist&&</li>[不包含:及格线路#有广线路2#线路1]",
+                "线路标题": ">&&<em>",
                 "分类url": "https://kedays.org/shaixuan/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "短剧$duanju#电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#少儿$shaoer"
             }
