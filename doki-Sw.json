@@ -1293,7 +1293,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "嗅探词": "vod.lyhuicheng.com#.m3u8?#.m3u8#.mp4?#.mp4",
+                "嗅探词": "vod.lyhuicheng.com#index.m3u8#.m3u8#.mp4?#.mp4",
                 "影片年代": "<div class=\"module-info-tag\">&&</div>",
                 "影片地区": "圥忈制作",
                 "影片状态": "备注：&&</div>",
