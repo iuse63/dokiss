@@ -1299,7 +1299,7 @@
                 "影片类型": "module-info-tag\">&&立即播放",
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "嗅探词": "/myd04.com/player/?type=1&url=#.m3u8?#.m3u8#.mp4?#.mp4",
+                "嗅探词": "myd04.com#.m3u8?#.m3u8#.mp4?#.mp4",
                 "分类url": "https://myd04.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
             }
