@@ -90,17 +90,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "主页url": "https://www.dushe1.app/",
-                "分类url": "https://www.dushe1.app/{cateId}-{catePg}.html[https://www.dushe1.app/{cateId}-.html];;ak",
+                "主页url": "https://www.dushe3.com:51111/",
+                "分类url": "https://www.dushe3.com:51111/{cateId}-{catePg}.html[https://www.dushe3.com:51111/{cateId}-.html];;ak",
                 "分类": "豆瓣TOP250&2023最佳影片&毒舌电影&热映电影&热播剧集&热门综艺&Netflix电影&Netflix剧集&经典美剧&海外短画&爱情治愈&漫威宇宙&星爷系列&迪士尼&国产剧&台湾剧&韩国剧&欧美剧&香港剧&泰国剧&日本剧&动作片&喜剧片&科幻片&恐怖片&爱情片&剧情片&战争片&传记片&动画片&国产动漫&日本动漫&韩国动漫&欧美动漫&大陆综艺&香港综艺&台湾综艺&日本综艺&韩国综艺&欧美综艺&短剧",
                 "分类值": "topic/detail/1&topic/detail/460&topic/detail/3&topic/detail/12&topic/detail/15&topic/detail/456&show/1-NETFLIX----3&show/2-NETFLIX----3&topic/detail/399&topic/detail/384&topic/detail/383&topic/detail/33&topic/detail/26&topic/detail/34&show/2--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---3&show/2--%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE---3&show/2--%E9%9F%A9%E5%9B%BD---3&show/2--%E7%BE%8E%E5%9B%BD---3&show/2--%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF---3&show/2--%E6%B3%B0%E5%9B%BD---3&show/2--%E6%97%A5%E6%9C%AC---3&show/1-%E5%8A%A8%E4%BD%9C----3&show/1-%E5%96%9C%E5%89%A7----3&show/1-%E7%A7%91%E5%B9%BB----3&show/1-%E6%81%90%E6%80%96----3&show/1-%E7%88%B1%E6%83%85----3&show/1-%E5%89%A7%E6%83%85----3&show/1-%E6%88%98%E4%BA%89----3&show/1-%E4%BC%A0%E8%AE%B0----3&show/1-%E5%8A%A8%E7%94%BB----3&show/3--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---1&show/3--%E6%97%A5%E6%9C%AC---1&show/3--%E9%9F%A9%E5%9B%BD---1&show/3--%E7%BE%8E%E5%9B%BD---1&show/4--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---3&show/4--%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF---3&show/4--%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE---3&show/4--%E6%97%A5%E6%9C%AC---3&show/4--%E9%9F%A9%E5%9B%BD---3&show/4--%E7%BE%8E%E5%9B%BD---3&show/6-----1",
                 "数组": "module-item\">&&\"v-item-footer\">",
                 "图片": "data-original=\"&&\"[替换:/vod1/>>https://vres.miximixi.me/vod1/]",
-                "标题": "title=\"&&\"[替换:kkys01.com>>圥忈推荐]",
+                "标题": "title=\"&&\"",
                 "副标题": "v-item-bottom\">&&</span>",
                 "链接": "href=\"&&\"",
                 "搜索二次截取": "id=\"units_top\"&&id=\"units_footer\"",
-                "搜索url": "https://www.dushe1.app/search?os=pc&k={wd}",
+                "搜索url": "https://www.dushe3.com:51111/search?os=pc&k={wd}",
                 "搜索数组": "<a&&class=\"tags\"",
                 "搜索图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
                 "搜索标题": "class=\"title\">&&</div>",
@@ -256,7 +256,7 @@
             "name": "😋饭偶┃哥哥┃弹幕",
             "type": 3,
             "api": "csp_WoGG",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725384717374/fan.txt;md5;764421b45d9fff19a772e8366c64c5e5",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -446,96 +446,6 @@
             }
         },
         {
-            "key": "黑木耳资源",
-            "name": "💚木耳┃高清┃无广",
-            "type": 1,
-            "api": "https://heimuer.tv/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0,
-            "playurl": "https://player.heimuer.tv/index.html?url=",
-            "categories": [
-                "剧情片",
-                "动作片",
-                "冒险片",
-                "同性片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "歌舞片",
-                "战争片",
-                "经典片",
-                "动画电影",
-                "网络电影",
-                "其他片",
-                "国产剧",
-                "港剧",
-                "韩剧",
-                "日剧",
-                "泰剧",
-                "台剧",
-                "欧美剧",
-                "新马剧",
-                "其他剧",
-                "国产综艺",
-                "港台综艺",
-                "韩国综艺",
-                "日本综艺",
-                "欧美综艺",
-                "新马泰综艺",
-                "其他综艺",
-                "古装短剧",
-                "虐恋短剧",
-                "逆袭短剧",
-                "神豪短剧",
-                "重生短剧",
-                "复仇短剧",
-                "穿越短剧",
-                "甜宠短剧",
-                "强者短剧",
-                "欧美动漫",
-                "日本动漫",
-                "韩国动漫",
-                "国产动漫",
-                "港台动漫"
-            ]
-        },
-        {
-            "key": "freeok",
-            "name": "💛小米┃超清┃流畅",
-            "type": 3,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_FreeOK",
-            "jar": "./jar/xmpg.jar"
-        },
-        {
-            "key": "Auete",
-            "name": "🏐奥特┃蓝光┃无广",
-            "type": 3,
-            "api": "csp_Auete",
-            "jar": "./jar/fanou.txt",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.pro/"
-        },
-        {
-            "key": "比特",
-            "name": "⚾比特┃超清┃快播",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "jar": "./jar/fanou2.txt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "即看影视",
             "name": "🟡即看┃超清┃多线",
             "type": 3,
@@ -588,11 +498,50 @@
             "ext": {
                 "嗅探词": ".m3u8?#bdric-cdn-tos.1ljx.com#.m3u8#.mp4",
                 "简介": "<div class=\"stui-content__desc col-pd clearfix\"&&</div>",
-                "线路数组": "<div class=\"stui-pannel__head clearfix\"&&</div>[不包含:腾腾播放源#奇奇秒播源#酷酷播放源]",
+                "线路数组": "<div class=\"stui-pannel__head clearfix\"&&</div>",
                 "线路标题": "class=\"title\">&&</h3>",
                 "分类url": "https://wap.qkw2.cc/vod/show/{cateId}--------{catePg}---.html",
                 "分类": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#纪录片$22#悬疑片$25#犯罪片$26#惊悚片$27#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$20#动漫$4#综艺$3#短剧$28"
             }
+        },
+        {
+            "key": "荐片影院",
+            "name": "💬荐片┃蓝光┃纯净",
+            "type": 3,
+            "api": "./js/drpy.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/jianpian.js"
+        },
+        {
+            "key": "freeok",
+            "name": "👀小米┃超清┃流畅",
+            "type": 3,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "csp_FreeOK",
+            "jar": "./jar/xmpg.jar"
+        },
+        {
+            "key": "Auete",
+            "name": "🏐奥特┃蓝光┃无广",
+            "type": 3,
+            "api": "csp_Auete",
+            "jar": "./jar/fanou.txt",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://auete.pro/"
+        },
+        {
+            "key": "比特",
+            "name": "⚾比特┃超清┃快播",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "jar": "./jar/fanou2.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "金牌影视",
@@ -615,20 +564,10 @@
             "ext": "./js/diduan.js"
         },
         {
-            "key": "P4_荐片",
-            "name": "👀荐片┃高清┃纯净",
+            "key": "天天弹幕",
+            "name": "😈天天┃高清┃弹幕",
             "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": "2",
-            "jar": "./jar/JP.jar",
-            "ext": "http://api2.rinhome.com"
-        },
-        {
-            "key": "荐片弹幕",
-            "name": "👀荐片┃高清┃弹幕",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
+            "api": "csp_TianTian",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -636,6 +575,14 @@
                 "danmu": true
             },
             "jar": "./jar/TTdanmu.jar;md5;e961e2480dd0836397d58159a8fb8d57"
+        },
+        {
+            "key": "天天影视",
+            "name": "😈天天┃高清┃纯净",
+            "type": 3,
+            "api": "csp_TTian",
+            "jar": "./jar/spider.jar",
+            "ext": "http://op.ysdqjs.cn"
         },
         {
             "key": "机器人弹幕",
@@ -684,27 +631,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "天天弹幕",
-            "name": "😈天天┃高清┃弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./jar/TTdanmu.jar;md5;e961e2480dd0836397d58159a8fb8d57"
-        },
-        {
-            "key": "天天影视",
-            "name": "😈天天┃高清┃纯净",
-            "type": 3,
-            "api": "csp_TTian",
-            "jar": "./jar/spider.jar",
-            "ext": "http://op.ysdqjs.cn"
         },
         {
             "key": "小苹果弹幕",
@@ -886,7 +812,6 @@
             "filterable": 1,
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
-                "搜索url": "https://www.aidm3.com/search/-------------.html?wd={wd}&submit=",
                 "分类url": "https://www.aidm3.com/type/{cateId}-{catePg}.html",
                 "分类": "国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#动漫电影$dongmandianying"
             }
@@ -1250,28 +1175,6 @@
             }
         },
         {
-            "key": "kimivod",
-            "name": "🧿柯觅┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "图片": "data-src=\"&&\"",
-                "副标题": "<div class=\"absolute right bottom small-margin small-round black white-text small-text\">&nbsp;&&&nbsp;",
-                "影片地区": "圥忈制作",
-                "影片类型": "<nav class=\"scroll no-margin\"&&</nav>",
-                "导演": "導演:&&</a>",
-                "主演": "主演:&&</p>",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<p style=\"position: relative; display: inline-block;\"&&</div>",
-                "线路数组": "<a data-ui=\"&&</div>",
-                "线路标题": ">&&</span>",
-                "分类url": "https://kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"
-            }
-        },
-        {
             "key": "Gofree",
             "name": "🧿喵迅┃蓝光",
             "type": 3,
@@ -1356,25 +1259,6 @@
                 "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
                 "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
-            }
-        },
-        {
-            "key": "飞飞",
-            "name": "🧿飞飞┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片地区": "圥忈制作",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"
             }
         },
         {
@@ -1655,7 +1539,7 @@
             "ext": {
                 "线路数组": "data-toggle=\"tab&&</a>[不包含:蓝光#蓝光①#蓝光②#蓝光③#蓝光④]",
                 "线路标题": ">&&<",
-                "分类url": "https://wniutv.com/wnys//area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类url": "https://wniutv.com/wnys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
             }
         },
@@ -1780,7 +1664,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dmxqfilmtime.com/api.php/app/"
+            "ext": "https://dmxq.info/api.php/app/"
         },
         {
             "key": "思古电影",
@@ -1801,6 +1685,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "异世界",
+            "name": "⚡异界┃APP",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ysjtv.yy365.vip/api.php/app/"
         },
         {
             "key": "千梦影视",
@@ -1860,7 +1754,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://5dshowhub.com/api.php/app/"
+            "ext": "https://5setp.vip/api.php/app/"
         },
         {
             "key": "热播影视",
@@ -1889,6 +1783,25 @@
             "jar": "./jar/ou.jar",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "愉悦影视",
+            "name": "💮愉悦┃直连",
+            "type": 3,
+            "api": "csp_Wexyuyueys",
+            "jar": "./jar/ou.jar",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "看看直连",
+            "name": "💮看看┃直连",
+            "type": 3,
+            "api": "csp_WebIV",
+            "jar": "./jar/ou.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },
         {
             "key": "快看影视",
@@ -2268,6 +2181,66 @@
             ]
         },
         {
+            "key": "黑木耳资源",
+            "name": "🌀木耳┃采集",
+            "type": 1,
+            "api": "https://heimuer.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playurl": "https://player.heimuer.tv/index.html?url=",
+            "categories": [
+                "剧情",
+                "动作",
+                "冒险",
+                "同性",
+                "喜剧",
+                "奇幻",
+                "恐怖",
+                "悬疑",
+                "惊悚",
+                "灾难",
+                "爱情",
+                "犯罪",
+                "科幻",
+                "歌舞",
+                "战争",
+                "经典",
+                "动画电影",
+                "网络电影",
+                "其他",
+                "国产剧",
+                "港剧",
+                "韩剧",
+                "日剧",
+                "泰剧",
+                "台剧",
+                "欧美剧",
+                "新马剧",
+                "其他剧",
+                "国产综艺",
+                "港台综艺",
+                "韩国综艺",
+                "日本综艺",
+                "欧美综艺",
+                "新马泰综艺",
+                "其他综艺",
+                "古装",
+                "虐恋",
+                "逆袭",
+                "神豪",
+                "重生",
+                "复仇",
+                "穿越",
+                "甜宠",
+                "强者",
+                "欧美",
+                "日本",
+                "韩国",
+                "国产",
+                "港台"
+            ]
+        },
+        {
             "key": "csp_xml_ikun",
             "name": "🌀爱坤┃采集",
             "type": 1,
@@ -2387,33 +2360,6 @@
             }
         },
         {
-            "key": "萝卜动漫",
-            "name": "✨萝卜┃动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content\"&&</div>",
-                "分类url": "https://katedm.com/list/{cateId}-{catePg}.html",
-                "分类": "国产动漫$3#日本动漫$2#欧美动漫$4#动漫电影$1#短剧$20"
-            }
-        },
-        {
-            "key": "NyaFun动漫",
-            "name": "✨妮呀┃动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"
-            }
-        },
-        {
             "key": "58动漫",
             "name": "✨吾吧┃动漫",
             "type": 3,
@@ -2449,15 +2395,18 @@
             "ext": "https://dick.xfani.com/xgapp.php/v1/"
         },
         {
-            "key": "dr_荐片",
+            "key": "荐片磁力",
             "name": "🧲荐片┃磁力",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
+            "api": "csp_Jianpian",
             "playerType": 1,
+            "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/荐片.js"
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
         },
         {
             "key": "新6V",
@@ -3359,15 +3308,7 @@
         },
         {
             "key": "cc",
-            "name": "请勿相信视频中广告",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "dh",
-            "name": "导航link3.cc/dokilwss",
+            "name": "请勿相信视频中的广告",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
