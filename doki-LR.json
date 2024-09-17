@@ -967,6 +967,24 @@
             }
         },
         {
+            "key": "玩偶表哥",
+            "name": "表哥🤪弹幕4K",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar": "./jar/wddanmu.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "http://wobgg.run-us-west2.goorm.io",
+                "danmu": true
+            }
+        },
+        {
             "key": "多多网盘",
             "name": "多多🍔弹幕4K",
             "type": 3,
@@ -993,24 +1011,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/duoduo.json"
-        },
-        {
-            "key": "玩偶表哥",
-            "name": "表哥🤪弹幕4K",
-            "type": 3,
-            "api": "csp_Wobg",
-            "jar": "./jar/wddanmu.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://wobgg.run-us-west2.goorm.io",
-                "danmu": true
-            }
         },
         {
             "key": "夸克木偶弹幕",
@@ -3412,12 +3412,17 @@
         {
             "name": "默认",
             "type": 0,
-            "url": "https://im1907.top/?jx="
+            "url": "https://jx.xmflv.cc/?url="
         },
         {
             "name": "智能",
             "type": 0,
             "url": "https://parse.xyplayer.net/?url="
+        },
+        {
+            "name": "独家",
+            "type": 0,
+            "url": "https://www.dujiayy.top/djzy.php?url="
         },
         {
             "name": "极速",
@@ -3496,11 +3501,6 @@
             "name": "xmjk",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "fvjk",
-            "type": 0,
-            "url": "https://jx.xmflv.cc/?url="
         },
         {
             "name": "pyjk",
