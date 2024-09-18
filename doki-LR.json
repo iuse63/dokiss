@@ -1492,7 +1492,7 @@
             "filterable": 1,
             "ext": {
                 "搜索图片": "https://vf.keke02.cn/vod_h5_static_kkdy/v20463/img/brand/splash_image.jpg",
-                "分类url": "https://www.ysgctv.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.ysgc8.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
@@ -1660,19 +1660,6 @@
                 "播放数组": "<div class=\"module-play-list\"&&</div>",
                 "分类url": "https://www.cbhfox.com/chbys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
-            }
-        },
-        {
-            "key": "可乐影院",
-            "name": "🧿可乐┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://keleys.vip/vod/index.html?page={catePg}&type_id={cateId}[替换:https://keleys.vip/vod/index.html?page={catePg}&type_id={cateId}>>https://keleys.vip/{cateId}/index.html}]",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
         {
