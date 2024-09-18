@@ -2083,8 +2083,8 @@
         {
             "key": "优质资源",
             "name": "🌀优质┃采集",
-            "type": 0,
-            "api": "https://api.1080zyku.com/inc/ldg_api.php",
+            "type": 1,
+            "api": "https://api.1080zyku.com/inc/api_mac10_all.php",
             "searchable": 1,
             "quickSearch": 1,
             "playurl": "https://vip.zykbf.com/?url=",
