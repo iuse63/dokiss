@@ -104,7 +104,7 @@
                 "搜索数组": "<a&&class=\"tags\"",
                 "搜索图片": "data-original=\"&&\"[替换:/vod1/>>https://61.147.93.252:15002/vod1/][不包含:https://61.147.93.155:15001/vod_pc_static_kkdy/images/p/logo_placeholder_vertical.png?ver=240905",
                 "搜索标题": "title=\"&&\"",
-                "搜索副标题": "search-result-item-header\">&&</div>",
+                "搜索副标题": "v-item-bottom\">&&</div>[不包含:kkys01.com 可可影视提供]",
                 "搜索链接": "href=\"&&\"",
                 "线路数组": "可可影视提供&&<i[不包含:4K(高峰不卡)]",
                 "线路标题": ">&&</span",
