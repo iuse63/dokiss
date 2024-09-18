@@ -324,7 +324,7 @@
             "key": "黑木耳资源",
             "name": "💚木耳┃高清┃无广",
             "type": 1,
-            "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+            "api": "http://json.heimuer.xyz/api.php/provide/vod/",
             "playurl": "https://hoplayer.com/index.html?url=",
             "searchable": 1,
             "quickSearch": 1
@@ -2083,7 +2083,7 @@
         {
             "key": "优质资源",
             "name": "🌀优质┃采集",
-            "type": 1,
+            "type": 0,
             "api": "https://api.1080zyku.com/inc/api.php",
             "searchable": 1,
             "quickSearch": 1,
