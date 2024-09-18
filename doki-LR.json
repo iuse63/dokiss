@@ -1671,7 +1671,11 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.8090hdw.cc/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+                "影片类型": "类型：&&</a>",
+                "线路数组": "data-source=&&</div>",
+                "线路标题": ">&&<",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
+                "分类url": "https://www.8090hdw.cc/show/1-----------/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                 "分类": "电影$20#剧集$21#动漫$22#综艺$23#福利$24"
             }
         },
