@@ -1671,7 +1671,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://keleys.vip/vod/index.html?page={catePg}&type_id={cateId}[替换:https://keleys.vip/vod/index.html?page={catePg}&type_id={cateId}>>https://keleys.vip/{cateId}/index.html?page={catePg}]",
+                "分类url": "https://keleys.vip/vod/index.html?page={catePg}&type_id={cateId}[替换:https://keleys.vip/vod/index.html?page={catePg}&type_id={cateId}>>https://keleys.vip/{cateId}/index.html}]",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
