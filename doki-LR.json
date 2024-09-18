@@ -2557,23 +2557,6 @@
             "jar": "./jar/XBPQ.jar"
         },
         {
-            "key": "飘花磁力",
-            "name": "🧲飘花┃磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://m.iphdy.com/",
-                "分类url": "https://m.iphdy.com/{cateId}/index_{catePg}.html[https://m.iphdy.com/{cateId}/index.html]",
-                "分类": "大陆剧$daluju#港台剧$gangtaiju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing",
-                "副标题": "<label class=\"title\">&&</label>",
-                "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
-                "播放列表": "<ul>&&</div>[包含:magnet]"
-            }
-        },
-        {
             "key": "电影港",
             "name": "🧲电影港┃磁力",
             "type": 3,
