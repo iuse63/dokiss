@@ -1663,16 +1663,16 @@
             }
         },
         {
-            "key": "草民",
-            "name": "🧿草民┃蓝光",
+            "key": "视觉",
+            "name": "🧿视觉┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.cmyy.org/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$33#纪录片$11"
+                "分类url": "https://www.8090hdw.cc/show/{cateId}-----------/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$20#剧集$21#动漫22#综艺$23#福利$24"
             }
         },
         {
