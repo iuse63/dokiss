@@ -1250,7 +1250,7 @@
         },
         {
             "key": "老王电影",
-            "name": "🧿驿站┃蓝光",
+            "name": "🧿老王┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1259,6 +1259,7 @@
             "ext": {
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
+                "播放数组": "<div class=\"sort-item\"&&</div>",
                 "影片年代": "上映：&&</div>",
                 "影片地区": "圥忈制作",
                 "影片状态": "备注：&&</div>",
