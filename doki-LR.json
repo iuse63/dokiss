@@ -550,14 +550,20 @@
             "jar": "./jar/xmpg.jar"
         },
         {
-            "key": "大米星球",
-            "name": "🥎大米┃超清┃秒播",
+            "key": "8号影院",
+            "name": "🥎⑧号┃超清┃秒播",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dmxqfilmtime.com/api.php/app/"
+            "ext": {
+                "搜索url": "http://www.soutiyi.com/search.php;post;searchword={wd}",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
+                "线路标题": "⑧号播放器",
+                "分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
+                "分类": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
+            }
         },
         {
             "key": "Auete",
@@ -1735,6 +1741,26 @@
             }
         },
         {
+            "key": "555影院",
+            "name": "⚡555┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://e3wuwu4.com/api.php/app/"
+        },
+        {
+            "key": "大米星球",
+            "name": "⚡大米┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dmxqfilmtime.com/api.php/app/"
+        },
+        {
             "key": "奈飞星球",
             "name": "⚡奈飞┃APP",
             "type": 3,
@@ -1893,16 +1919,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key": "555影院",
-            "name": "⚡555┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://e3wuwu4.com/api.php/app/"
         },
         {
             "key": "热播影视",
@@ -2623,7 +2639,7 @@
         },
         {
             "key": "中国蓝光",
-            "name": "🧲蓝光原画┃+",
+            "name": "🧲蓝光原画┃磁力",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
