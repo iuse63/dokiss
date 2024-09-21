@@ -2372,10 +2372,10 @@
             "key": "华为吧资源",
             "name": "🌀微吧┃采集",
             "type": 1,
-            "api": "https://hw8.live/api.php/provide/vod/",
+            "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "playurl": "https://dp.hw8.live/player/?url=",
+            "playurl": "https://player.hw8.lol/player?url=",
             "categories": [
                 "剧情片",
                 "动作片",
@@ -2403,7 +2403,8 @@
                 "日韩综艺",
                 "欧美综艺",
                 "港台综艺",
-                "体育"
+                "体育",
+                "短剧"
             ]
         },
         {
