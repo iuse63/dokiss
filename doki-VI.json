@@ -3079,206 +3079,336 @@
             "name": "☁️阿里┃云盘┃合集",
             "type": 3,
             "api": "csp_AliShare",
-            "jar": "./jar/wddanmu.jar",
+            "jar": "./jar/okjpg.txt",
             "searchable": 1,
             "changeable": 0,
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "share": "./JS/alishare.txt"
+                "token": "file://TV/ali_token.txt",
+                "share": "file://TV/阿里集合.json"
             },
             "style": {
                 "type": "list"
-            }
+            },
+            "timeout": 30
         },
         {
-            "key": "夸克影搜弹幕",
-            "name": "☁️影搜┃夸克┃弹幕",
+            "key": "盘九九弹幕",
+            "name": "☁️九九┃云盘┃弹幕",
             "type": 3,
-            "api": "csp_Yingso",
-            "jar": "./jar/wddanmu.jar",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "danmu": true
-            }
-        },
-        {
-            "key": "搜索弹幕",
-            "name": "☁️盘Se┃网盘┃弹幕",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "jar": "./jar/wddanmu.jar",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "danmu": true
-            }
-        },
-        {
-            "key": "云云弹幕",
-            "name": "☁️小云┃搜索┃弹幕",
-            "type": 3,
-            "api": "csp_Upys",
-            "jar": "./jar/wddanmu.jar",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "danmu": true
-            }
-        },
-        {
-            "key": "云搜弹幕",
-            "name": "☁️UP云┃搜索┃弹幕",
-            "type": 3,
-            "api": "csp_UpYun",
-            "jar": "./jar/wddanmu.jar",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "danmu": true
-            }
-        },
-        {
-            "key": "盘搜弹幕",
-            "name": "☁️盘搜┃网盘┃弹幕",
-            "type": 3,
-            "api": "csp_PanSou",
-            "jar": "./jar/wddanmu.jar",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "danmu": true
-            }
-        },
-        {
-            "key": "易搜弹幕",
-            "name": "☁️易搜┃网盘┃弹幕",
-            "type": 3,
-            "api": "csp_YiSo",
-            "jar": "./jar/wddanmu.jar",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "danmu": true,
-                "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
-            }
-        },
-        {
-            "key": "云盘弹幕",
-            "name": "☁️云盘┃搜索┃弹幕",
-            "type": 3,
-            "api": "csp_Yunpan4k",
-            "jar": "./jar/wddanmu.jar",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "danmu": true
-            }
-        },
-        {
-            "key": "米搜弹幕",
-            "name": "☁️米搜┃网盘┃弹幕",
-            "type": 3,
-            "api": "csp_Qkpanso",
-            "jar": "./jar/wddanmu.jar",
+            "api": "csp_Pan99",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://www.misou.fun",
                 "danmu": true
-            }
+            },
+            "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
         },
         {
-            "key": "夸搜弹幕",
-            "name": "☁️夸克┃搜索┃弹幕",
+            "key": "找资源弹幕",
+            "name": "☁️资源┃云盘┃弹幕",
             "type": 3,
-            "api": "csp_Qkso",
-            "jar": "./jar/wddanmu.jar",
+            "api": "csp_Zhaozy",
             "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
+            "filterable": 0,
+            "changeable": 1,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "username": "shichuanenhui",
+                "password": "zhangxu",
                 "danmu": true
-            }
+            },
+            "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
         },
         {
             "key": "小纸条弹幕",
             "name": "☁️纸条┃云盘┃弹幕",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
-            "jar": "./jar/wddanmu.jar",
             "searchable": 1,
             "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "danmu": true
+            },
+            "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+        },
+        {
+            "key": "PanSou",
+            "name": "☁️盘搜┃网盘┃弹幕",
+            "type": 3,
+            "api": "csp_PanSou",
+            "jar": "./jar/fanou.txt",
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "Up云搜",
+            "name": "☁️UP云┃网盘┃弹幕",
+            "type": 3,
+            "api": "csp_Upys",
+            "jar": "./jar/dongchenzx.jar",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             }
         },
         {
-            "key": "夸克趣盘搜弹幕",
-            "name": "☁️趣搜┃夸克┃弹幕",
+            "key": "PanSearch",
+            "name": "☁️盘Se┃云盘┃弹幕",
             "type": 3,
-            "api": "csp_QuPanSou",
-            "jar": "./jar/wddanmu.jar",
+            "api": "csp_PanSearch",
+            "jar": "./jar/fanou.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "csp_XYQHikerAL_云盘资源",
+            "name": "☁️云盘┃资源┃搜索",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "ext": "./json/yunpan.json"
+        },
+        {
+            "key": "云盘论坛",
+            "name": "☁️云盘┃论坛┃搜索",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/XYQHiker/云盘论坛.json"
+        },
+        {
+            "key": "YiSo",
+            "name": "☁️易搜┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_YiSo",
+            "jar": "./jar/fanou.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "米搜",
+            "name": "☁️米搜┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_MIPanSo",
+            "jar": "./jar/fanou.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "夸搜",
+            "name": "☁️夸克┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "jar": "./jar/fanou.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "pan": "quark",
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "YunSo",
+            "name": "☁️小云┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_YunSo",
+            "jar": "./jar/Pgdanmu.jar",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt$$$https://www.yunso.net$$$null$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "我的小站",
+            "name": "☁️小站┃云盘┃搜索",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/XYQHiker/我的小站.json"
+        },
+        {
+            "key": "csp_XYQHikerAL_77zys",
+            "name": "☁️七七┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/77zys.json"
+        },
+        {
+            "key": "88Pan",
+            "name": "☁️八八┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_EightEight",
+            "jar": "./jar/Pgdanmu.jar",
+            "timeout": 60,
+            "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt$$$https://662688.xyz$$$",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "PanSearch",
+            "name": "☁️盘So┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "jar": "./jar/Pgdanmu.jar",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+        },
+        {
+            "key": "Funletu",
+            "name": "☁️趣搜┃夸克┃搜索",
+            "type": 3,
+            "api": "csp_Funletu",
+            "jar": "./jar/PG.jar",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./json/PG推送.json"
+        },
+        {
+            "key": "混合盘",
+            "name": "☁️混合┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_HunHePan",
+            "jar": "./jar/pg0316.jar",
+            "timeout": 60,
+            "ext": "./json/PG推送.json"
+        },
+        {
+            "key": "Wexyingso",
+            "name": "☁️影搜┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_Wexyingso",
+            "jar": "./jar/yingso.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_XYQHiker_盘搜索",
+            "name": "☁️盘搜┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/pansearch.json"
+        },
+        {
+            "key": "UpYun",
+            "name": "☁️UP云┃网盘┃搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "jar": "./jar/fanou6.txt",
+            "searchable": 1,
+            "filterable": 0,
             "changeable": 1,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true
             }
         },
         {
-            "key": "夸克爱盘搜弹幕",
-            "name": "☁️爱盘┃夸克┃弹幕",
+            "key": "csp_XYQHikerAL_云盘资源分享",
+            "name": "☁️分享┃云盘┃搜索",
             "type": 3,
-            "api": "csp_AiPanSou",
-            "jar": "./jar/wddanmu.jar",
+            "api": "csp_XYQHikerAL",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "danmu": true
-            }
+            "ext": "./json/yunpanfx.json"
         },
         {
-            "key": "夸克盘搜弹幕",
-            "name": "☁️夸克┃盘搜┃弹幕",
+            "key": "csp_XYQHikerAL_阿里云盘网",
+            "name": "☁️阿里┃云盘┃搜索",
             "type": 3,
-            "api": "csp_Qkpanso",
-            "jar": "./jar/wddanmu.jar",
+            "api": "csp_XYQHikerAL",
             "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "danmu": true
-            }
+            "ext": "./json/alypw.json"
+        },
+        {
+            "key": "csp_AliPS",
+            "name": "☁️喵狸┃云盘┃搜索",
+            "type": 3,
+            "api": "csp_AliPS",
+            "jar": "./jar/dongchen.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+        },
+        {
+            "key": "云盘分享社",
+            "name": "☁️云盘┃分享┃搜索",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/XYQBiu/云盘分享社.json"
+        },
+        {
+            "key": "橘子盘搜",
+            "name": "☁️橘子┃云盘┃搜索",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/XYQHiker/橘子盘搜.json"
         },
         {
             "key": "cc",
