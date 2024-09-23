@@ -1,21 +1,205 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726997741182/fan.txt;md5;5769450f1eccd0c8dc347327736e870a",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "spider": "./jar/dokilwss.jar",
+    "wallpaper": "https://api.nguaduot.cn/netbian/random",
+    "lives": [
+        {
+            "name": "LIVE",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "IPV6",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "IPV4",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+            "playerType": 1
+        }
+    ],
     "sites": [
         {
-            "key": "豆豆",
-            "name": "备用公众号【叨观荐影】",
+            "key": "圥忈主页",
+            "name": "🌼圥忈主页┃推荐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://www.kkys02.com/",
+                "分类url": "https://www.kkys02.com/{cateId}-{catePg}.html[https://www.kkys02.com/{cateId}-.html];;ak",
+                "分类": "豆瓣TOP250&2023最佳影片&毒舌电影&热映电影&热播剧集&热门综艺&Netflix电影&Netflix剧集&经典美剧&海外短画&爱情治愈&漫威宇宙&星爷系列&迪士尼&国产剧&台湾剧&韩国剧&欧美剧&香港剧&泰国剧&日本剧&动作片&喜剧片&科幻片&恐怖片&爱情片&剧情片&战争片&传记片&动画片&国产动漫&日本动漫&韩国动漫&欧美动漫&大陆综艺&香港综艺&台湾综艺&日本综艺&韩国综艺&欧美综艺&短剧",
+                "分类值": "topic/detail/1&topic/detail/460&topic/detail/3&topic/detail/12&topic/detail/15&topic/detail/456&show/1-NETFLIX----3&show/2-NETFLIX----3&topic/detail/399&topic/detail/384&topic/detail/383&topic/detail/33&topic/detail/26&topic/detail/34&show/2--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---3&show/2--%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE---3&show/2--%E9%9F%A9%E5%9B%BD---3&show/2--%E7%BE%8E%E5%9B%BD---3&show/2--%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF---3&show/2--%E6%B3%B0%E5%9B%BD---3&show/2--%E6%97%A5%E6%9C%AC---3&show/1-%E5%8A%A8%E4%BD%9C----3&show/1-%E5%96%9C%E5%89%A7----3&show/1-%E7%A7%91%E5%B9%BB----3&show/1-%E6%81%90%E6%80%96----3&show/1-%E7%88%B1%E6%83%85----3&show/1-%E5%89%A7%E6%83%85----3&show/1-%E6%88%98%E4%BA%89----3&show/1-%E4%BC%A0%E8%AE%B0----3&show/1-%E5%8A%A8%E7%94%BB----3&show/3--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---1&show/3--%E6%97%A5%E6%9C%AC---1&show/3--%E9%9F%A9%E5%9B%BD---1&show/3--%E7%BE%8E%E5%9B%BD---1&show/4--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---3&show/4--%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF---3&show/4--%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE---3&show/4--%E6%97%A5%E6%9C%AC---3&show/4--%E9%9F%A9%E5%9B%BD---3&show/4--%E7%BE%8E%E5%9B%BD---3&show/6-----1",
+                "数组": "module-item\">&&\"v-item-footer\">",
+                "图片": "https://61.147.93.252:15002+data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "可可影视提供</span&&</div>",
+                "链接": "href=\"&&\"",
+                "搜索二次截取": "id=\"units_top\"&&id=\"units_footer\"",
+                "搜索url": "https://www.kkys02.com/search?os=pc&k={wd}",
+                "搜索数组": "<a&&class=\"tags\"",
+                "搜索图片": "data-original=\"&&\"[替换:/vod1/>>https://61.147.93.252:15002/vod1/][不包含:https://61.147.93.155:15001/vod_pc_static_kkdy/images/p/logo_placeholder_vertical.png?ver=240905]",
+                "搜索标题": "title=\"&&\"",
+                "搜索副标题": "v-item-bottom\">&&</div>",
+                "搜索链接": "href=\"&&\"",
+                "线路数组": "可可影视提供&&<i[不包含:4K(高峰不卡)]",
+                "线路标题": ">&&</span",
+                "播放数组": "episode-list\"&&</div",
+                "播放列表": "<a&&/a",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+                "影片地区": "圥忈制作",
+                "影片年代": "class=\"detail-tags-item\">&&</a>",
+                "影片类型": "<div class=\"detail-tags fs-margin-top fs-margin-bottom\">&&立即播放",
+                "影片状态": "备注:&&</div>",
+                "导演": "导演:</div>&&</div>",
+                "主演": "演员:</div>&&</div>",
+                "简介": "detail-desc\">&&</p>"
+            }
+        },
+        {
+            "key": "圥忈副页",
+            "name": "🌼圥忈副页┃备用",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "副标题": "极速蓝光",
+                "影片地区": "圥忈制作",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+                "线路数组": "onclick=&&</li>",
+                "线路标题": "圥忈线路",
+                "分类url": "https://www.03yy.cyou/{cateId}-{catePg}.html",
+                "分类": "豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#动作片$type/index5#喜剧片$type/index10#爱情片$type/index6#科幻片$type/index7#恐怖片$type/index8#战争片$type/index9#剧情片$type/index12#动画片$type/index25#大陆剧$type/index13#欧美剧$type/index27#韩国剧$type/index26#香港剧$type/index14#台湾剧$type/index46#日本剧$type/index16#泰国剧$type/index47#海外剧$type/index28#大陆动漫$type/index33#日韩动漫$type/index34#欧美动漫$type/index35#少儿动画$type/index64#大陆综艺$type/index29#港台综艺$type/index30#日韩综艺$type/index31#欧美综艺$type/index32#经典韩剧（国语）$topiclist/19#经典港剧（粤语）$topiclist/18#经典美剧（英语）$topiclist/21"
+            }
+        },
+        {
+            "key": "我的网盘",
+            "name": "📀我的网盘┃配置",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "./jar/wddanmu.jar",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "我的阿里",
+            "name": "📀我的阿里┃网盘",
+            "type": 3,
+            "api": "csp_MyAli",
+            "jar": "./jar/wddanmu.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "我的夸克",
+            "name": "📀我的夸克┃网盘",
+            "type": 3,
+            "api": "csp_MyQuark",
+            "jar": "./jar/wddanmu.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "我的UC",
+            "name": "📀我的优汐┃网盘",
+            "type": 3,
+            "api": "csp_MyUc",
+            "jar": "./jar/wddanmu.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "豆瓣片库",
+            "name": "🌕豆瓣片库┃筛选",
             "type": 3,
             "api": "csp_DouDou",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
         },
         {
+            "key": "OK配置",
+            "name": "🌝欧克┃弹幕┃配置",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "./jar/okjpg.txt",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.43
+            }
+        },
+        {
+            "key": "PG配置",
+            "name": "🌥️磁力┃网盘┃配置",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "./jar/Pgdanmu.jar",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+        },
+        {
+            "key": "Wexconfig",
+            "name": "⛅东辰┃扫码┃配置",
+            "type": 3,
+            "api": "csp_Wexconfig",
+            "jar": "./jar/dongchen0708.jar",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.43
+            }
+        },
+        {
             "key": "玩偶",
-            "name": "👽玩偶哥哥┃4K弹幕",
+            "name": "😋饭偶┃哥哥┃弹幕",
             "type": 3,
             "api": "csp_WoGG",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726997741182/fan.txt;md5;5769450f1eccd0c8dc347327736e870a",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -25,84 +209,6 @@
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
             }
-        },
-        {
-            "key": "YGP",
-            "name": "🚀叨观荐影┃新片",
-            "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "alllive",
-            "name": "📽️一直播┃LIVE",
-            "type": 3,
-            "api": "csp_Alllive",
-            "playerType": 2,
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "米搜",
-            "name": "🦋米盘┃搜搜",
-            "type": 3,
-            "api": "csp_MIPanSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "抠搜",
-            "name": "🍄抠抠┃搜搜",
-            "type": 3,
-            "api": "csp_KkSs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "Lib",
-            "name": "🌟立播┃秒播",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "文采",
-            "name": "💮文采┃秒播",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "糯米",
-            "name": "🍓糯米┃秒播",
-            "type": 3,
-            "api": "csp_Nmyswv",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "原创",
@@ -572,27 +678,5 @@
             "changeable": 0
         }
     ],
-    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
-    "lives": [
-        {
-            "name": "LIVE",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-            "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
-        {
-            "name": "IPV6",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 1
-        },
-        {
-            "name": "IPV4",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-            "playerType": 1
-        }
-    ]
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif"
 }
