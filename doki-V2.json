@@ -268,6 +268,59 @@
             }
         },
         {
+            "key": "摸鱼哥哥",
+            "name": "😝摸鱼┃哥哥┃弹幕",
+            "type": 3,
+            "api": "csp_WoGG",
+            "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto",
+                "siteUrl": "https://www.wogg.net/",
+                "danMu": "弹"
+            }
+        },
+        {
+            "key": "原创",
+            "name": "💥原创┃超清┃蓝光",
+            "type": 3,
+            "api": "csp_YCyz",
+            "jar": "./jar/fanou.txt",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "热播之家",
+            "name": "🔥热播┃高清┃多线",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "线路数组": "data-toggle=\"tab&&</a>",
+                "线路标题": ">&&<",
+                "分类": "国产剧$13#港台剧$14#日韩剧$15#海外剧$16#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#纪录片$3#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21#短剧$28",
+                "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+            }
+        },
+        {
+            "key": "厂长影视",
+            "name": "💛厂长┃超清┃纯净",
+            "type": 3,
+            "api": "./js/drpy.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./js/cangzan.js"
+        },
+        {
             "key": "原创",
             "name": "☀原创┃不卡",
             "type": 3,
