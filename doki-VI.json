@@ -878,7 +878,7 @@
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
                 "线路数组": "<div class=\"myui-panel__head bottom-line active clearfix\"&&</div>[不包含:极速专线]",
                 "线路标题": "<h3 class=\"title\">&&</h3>",
-                "分类url": "http://www.tvyb10.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "http://www.tvyun01.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#动作片$6#喜剧片$7#爱情片$8#科幻片$9#剧情片$10#恐怖片$11#战争片$12#动漫$4#综艺$3"
             }
         },
@@ -1296,7 +1296,7 @@
                 "影片类型": "module-info-tag\">&&立即播放",
                 "线路数组": "data-dropdown-value=&&</div>[不包含:喵讯(APP专享)#喵酷#喵果#喵奇异(APP专享)]",
                 "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "播放数组": "<div class=\"module-play-list\"&&</div>",
+                "播放数组": "class=\"module-play-list-link\"&&</div>",
                 "分类url": "https://gofree.vip/show/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$dianying#电视剧$dianshiju#韩剧$HJ#动漫$dongman#综艺$zongyi#短剧$dydj"
             }
