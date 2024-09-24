@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+    "spider": "./jar/dokilwss.jar",
     "wallpaper": "https://api.nguaduot.cn/netbian/random",
     "lives": [
         {
@@ -145,6 +145,7 @@
             "name": "📀我的网盘┃配置",
             "type": 3,
             "api": "csp_Config",
+            "jar": "./jar/wddanmu.jar",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
@@ -158,6 +159,7 @@
             "name": "📀我的阿里┃网盘",
             "type": 3,
             "api": "csp_MyAli",
+            "jar": "./jar/wddanmu.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -174,6 +176,7 @@
             "name": "📀我的夸克┃网盘",
             "type": 3,
             "api": "csp_MyQuark",
+            "jar": "./jar/wddanmu.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -190,6 +193,7 @@
             "name": "📀我的优汐┃网盘",
             "type": 3,
             "api": "csp_MyUc",
+            "jar": "./jar/wddanmu.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -396,7 +400,8 @@
             "filterable": 1,
             "ext": {
                 "danmu": true
-            }
+            },
+            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
         },
         {
             "key": "厂长",
@@ -421,7 +426,8 @@
             "filterable": 1,
             "ext": {
                 "danmu": true
-            }
+            },
+            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
         },
         {
             "key": "8号影院",
@@ -637,7 +643,8 @@
             "ext": {
                 "site": "https://www.yjys02.com",
                 "danmu": true
-            }
+            },
+            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
         },
         {
             "key": "一起看弹幕",
@@ -649,7 +656,8 @@
             "filterable": 1,
             "ext": {
                 "danmu": true
-            }
+            },
+            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
         },
         {
             "key": "机器人弹幕",
@@ -661,7 +669,8 @@
             "filterable": 1,
             "ext": {
                 "danmu": true
-            }
+            },
+            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
         },
         {
             "key": "️爱看Bot",
@@ -684,7 +693,8 @@
             "filterable": 1,
             "ext": {
                 "danmu": true
-            }
+            },
+            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
         },
         {
             "key": "天天影视",
@@ -704,7 +714,8 @@
             "filterable": 1,
             "ext": {
                 "danmu": true
-            }
+            },
+            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
         },
         {
             "key": "苹果",
@@ -726,7 +737,8 @@
             "filterable": 1,
             "ext": {
                 "danmu": true
-            }
+            },
+            "jar": "./jar/wddanmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
         },
         {
             "key": "南瓜影视",
@@ -878,7 +890,7 @@
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<span class=\"sketch content&&</div>",
                 "线路数组": "<div class=\"myui-panel__head bottom-line active clearfix\"&&</div>[不包含:极速专线]",
                 "线路标题": "<h3 class=\"title\">&&</h3>",
-                "分类url": "http://www.tvyun01.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "http://www.tvyb10.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#动作片$6#喜剧片$7#爱情片$8#科幻片$9#剧情片$10#恐怖片$11#战争片$12#动漫$4#综艺$3"
             }
         },
@@ -956,6 +968,7 @@
             "name": "玩偶😜弹幕4K",
             "type": 3,
             "api": "csp_Wogg",
+            "jar": "./jar/wddanmu.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -972,6 +985,7 @@
             "name": "玩偶😛备用4K",
             "type": 3,
             "api": "csp_Wogg",
+            "jar": "./jar/wddanmu.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -988,6 +1002,7 @@
             "name": "表哥🤪弹幕4K",
             "type": 3,
             "api": "csp_Wobg",
+            "jar": "./jar/wddanmu.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1005,6 +1020,7 @@
             "name": "多多🍔弹幕4K",
             "type": 3,
             "api": "csp_Wobg",
+            "jar": "./jar/wddanmu.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -1032,6 +1048,7 @@
             "name": "木偶🥑弹幕4K",
             "type": 3,
             "api": "csp_Wobg",
+            "jar": "./jar/wddanmu.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -1048,6 +1065,7 @@
             "name": "至臻🥝弹幕4K",
             "type": 3,
             "api": "csp_Wobg",
+            "jar": "./jar/wddanmu.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -1064,6 +1082,7 @@
             "name": "蜡笔🥨弹幕4K",
             "type": 3,
             "api": "csp_Wobg",
+            "jar": "./jar/wddanmu.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -1080,6 +1099,7 @@
             "name": "云星🍪弹幕4K",
             "type": 3,
             "api": "csp_Wobg",
+            "jar": "./jar/wddanmu.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -1096,6 +1116,7 @@
             "name": "奥秘🥘弹幕4K",
             "type": 3,
             "api": "csp_Wobg",
+            "jar": "./jar/wddanmu.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -1449,27 +1470,6 @@
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
                 "分类url": "https://www.iuys.cc/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$2#电视剧$1#动漫$3#综艺$4"
-            }
-        },
-        {
-            "key": "爱看",
-            "name": "🧿爱看┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</span>",
-                "嗅探词": "v3-cha.toutiaovod.com#www.alim3u8.meijuzj.vip#.m3u8#.mp4",
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片地区": "圥忈制作",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
-                "分类url": "https://www.aikanhd.vip/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-                "分类": "电影$1#剧集$2#港台剧$14#日韩剧$15#美剧$16#动漫$4#综艺$3#短剧$20#伦理剧$21"
             }
         },
         {
@@ -1942,6 +1942,16 @@
             "type": 3,
             "api": "csp_Kuaikan",
             "jar": "./jar/ou.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "爱看影视",
+            "name": "💮爱看┃直连",
+            "type": 3,
+            "api": "csp_Ikan",
+            "jar": "./jar/wddanmu.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -2544,6 +2554,7 @@
             "name": "🧲酷吧┃磁力",
             "type": 3,
             "api": "csp_KubaCL",
+            "jar": "./jar/wddanmu.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
