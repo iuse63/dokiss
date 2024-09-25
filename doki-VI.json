@@ -1271,8 +1271,6 @@
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
                 "搜索url": "http://www.dyxz2.com/search.php;post;searchword={wd}",
-                "线路数组": "data-toggle=\"tab\"&&</a>",
-                "线路标题": ">&&<",
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4#伦理$6",
                 "分类url": "http://www.dyxz2.com/list/{cateId}_{catePg}.html?order=time"
             }
