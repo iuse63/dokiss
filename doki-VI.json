@@ -477,6 +477,7 @@
                 "影片类型": "module-info-tag\">&&立即播放",
                 "线路数组": "data-dropdown-value=&&</div>[不包含:请换源1#请换源2#请换源3#请换源4#请换源5#请换源6]",
                 "线路标题": "<span>&&</span>",
+                "搜索图片": "data-original=\"&&\"+.jpg",
                 "分类url": "https://panghuys.com/vodshow/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$7#解说$8#其他$9"
             }
