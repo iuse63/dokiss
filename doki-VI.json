@@ -456,18 +456,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "标题": "<div class=\"titl\">&&</span>",
-                "副标题": "<div class=\"top\">&&</div>",
-                "图片": "src=\"&&\"",
-                "播放数组": "<div class=\"list_wrapper\"&&</div>",
-                "影片地区": "圥忈制作",
-                "影片年代": "class=\"detail-tags-item\">&&</a>",
-                "导演": "导演:&&</a>",
-                "影片类型": "<div class=\"tags\"&&</div>",
-                "简介": "请勿相信影片中的广告，以免上当受骗。简介:</div>&&</div>",
-                "搜索url": "https://m.zjuys.com/vod/search/{wd}",
-                "分类url": "https://m.zjuys.com/vod/show/id/{cateId}/page/{catePg}/year/{year}",
-                "分类": "国产剧$2/type/14#欧美剧$2/type/15#港台剧$2/type/16#日韩剧$2/type/62#其他剧$2/type/68 "
+                "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
             }
         },
         {
