@@ -1061,6 +1061,23 @@
             "ext": "./json/duoduo.json"
         },
         {
+            "key": "夸克土豆弹幕",
+            "name": "土豆🥔弹幕4K",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar": "./jar/wddanmu.jar",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://yunpan.yunpay.cc",
+                "danmu": true
+            }
+        },
+        {
             "key": "夸克木偶弹幕",
             "name": "木偶🥑弹幕4K",
             "type": 3,
@@ -1804,16 +1821,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.kuin.one/api.php/app/"
-        },
-        {
-            "key": "追剧猫",
-            "name": "⚡剧猫┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jingxiang.lingutv.cn/api.php/app/"
         },
         {
             "key": "酷影视",
@@ -3072,6 +3079,22 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./json/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./json/moli.json"
+        },
+        {
+            "key": "夸克团长弹幕",
+            "name": "团长🧭弹幕4K",
+            "type": 3,
+            "api": "csp_Tzfile",
+            "jar": "./jar/wddanmu.jar",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "danmu": true
+            }
         },
         {
             "key": "阿里合集",
