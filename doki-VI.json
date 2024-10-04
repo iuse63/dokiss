@@ -1078,6 +1078,17 @@
             }
         },
         {
+            "key": "土豆臻享",
+            "name": "土豆🥔臻享4K",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "jar": "./jar/dokiss.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/tudou.json"
+        },
+        {
             "key": "夸克木偶弹幕",
             "name": "木偶🥑弹幕4K",
             "type": 3,
