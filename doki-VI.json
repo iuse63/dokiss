@@ -448,7 +448,7 @@
             }
         },
         {
-            "key": "极速电影",
+            "key": "干饭电影",
             "name": "🌞首选┃蓝光┃极速",
             "type": 3,
             "api": "csp_XBPQ",
@@ -456,8 +456,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
+                "分类url": "https://gfvod.com/vodshow/{cateId}---{class}-----{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$20"
             }
         },
         {
