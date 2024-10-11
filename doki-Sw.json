@@ -250,7 +250,7 @@
             "indexs": 0
         },
         {
-            "key": "玩偶",
+            "key": "饭偶",
             "name": "😋饭偶┃哥哥┃弹幕",
             "type": 3,
             "api": "csp_WoGG",
@@ -935,21 +935,14 @@
             "ext": "./json/短剧天堂.json"
         },
         {
-            "key": "王二娃",
+            "key": "玩偶",
             "name": "二娃🐮玩偶4K",
             "type": 3,
             "api": "csp_Wogg",
             "jar": "./jar/wex.txt",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "wogg": true,
-                "danmu": true
-            }
+            "changeable": 1
+
         },
         {
             "key": "Wexxingyun",
