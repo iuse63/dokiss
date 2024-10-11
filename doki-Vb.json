@@ -452,8 +452,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
+                "分类url": "https://www.hongtuo168.com/mo-pmyqb/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}",
+                "分类": "电影$5738#电视剧$5749#综艺$5758#动漫$5767"
             }
         },
         {
