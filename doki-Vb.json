@@ -216,18 +216,12 @@
             "filterable": 0
         },
         {
-            "key": "OK配置",
-            "name": "🌝欧克┃弹幕┃配置",
+            "key": "预告",
+            "name": "🔘豆瓣新片┃预告",
             "type": 3,
-            "api": "csp_Config",
-            "jar": "./jar/okjpg.txt",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.43
-            }
+            "api": "csp_YGP",
+            "jar": "./jar/wddanmu.jar",
+            "searchable": 0
         },
         {
             "key": "PG配置",
@@ -240,14 +234,18 @@
             "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
         },
         {
-            "key": "Wexconfig",
-            "name": "⛅二娃┃扫码┃配置",
+            "key": "OK配置",
+            "name": "⛅欧克┃弹幕┃配置",
             "type": 3,
-            "api": "csp_Wexconfig",
-            "jar": "./jar/wex.txt",
+            "api": "csp_Config",
+            "jar": "./jar/okjpg.txt",
             "searchable": 0,
             "changeable": 0,
-            "indexs": 0
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.43
+            }
         },
         {
             "key": "玩偶",
@@ -933,24 +931,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/短剧天堂.json"
-        },
-        {
-            "key": "王二娃",
-            "name": "二娃🐮放牛4K",
-            "type": 3,
-            "api": "csp_Wextudou",
-            "jar": "./jar/wex.txt",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexxingyun",
-            "name": "二娃🐮幸运4K",
-            "type": 3,
-            "api": "csp_Wexxingyun",
-            "jar": "./jar/wex.txt",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "猫偶哥哥",
