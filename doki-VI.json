@@ -448,7 +448,7 @@
             }
         },
         {
-            "key": "干饭电影",
+            "key": "极速电影",
             "name": "🌞首选┃蓝光┃极速",
             "type": 3,
             "api": "csp_XBPQ",
@@ -456,8 +456,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://gfvod.com/vodshow/{cateId}---{class}-----{catePg}---{year}.html[https://gfvod.com/vodtype/{cateId}-{catePg}.html]",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$20"
+                "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
             }
         },
         {
@@ -2466,6 +2466,21 @@
                 "搜索url": "https://dbwyt.com/search.php?searchword={wd}",
                 "分类url": "https://dbwyt.com/wuba/{cateId}-{catePg}.html",
                 "分类": "国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"
+            }
+        },
+        {
+            "key": "动漫大全",
+            "name": "✨动漫┃大全",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "线路数组": "<a class=\"hl-tabs-btn hl-slide-swiper\"&&</a>",
+                "线路标题": "</i>&nbsp;&&</a>+集",
+                "分类url": "https://dingdingdm.com/list/{cateId}-{catePg}.html",
+                "分类": "动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"
             }
         },
         {
