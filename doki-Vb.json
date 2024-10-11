@@ -452,8 +452,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://hitv.ai/column/{cateId}.html",
-                "分类": "电影$81#电视剧$82#综艺$83#动漫$84#短剧$85#直播$80"
+                "分类url": "https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"
             }
         },
         {
