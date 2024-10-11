@@ -250,7 +250,7 @@
             "indexs": 0
         },
         {
-            "key": "饭偶",
+            "key": "玩偶",
             "name": "😋饭偶┃哥哥┃弹幕",
             "type": 3,
             "api": "csp_WoGG",
@@ -935,11 +935,11 @@
             "ext": "./json/短剧天堂.json"
         },
         {
-            "key": "玩偶",
+            "key": "王二娃",
             "name": "二娃🐮玩偶4K",
             "type": 3,
             "api": "csp_Wogg",
-            "jar": "./jar/wex.txt",
+            "jar": "./jar/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
             "searchable": 1,
             "changeable": 1
 
