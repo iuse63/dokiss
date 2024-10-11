@@ -241,15 +241,13 @@
         },
         {
             "key": "Wexconfig",
-            "name": "⛅东辰┃扫码┃配置",
+            "name": "⛅二娃┃扫码┃配置",
             "type": 3,
             "api": "csp_Wexconfig",
-            "jar": "./jar/dongchen0708.jar",
+            "jar": "./jar/wex.txt",
+            "searchable": 0,
             "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.43
-            }
+            "indexs": 0
         },
         {
             "key": "玩偶",
@@ -937,14 +935,22 @@
             "ext": "./json/短剧天堂.json"
         },
         {
-            "key": "东辰",
-            "name": "东辰🐹扫码4K",
+            "key": "王二娃",
+            "name": "二娃🐮玩偶4K",
             "type": 3,
-            "api": "csp_Wextudou",
-            "jar": "./jar/dongchen0708.jar",
+            "api": "csp_Wogg",
+            "jar": "./jar/wex.txt",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "changeable": 1
+        },
+        {
+            "key": "Wexxingyun",
+            "name": "二娃🐮幸运4K",
+            "type": 3,
+            "api": "csp_Wexxingyun",
+            "jar": "./jar/wex.txt",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "猫偶哥哥",
