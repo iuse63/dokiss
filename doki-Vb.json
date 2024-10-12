@@ -452,7 +452,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "数组": "<li class=\"col-md-8 col-sm-4 col-xs-3 search-col p-s-p\"&&</li>",
+                "数组": "<div class=\"stui-vodlist__box box_re\"&&</li>",
                 "图片": "data-original=\"&&\"",
                 "标题": "title=\"&&\"",
                 "链接": "href=\"&&\"",
