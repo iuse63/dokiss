@@ -452,7 +452,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "主页url": "http://www.jfenz.com/",
                 "数组": "<li class=\"col-md-8 col-sm-4 col-xs-3 search-col p-s-p\"&&</li>",
                 "图片": "data-original=\"&&\"",
                 "标题": "title=\"&&\"",
