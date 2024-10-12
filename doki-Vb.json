@@ -452,12 +452,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "影片类型": "圥忈制作",
+                "线路数组": "class=\"v1&&</a>",
                 "线路标题": "蓝光急速",
                 "播放数组": "<div class=\"v1-div\"&&</div",
                 "播放列表": "<a&&/a>[不包含:蓝光]",
                 "搜索url": "https://www.hongtuo168.com/se-pmyqb/{wd}-1",
-                "分类url": "https://www.hongtuo168.com/mo-pmyqb/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}",
-                "分类": "电影$5738/1#电视剧$5749/1#综艺$5758/1#动漫$5767/1"
+                "分类url": "https://www.hongtuo168.com/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}",
+                "分类": "电影$mo-pmyqb/5738/1#电视剧$mo-pmyqb/5749/1#综艺$mo-pmyqb/5758/1#动漫$mo-pmyqb/5767/1"
             }
         },
         {
