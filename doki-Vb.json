@@ -452,16 +452,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "主页url": "http://www.jfenz.com/",
+                "数组": "<li class=\"col-md-8 col-sm-4 col-xs-3 search-col p-s-p\"&&</li>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
                 "影片类型": "圥忈制作",
                 "线路数组": "class=\"v1&&</a>",
                 "线路标题": "蓝光急速",
                 "播放数组": "<div class=\"v1-div\"&&</div",
                 "播放列表": "<a&&/a>[不包含:蓝光]",
                 "搜索url": "https://www.jfenz.com/search/{wd}-1",
-                "数组": "class=\"stui-vodlist__thumb lazyload\"&&</li",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
                 "分类url": "https://www.jfenz.com/moive/{cateId}/{by}/{class}/{area}/{year}/0/{catePg}",
                 "分类": "电影$5738#电视剧$5749#综艺$5758#动漫$5767"
             }
