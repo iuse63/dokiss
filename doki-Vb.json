@@ -458,8 +458,8 @@
                 "播放数组": "<div class=\"v1-div\"&&</div",
                 "播放列表": "<a&&/a>[不包含:蓝光]",
                 "搜索url": "https://www.hongtuo168.com/se-pmyqb/{wd}-1",
-                "分类url": "https://www.hongtuo168.com/{cateId}/{area}/{by}/{class}/{catePg}/{year}",
-                "分类": "电影$mo-pmyqb/5738#电视剧$mo-pmyqb/5749#综艺$mo-pmyqb/5758#动漫$mo-pmyqb/5767"
+                "分类url": "https://www.hongtuo168.com/mo-pmyqb/{cateId}/{by}/{class}/{area}/{year}/0/{catePg}",
+                "分类": "电影$5738#电视剧$5749#综艺$5758#动漫$5767"
             }
         },
         {
