@@ -452,7 +452,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "线路数组": "<i class=\"fed-icon-font fed-icon-ziliao\"&&</a>",
+                "影片类型": "分类：&&</a>",
                 "线路标题": "</i>&nbsp;&&</a[替换:腾讯视频>>蓝光急速Ⓐ#优酷视频>>蓝光急速Ⓑ#奇艺视频>>蓝光急速Ⓒ#哔哩哔哩>>蓝光急速Ⓓ]",
                 "搜索url": "https://www.hld9158.com/search.php?searchword={wd}",
                 "分类url": "https://www.hld9158.com/dai/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
